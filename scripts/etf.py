@@ -41,7 +41,13 @@ def fetch_gld_weekly(min_date: str = "2024-01-01") -> list[dict]:
     r = requests.get(GLD_ARCHIVE_URL, headers=HEADERS, timeout=60)
     r.raise_for_status()
     # The CSV has a junk header row; pandas handles it
-    df = pd.read_csv(io.BytesIO(r.content), sep=';', encoding='cp1252')
+    df = pd.read_csv(
+        io.BytesIO(r.content),
+        encoding_errors="replace",
+        skiprows=6,
+        engine="python",
+        on_bad_lines="skip",
+    )
 
     # Column names from SPDR are long and contain commas inside; locate by substring
     def col(substring: str) -> str:
