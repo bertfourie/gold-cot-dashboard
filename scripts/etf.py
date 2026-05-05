@@ -23,6 +23,7 @@ import requests
 LOG = logging.getLogger(__name__)
 
 GLD_ARCHIVE_URL = "https://www.ssga.com/library-content/products/fund-data/etfs/us/navhist-us-en-gld.xlsx"
+HEADERS = {"User-Agent": "gold-cot-dashboard/1.0"}
 
 def _last_friday(date: pd.Timestamp) -> pd.Timestamp:
     """Snap a date back to the most recent Friday (week-ending convention)."""
