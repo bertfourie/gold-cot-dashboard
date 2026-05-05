@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gold COT Dashboard — Larry Williams Indices</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="header-left">
+      <svg class="logo" aria-label="Gold COT" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="20" cy="20" r="18" stroke="currentColor" stroke-width="1.5"/>
+        <polygon points="20,8 26,16 34,17 28,24 30,32 20,28 10,32 12,24 6,17 14,16" fill="none" stroke="#e8af34" stroke-width="1.5" stroke-linejoin="round"/>
+        <circle cx="20" cy="20" r="3" fill="#e8af34"/>
+      </svg>
+      <div class="header-title">
+        <h1>Metals COT Dashboard</h1>
+        <span class="subtitle">Larry Williams Commercial Index · COMEX Gold &amp; Silver Futures</span>
+      </div>
+    </div>
+    <div class="header-right">
+      <div class="status-bar">
+        <span class="status-dot" id="status-dot"></span>
+        <span class="status-text" id="status-text">Loading…</span>
+      </div>
+      <div class="metal-toggle">
+        <button class="metal-btn active" data-metal="gold">Gold</button>
+        <button class="metal-btn" data-metal="silver">Silver</button>
+        <button class="metal-btn" data-metal="ratio">Au/Ag Ratio</button>
+      </div>
+      <div class="period-selector">
+        <button class="period-btn active" data-weeks="26">26W</button>
+        <button class="period-btn" data-weeks="52">52W</button>
+        <button class="period-btn" data-weeks="104">All</button>
+      </div>
+      <button class="theme-toggle" data-theme-toggle aria-label="Toggle theme">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- ── GOLD PANEL ─────────────────────────────────────────────────────── -->
+  <div class="metal-panel" id="panel-gold">
+
+  <!-- KPI Strip -->
+  <div class="kpi-strip" id="kpi-strip">
+    <div class="kpi-card">
+      <div class="kpi-label">Report Date</div>
+      <div class="kpi-value mono" id="kpi-date">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Comm. Net Position</div>
+      <div class="kpi-value mono negative" id="kpi-comm-net">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Comm. COT Index</div>
+      <div class="kpi-value mono" id="kpi-comm-idx">—</div>
+      <div class="kpi-signal" id="kpi-comm-signal">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Mgd Money Net</div>
+      <div class="kpi-value mono positive" id="kpi-mm-net">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Mgd Money Index</div>
+      <div class="kpi-value mono" id="kpi-mm-idx">—</div>
+      <div class="kpi-signal" id="kpi-mm-signal">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Large Specs Net</div>
+      <div class="kpi-value mono positive" id="kpi-other-net">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Large Specs Index</div>
+      <div class="kpi-value mono" id="kpi-other-idx">—</div>
+      <div class="kpi-signal" id="kpi-other-signal">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Non-Report. Net</div>
+      <div class="kpi-value mono" id="kpi-nr-net">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Non-Report. Index</div>
+      <div class="kpi-value mono" id="kpi-nr-idx">—</div>
+      <div class="kpi-signal" id="kpi-nr-signal">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Open Interest</div>
+      <div class="kpi-value mono" id="kpi-oi">—</div>
+    </div>
+    <div class="kpi-card kpi-divider">
+      <div class="kpi-label">GLD Holdings</div>
+      <div class="kpi-value mono" id="kpi-gld-tonnes">—</div>
+      <div class="kpi-signal" id="kpi-gld-chg">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">CB Purchases (latest Q)</div>
+      <div class="kpi-value mono" id="kpi-cb-net">—</div>
+      <div class="kpi-signal" id="kpi-cb-period">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">World CB Gold Total</div>
+      <div class="kpi-value mono" id="kpi-cb-total">—</div>
+    </div>
+  </div>
+
+  <!-- Spring Gauge Panel -->
+  <section class="spring-gauge" id="spring-gauge">
+    <div class="spring-gauge-header">
+      <div class="spring-gauge-title-group">
+        <h2 class="spring-gauge-title">Wyckoff Spring Readiness</h2>
+        <p class="spring-gauge-desc">Tracks the gap between current COT positioning and the conditions required for a Wyckoff Spring / Elliott Wave 2 low. All three groups must converge simultaneously.</p>
+      </div>
+      <div class="spring-score-wrap">
+        <div class="spring-score-label">Overall Readiness</div>
+        <div class="spring-score" id="spring-overall-score">0%</div>
+        <div class="spring-score-status" id="spring-overall-status">Far from Spring</div>
+      </div>
+    </div>
+
+    <div class="spring-gauges">
+
+      <!-- Commercials -->
+      <div class="gauge-card">
+        <div class="gauge-card-header">
+          <span class="gauge-label">Commercials</span>
+          <span class="gauge-role">Need: ≥80% index (short covering)</span>
+        </div>
+        <div class="gauge-track">
+          <div class="gauge-bar gauge-bar-comm" id="gauge-bar-comm"></div>
+          <div class="gauge-target" style="left:80%" title="Spring target: 80%"></div>
+        </div>
+        <div class="gauge-footer">
+          <span class="gauge-current" id="gauge-comm-val">—</span>
+          <span class="gauge-gap" id="gauge-comm-gap">—</span>
+        </div>
+      </div>
+
+      <!-- Managed Money -->
+      <div class="gauge-card">
+        <div class="gauge-card-header">
+          <span class="gauge-label">Managed Money</span>
+          <span class="gauge-role">Need: ≤30% index (longs washed out)</span>
+        </div>
+        <div class="gauge-track">
+          <div class="gauge-bar gauge-bar-mm" id="gauge-bar-mm"></div>
+          <div class="gauge-target gauge-target-low" style="left:30%" title="Spring target: 30%"></div>
+        </div>
+        <div class="gauge-footer">
+          <span class="gauge-current" id="gauge-mm-val">—</span>
+          <span class="gauge-gap" id="gauge-mm-gap">—</span>
+        </div>
+      </div>
+
+      <!-- Non-Reportables -->
+      <div class="gauge-card">
+        <div class="gauge-card-header">
+          <span class="gauge-label">Non-Reportables (Retail)</span>
+          <span class="gauge-role">Need: ≤40% index (retail shaken out)</span>
+        </div>
+        <div class="gauge-track">
+          <div class="gauge-bar gauge-bar-nr" id="gauge-bar-nr"></div>
+          <div class="gauge-target gauge-target-low" style="left:40%" title="Spring target: 40%"></div>
+        </div>
+        <div class="gauge-footer">
+          <span class="gauge-current" id="gauge-nr-val">—</span>
+          <span class="gauge-gap" id="gauge-nr-gap">—</span>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="spring-note">
+      <span class="spring-note-label">Spring Trigger</span>
+      Commercials ≥80% <span class="spring-and">AND</span> Managed Money ≤30% <span class="spring-and">AND</span> Non-Reportables ≤40% — simultaneously.
+      When all three converge, cross-check with a corrective (3-wave) Elliott Wave structure on CME GC1! and low-volume test on the range low.
+    </div>
+  </section>
+
+  <!-- Main Charts Area -->
+  <main class="main" id="main-gold">
+    <!-- Chart 1: COT Index -->
+    <section class="chart-section">
+      <div class="chart-header">
+        <div class="chart-title-group">
+          <h2 class="chart-title">Williams COT Index <span class="period-label" id="period-label">26-Week</span></h2>
+          <p class="chart-desc">Stochastic index of net position ÷ open interest. &gt;80 = extreme bull / &lt;20 = extreme bear. Default lookback: 26 weeks (Larry Williams).</p>
+        </div>
+        <div class="legend-pills">
+          <span class="pill pill-gold">■ Commercials</span>
+          <span class="pill pill-blue">■ Managed Money</span>
+          <span class="pill pill-purple">■ Large Specs</span>
+          <span class="pill pill-orange">■ Non-Report.</span>
+        </div>
+      </div>
+      <div class="chart-wrap">
+        <canvas id="cotIndexChart"></canvas>
+      </div>
+    </section>
+
+    <!-- Chart 2: Net Positions -->
+    <section class="chart-section">
+      <div class="chart-header">
+        <div class="chart-title-group">
+          <h2 class="chart-title">Net Positions (contracts)</h2>
+          <p class="chart-desc">Longs minus shorts for each group. Commercials (gold miners + swap dealers) are naturally net short as hedgers.</p>
+        </div>
+        <div class="legend-pills">
+          <span class="pill pill-gold">■ Commercials</span>
+          <span class="pill pill-blue">■ Managed Money</span>
+          <span class="pill pill-purple">■ Large Specs</span>
+          <span class="pill pill-orange">■ Non-Report.</span>
+        </div>
+      </div>
+      <div class="chart-wrap">
+        <canvas id="netPositionsChart"></canvas>
+      </div>
+    </section>
+
+    <!-- Chart 3: Open Interest -->
+    <section class="chart-section half">
+      <div class="chart-header">
+        <div class="chart-title-group">
+          <h2 class="chart-title">Open Interest</h2>
+          <p class="chart-desc">Total open contracts — a market-wide liquidity/commitment gauge.</p>
+        </div>
+      </div>
+      <div class="chart-wrap">
+        <canvas id="oiChart"></canvas>
+      </div>
+    </section>
+
+    <!-- Chart 4: Gross Positions -->
+    <section class="chart-section half">
+      <div class="chart-header">
+        <div class="chart-title-group">
+          <h2 class="chart-title">Comm. Gross Long vs Short</h2>
+          <p class="chart-desc">Producers + swap dealers separated into raw long and short positions.</p>
+        </div>
+      </div>
+      <div class="chart-wrap">
+        <canvas id="grossCommChart"></canvas>
+      </div>
+    </section>
+
+    <!-- Chart 5: ETF Holdings -->
+    <section class="chart-section">
+      <div class="chart-header">
+        <div class="chart-title-group">
+          <h2 class="chart-title">GLD ETF Holdings <span class="badge-live">Weekly</span></h2>
+          <p class="chart-desc">SPDR GLD implied holdings in tonnes (price-ratio method: GLD close ÷ gold spot × shares outstanding). Week-over-week change shown as bars. Source: Yahoo Finance / SPDR.</p>
+        </div>
+        <div class="legend-pills">
+          <span class="pill pill-gold">■ Holdings (t)</span>
+          <span class="pill pill-blue" style="opacity:0.7">■ Weekly Chg (t)</span>
+        </div>
+      </div>
+      <div class="chart-wrap">
+        <canvas id="etfChart"></canvas>
+      </div>
+    </section>
+
+    <!-- Chart 6: Central Bank Purchases -->
+    <section class="chart-section">
+      <div class="chart-header">
+        <div class="chart-title-group">
+          <h2 class="chart-title">Central Bank Gold Purchases <span class="badge-lag">~2-Month Lag</span></h2>
+          <p class="chart-desc">Quarterly net purchases (bars) and cumulative world CB gold holdings (line) in tonnes. Source: World Gold Council / IMF IFS. 2025 Q2–Q3 are WGC estimates; all annual totals verified (2023: 1,051t · 2024: 1,045t · 2025: 863t).</p>
+        </div>
+        <div class="legend-pills">
+          <span class="pill pill-gold">■ World Holdings (t)</span>
+          <span class="pill pill-green">■ Quarterly Net Buys</span>
+        </div>
+      </div>
+      <div class="chart-wrap">
+        <canvas id="cbChart"></canvas>
+      </div>
+    </section>
+
+    <!-- Data Table -->
+    <section class="chart-section table-section">
+      <div class="chart-header">
+        <h2 class="chart-title">Weekly Data</h2>
+        <button class="export-btn" id="export-btn">Export CSV</button>
+      </div>
+      <div class="table-wrap">
+        <table id="cot-table">
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>OI</th>
+              <th>Comm Net</th>
+              <th>Comm Index</th>
+              <th>MM Net</th>
+              <th>MM Index</th>
+              <th>Spec Net</th>
+              <th>Spec Index</th>
+              <th>NR Net</th>
+              <th>NR Index</th>
+            </tr>
+          </thead>
+          <tbody id="table-body"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  </div><!-- /panel-gold -->
+
+  <!-- ── SILVER PANEL ──────────────────────────────────────────────────────── -->
+  <div class="metal-panel hidden" id="panel-silver">
+
+  <!-- Silver KPI Strip -->
+  <div class="kpi-strip" id="kpi-strip-silver">
+    <div class="kpi-card">
+      <div class="kpi-label">Latest Date</div>
+      <div class="kpi-value mono" id="si-kpi-date">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Silver Spot</div>
+      <div class="kpi-value mono" id="si-kpi-spot">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Open Interest</div>
+      <div class="kpi-value mono" id="si-kpi-oi">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Comm. Index</div>
+      <div class="kpi-value mono" id="si-kpi-comm-idx">—</div>
+      <div class="kpi-signal" id="si-kpi-comm-sig">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">MM Index</div>
+      <div class="kpi-value mono" id="si-kpi-mm-idx">—</div>
+      <div class="kpi-signal" id="si-kpi-mm-sig">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">NR Index</div>
+      <div class="kpi-value mono" id="si-kpi-nr-idx">—</div>
+      <div class="kpi-signal" id="si-kpi-nr-sig">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Comm. Net</div>
+      <div class="kpi-value mono" id="si-kpi-comm-net">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">MM Net</div>
+      <div class="kpi-value mono" id="si-kpi-mm-net">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">NR Net</div>
+      <div class="kpi-value mono" id="si-kpi-nr-net">—</div>
+    </div>
+    <div class="kpi-card kpi-divider">
+      <div class="kpi-label">SLV Holdings</div>
+      <div class="kpi-value mono" id="si-kpi-slv-t">—</div>
+      <div class="kpi-signal" id="si-kpi-slv-chg">—</div>
+    </div>
+  </div>
+
+  <!-- Silver Spring Gauge -->
+  <section class="spring-gauge" id="spring-gauge-silver">
+    <div class="spring-gauge-header">
+      <div class="spring-gauge-title-group">
+        <h2 class="spring-gauge-title">Silver — Wyckoff Spring Readiness</h2>
+        <p class="spring-gauge-desc">Note: Silver commercials include industrial users who hedge inputs long. The commercial index can be bullish at higher levels than gold. Targets adjusted accordingly.</p>
+      </div>
+      <div class="spring-score-wrap">
+        <div class="spring-score-label">Overall Readiness</div>
+        <div class="spring-score" id="si-spring-score">0%</div>
+        <div class="spring-score-status" id="si-spring-status">Far from Spring</div>
+      </div>
+    </div>
+    <div class="spring-gauges">
+      <div class="gauge-card">
+        <div class="gauge-card-header">
+          <span class="gauge-label">Commercials</span>
+          <span class="gauge-role">Need: ≥70% index</span>
+        </div>
+        <div class="gauge-track">
+          <div class="gauge-bar gauge-bar-comm" id="si-gauge-bar-comm"></div>
+          <div class="gauge-target" style="left:70%"></div>
+        </div>
+        <div class="gauge-footer">
+          <span class="gauge-current" id="si-gauge-comm-val">—</span>
+          <span class="gauge-gap" id="si-gauge-comm-gap">—</span>
+        </div>
+      </div>
+      <div class="gauge-card">
+        <div class="gauge-card-header">
+          <span class="gauge-label">Managed Money</span>
+          <span class="gauge-role">Need: ≤30% index</span>
+        </div>
+        <div class="gauge-track">
+          <div class="gauge-bar gauge-bar-mm" id="si-gauge-bar-mm"></div>
+          <div class="gauge-target gauge-target-low" style="left:30%"></div>
+        </div>
+        <div class="gauge-footer">
+          <span class="gauge-current" id="si-gauge-mm-val">—</span>
+          <span class="gauge-gap" id="si-gauge-mm-gap">—</span>
+        </div>
+      </div>
+      <div class="gauge-card">
+        <div class="gauge-card-header">
+          <span class="gauge-label">Non-Reportables (Retail)</span>
+          <span class="gauge-role">Need: ≤40% index</span>
+        </div>
+        <div class="gauge-track">
+          <div class="gauge-bar gauge-bar-nr" id="si-gauge-bar-nr"></div>
+          <div class="gauge-target gauge-target-low" style="left:40%"></div>
+        </div>
+        <div class="gauge-footer">
+          <span class="gauge-current" id="si-gauge-nr-val">—</span>
+          <span class="gauge-gap" id="si-gauge-nr-gap">—</span>
+        </div>
+      </div>
+    </div>
+    <div class="spring-note">
+      <span class="spring-note-label">Silver Spring Trigger</span>
+      Commercials ≥70% <span class="spring-and">AND</span> Managed Money ≤30% <span class="spring-and">AND</span> Non-Reportables ≤40%.
+      Also watch the Gold/Silver ratio — extreme readings (above 80) historically precede silver outperformance.
+    </div>
+  </section>
+
+  <!-- Silver Charts -->
+  <main class="main" id="main-silver">
+    <section class="chart-section">
+      <div class="chart-header">
+        <div class="chart-title-group">
+          <h2 class="chart-title">Silver COT Index <span class="badge-live">26W</span></h2>
+          <p class="chart-desc">Williams 26-week stochastic of OI-normalised net positions. Commercials >80 = lightly hedged (bullish). MM/NR >80 = crowded long (contrarian bearish).</p>
+        </div>
+        <div class="legend-pills">
+          <span class="pill pill-teal">■ Comm. Index</span>
+          <span class="pill pill-blue">■ MM Index</span>
+          <span class="pill pill-purple">■ Spec Index</span>
+          <span class="pill pill-orange">■ NR Index</span>
+        </div>
+      </div>
+      <div class="chart-wrap"><canvas id="siCotIndexChart"></canvas></div>
+    </section>
+    <section class="chart-section">
+      <div class="chart-header">
+        <div class="chart-title-group">
+          <h2 class="chart-title">Silver Net Positions</h2>
+          <p class="chart-desc">Weekly net contracts (longs minus shorts) per trader group.</p>
+        </div>
+        <div class="legend-pills">
+          <span class="pill pill-teal">■ Comm. Net</span>
+          <span class="pill pill-blue">■ MM Net</span>
+          <span class="pill pill-purple">■ Spec Net</span>
+          <span class="pill pill-orange">■ NR Net</span>
+        </div>
+      </div>
+      <div class="chart-wrap"><canvas id="siNetChart"></canvas></div>
+    </section>
+    <section class="chart-section">
+      <div class="chart-header">
+        <div class="chart-title-group">
+          <h2 class="chart-title">SLV ETF Holdings <span class="badge-live">Weekly</span></h2>
+          <p class="chart-desc">iShares SLV implied holdings in tonnes with week-over-week change bars.</p>
+        </div>
+        <div class="legend-pills">
+          <span class="pill pill-gold">■ Holdings (t)</span>
+          <span class="pill pill-blue" style="opacity:0.7">■ Weekly Chg (t)</span>
+        </div>
+      </div>
+      <div class="chart-wrap"><canvas id="siSlvChart"></canvas></div>
+    </section>
+  </main>
+
+  </div><!-- /panel-silver -->
+
+  <!-- ── RATIO PANEL ────────────────────────────────────────────────────────── -->
+  <div class="metal-panel hidden" id="panel-ratio">
+
+  <!-- Ratio KPIs -->
+  <div class="kpi-strip" id="kpi-strip-ratio">
+    <div class="kpi-card">
+      <div class="kpi-label">Gold/Silver Ratio</div>
+      <div class="kpi-value mono" id="r-kpi-ratio">—</div>
+      <div class="kpi-signal" id="r-kpi-ratio-sig">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">52W High</div>
+      <div class="kpi-value mono" id="r-kpi-hi">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">52W Low</div>
+      <div class="kpi-value mono" id="r-kpi-lo">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">52W Percentile</div>
+      <div class="kpi-value mono" id="r-kpi-pct">—</div>
+    </div>
+    <div class="kpi-card kpi-divider">
+      <div class="kpi-label">Gold Spot</div>
+      <div class="kpi-value mono" id="r-kpi-gold">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Silver Spot</div>
+      <div class="kpi-value mono" id="r-kpi-silver">—</div>
+    </div>
+    <div class="kpi-card kpi-divider">
+      <div class="kpi-label">Gold COT Index (Comm)</div>
+      <div class="kpi-value mono" id="r-kpi-gold-comm">—</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label">Silver COT Index (Comm)</div>
+      <div class="kpi-value mono" id="r-kpi-silver-comm">—</div>
+    </div>
+  </div>
+
+  <!-- Ratio Charts -->
+  <main class="main" id="main-ratio">
+    <section class="chart-section">
+      <div class="chart-header">
+        <div class="chart-title-group">
+          <h2 class="chart-title">Gold / Silver Ratio <span class="badge-live">Weekly</span></h2>
+          <p class="chart-desc">Ratio above 80 historically signals silver is extremely cheap relative to gold — often precedes silver outperformance. Current ratio: extreme readings preceded major silver rallies in 2020 and 2016. Reference lines: 80 (extreme), 65 (elevated), 50 (neutral).</p>
+        </div>
+        <div class="legend-pills">
+          <span class="pill pill-gold">■ G/S Ratio</span>
+          <span class="pill" style="background:rgba(221,105,116,0.15);color:#dd6974;border-color:rgba(221,105,116,0.3)">■ Extreme (80)</span>
+          <span class="pill pill-orange">■ Elevated (65)</span>
+          <span class="pill pill-green">■ Neutral (50)</span>
+        </div>
+      </div>
+      <div class="chart-wrap"><canvas id="ratioChart"></canvas></div>
+    </section>
+    <section class="chart-section">
+      <div class="chart-header">
+        <div class="chart-title-group">
+          <h2 class="chart-title">COT Commercial Index — Gold vs Silver</h2>
+          <p class="chart-desc">Comparing commercial positioning in both metals simultaneously. Divergences between the two are high-information signals — if gold commercials are bearish but silver commercials are bullish, silver may be the better trade.</p>
+        </div>
+        <div class="legend-pills">
+          <span class="pill pill-gold">■ Gold Comm. Index</span>
+          <span class="pill" style="background:rgba(192,192,192,0.12);color:#c0c0c0;border-color:rgba(192,192,192,0.3)">■ Silver Comm. Index</span>
+        </div>
+      </div>
+      <div class="chart-wrap"><canvas id="ratioCotChart"></canvas></div>
+    </section>
+    <section class="chart-section">
+      <div class="chart-header">
+        <div class="chart-title-group">
+          <h2 class="chart-title">ETF Holdings — GLD vs SLV</h2>
+          <p class="chart-desc">Comparative ETF flow. Both normalised to index (100 = start of period) to show relative flow trends.</p>
+        </div>
+        <div class="legend-pills">
+          <span class="pill pill-gold">■ GLD (indexed)</span>
+          <span class="pill" style="background:rgba(192,192,192,0.12);color:#c0c0c0;border-color:rgba(192,192,192,0.3)">■ SLV (indexed)</span>
+        </div>
+      </div>
+      <div class="chart-wrap"><canvas id="ratioEtfChart"></canvas></div>
+    </section>
+  </main>
+
+  </div><!-- /panel-ratio -->
+
+  <!-- Tooltip overlay -->
+  <div class="interpretation-bar" id="interp-bar">
+    <strong>Reading the COT Index:</strong>
+    Commercials &gt;80 → bullish signal (big hedgers accumulating longs) · &lt;20 → bearish signal.
+    Managed Money &gt;80 → crowded long (contrarian caution) · &lt;20 → crowded short (potential reversal).
+    Non-Reportables (retail) &gt;80 → contrarian bearish · &lt;20 → contrarian bullish.
+    Larry Williams recommends trading WITH commercials against managed money and retail extremes.
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

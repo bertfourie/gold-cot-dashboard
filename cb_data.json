@@ -1,0 +1,74 @@
+[
+  {
+    "period": "2023-Q1",
+    "quarter_end": "2023-03-31",
+    "cb_net_t": 284.0,
+    "cb_total_t": 33915.1
+  },
+  {
+    "period": "2023-Q2",
+    "quarter_end": "2023-06-30",
+    "cb_net_t": 316.0,
+    "cb_total_t": 34231.1
+  },
+  {
+    "period": "2023-Q3",
+    "quarter_end": "2023-09-30",
+    "cb_net_t": 234.0,
+    "cb_total_t": 34465.1
+  },
+  {
+    "period": "2023-Q4",
+    "quarter_end": "2023-12-31",
+    "cb_net_t": 216.8,
+    "cb_total_t": 34681.9
+  },
+  {
+    "period": "2024-Q1",
+    "quarter_end": "2024-03-31",
+    "cb_net_t": 305.0,
+    "cb_total_t": 34986.9
+  },
+  {
+    "period": "2024-Q2",
+    "quarter_end": "2024-06-30",
+    "cb_net_t": 183.0,
+    "cb_total_t": 35169.9
+  },
+  {
+    "period": "2024-Q3",
+    "quarter_end": "2024-09-30",
+    "cb_net_t": 186.0,
+    "cb_total_t": 35355.9
+  },
+  {
+    "period": "2024-Q4",
+    "quarter_end": "2024-12-31",
+    "cb_net_t": 370.6,
+    "cb_total_t": 35726.5
+  },
+  {
+    "period": "2025-Q1",
+    "quarter_end": "2025-03-31",
+    "cb_net_t": 244.0,
+    "cb_total_t": 35970.5
+  },
+  {
+    "period": "2025-Q2",
+    "quarter_end": "2025-06-30",
+    "cb_net_t": 183.0,
+    "cb_total_t": 36153.5
+  },
+  {
+    "period": "2025-Q3",
+    "quarter_end": "2025-09-30",
+    "cb_net_t": 206.0,
+    "cb_total_t": 36359.5
+  },
+  {
+    "period": "2025-Q4",
+    "quarter_end": "2025-12-31",
+    "cb_net_t": 230.3,
+    "cb_total_t": 36589.8
+  }
+]
