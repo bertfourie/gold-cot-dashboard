@@ -2,985 +2,862 @@
   {
     "date": "2023-12-29",
     "gld_close": 188.99,
-    "gold_spot": 189.0,
-    "gld_tonnes": 9430.6,
+    "gld_tonnes": null,
     "gld_tonnes_chg": null,
     "gld_volume_m": null
   },
   {
     "date": "2024-01-05",
     "gld_close": 188.02,
-    "gold_spot": 188.0,
-    "gld_tonnes": 9318.6,
-    "gld_tonnes_chg": -112.0,
+    "gld_tonnes": 857.8,
+    "gld_tonnes_chg": null,
     "gld_volume_m": null
   },
   {
     "date": "2024-01-12",
     "gld_close": 186.52,
-    "gold_spot": 186.5,
-    "gld_tonnes": 9303.0,
-    "gld_tonnes_chg": -15.6,
+    "gld_tonnes": 847.8,
+    "gld_tonnes_chg": -10.0,
     "gld_volume_m": null
   },
   {
     "date": "2024-01-19",
     "gld_close": 187.49,
-    "gold_spot": 187.5,
-    "gld_tonnes": 9268.8,
-    "gld_tonnes_chg": -34.2,
+    "gld_tonnes": 857.5,
+    "gld_tonnes_chg": 9.7,
     "gld_volume_m": null
   },
   {
     "date": "2024-01-26",
     "gld_close": 189.52,
-    "gold_spot": 189.5,
-    "gld_tonnes": 9191.1,
-    "gld_tonnes_chg": -77.7,
+    "gld_tonnes": 863.7,
+    "gld_tonnes_chg": 6.2,
     "gld_volume_m": null
   },
   {
     "date": "2024-02-02",
     "gld_close": 187.91,
-    "gold_spot": 187.9,
-    "gld_tonnes": 9104.0,
-    "gld_tonnes_chg": -87.1,
+    "gld_tonnes": 840.2,
+    "gld_tonnes_chg": -23.5,
     "gld_volume_m": null
   },
   {
     "date": "2024-02-09",
     "gld_close": 185.62,
-    "gold_spot": 185.6,
-    "gld_tonnes": 9038.7,
-    "gld_tonnes_chg": -65.3,
+    "gld_tonnes": 829.2,
+    "gld_tonnes_chg": -11.0,
     "gld_volume_m": null
   },
   {
     "date": "2024-02-16",
     "gld_close": 187.45,
-    "gold_spot": 187.5,
-    "gld_tonnes": 8936.0,
-    "gld_tonnes_chg": -102.7,
+    "gld_tonnes": 832.8,
+    "gld_tonnes_chg": 3.6,
     "gld_volume_m": null
   },
   {
     "date": "2024-02-23",
     "gld_close": 189.67,
-    "gold_spot": 189.7,
-    "gld_tonnes": 8883.2,
-    "gld_tonnes_chg": -52.8,
+    "gld_tonnes": 826.5,
+    "gld_tonnes_chg": -6.3,
     "gld_volume_m": null
   },
   {
     "date": "2024-03-01",
     "gld_close": 199.42,
-    "gold_spot": 199.4,
-    "gld_tonnes": 8814.7,
-    "gld_tonnes_chg": -68.5,
+    "gld_tonnes": 842.3,
+    "gld_tonnes_chg": 15.8,
     "gld_volume_m": null
   },
   {
     "date": "2024-03-08",
     "gld_close": 200.08,
-    "gold_spot": 200.1,
-    "gld_tonnes": 8817.8,
-    "gld_tonnes_chg": 3.1,
+    "gld_tonnes": 809.8,
+    "gld_tonnes_chg": -32.5,
     "gld_volume_m": null
   },
   {
     "date": "2024-03-15",
     "gld_close": 200.96,
-    "gold_spot": 201.0,
-    "gld_tonnes": 9054.2,
-    "gld_tonnes_chg": 236.4,
+    "gld_tonnes": 843.4,
+    "gld_tonnes_chg": 33.6,
     "gld_volume_m": null
   },
   {
     "date": "2024-03-22",
     "gld_close": 205.0,
-    "gold_spot": 205.0,
-    "gld_tonnes": 8964.0,
-    "gld_tonnes_chg": -90.2,
+    "gld_tonnes": 851.5,
+    "gld_tonnes_chg": 8.1,
     "gld_volume_m": null
   },
   {
     "date": "2024-03-29",
     "gld_close": 212.32,
-    "gold_spot": 212.3,
-    "gld_tonnes": 8988.9,
-    "gld_tonnes_chg": 24.9,
+    "gld_tonnes": 860.7,
+    "gld_tonnes_chg": 9.2,
     "gld_volume_m": null
   },
   {
     "date": "2024-04-05",
     "gld_close": 217.14,
-    "gold_spot": 217.1,
-    "gld_tonnes": 8973.4,
-    "gld_tonnes_chg": -15.5,
+    "gld_tonnes": 837.8,
+    "gld_tonnes_chg": -22.9,
     "gld_volume_m": null
   },
   {
     "date": "2024-04-12",
     "gld_close": 220.55,
-    "gold_spot": 220.5,
-    "gld_tonnes": 8939.1,
-    "gld_tonnes_chg": -34.3,
+    "gld_tonnes": 836.7,
+    "gld_tonnes_chg": -1.1,
     "gld_volume_m": null
   },
   {
     "date": "2024-04-19",
     "gld_close": 214.61,
-    "gold_spot": 214.6,
-    "gld_tonnes": 9016.9,
-    "gld_tonnes_chg": 77.8,
+    "gld_tonnes": 806.8,
+    "gld_tonnes_chg": -29.9,
     "gld_volume_m": null
   },
   {
     "date": "2024-04-26",
     "gld_close": 211.83,
-    "gold_spot": 211.8,
-    "gld_tonnes": 8960.9,
-    "gld_tonnes_chg": -56.0,
+    "gld_tonnes": 813.0,
+    "gld_tonnes_chg": 6.2,
     "gld_volume_m": null
   },
   {
     "date": "2024-05-03",
     "gld_close": 215.22,
-    "gold_spot": 215.2,
-    "gld_tonnes": 8970.2,
-    "gld_tonnes_chg": 9.3,
+    "gld_tonnes": 839.8,
+    "gld_tonnes_chg": 26.8,
     "gld_volume_m": null
   },
   {
     "date": "2024-05-10",
     "gld_close": 219.99,
-    "gold_spot": 220.0,
-    "gld_tonnes": 9004.5,
-    "gld_tonnes_chg": 34.3,
+    "gld_tonnes": 836.8,
+    "gld_tonnes_chg": -3.0,
     "gld_volume_m": null
   },
   {
     "date": "2024-05-17",
     "gld_close": 218.12,
-    "gold_spot": 218.1,
-    "gld_tonnes": 9004.5,
-    "gld_tonnes_chg": 0.0,
+    "gld_tonnes": 814.2,
+    "gld_tonnes_chg": -22.6,
     "gld_volume_m": null
   },
   {
     "date": "2024-05-24",
     "gld_close": 217.29,
-    "gold_spot": 217.3,
-    "gld_tonnes": 8992.0,
-    "gld_tonnes_chg": -12.5,
+    "gld_tonnes": 837.7,
+    "gld_tonnes_chg": 23.5,
     "gld_volume_m": null
   },
   {
     "date": "2024-05-31",
     "gld_close": 218.39,
-    "gold_spot": 218.4,
-    "gld_tonnes": 9044.9,
-    "gld_tonnes_chg": 52.9,
+    "gld_tonnes": 850.4,
+    "gld_tonnes_chg": 12.7,
     "gld_volume_m": null
   },
   {
     "date": "2024-06-07",
     "gld_close": 213.76,
-    "gold_spot": 213.8,
-    "gld_tonnes": 8960.9,
-    "gld_tonnes_chg": -84.0,
+    "gld_tonnes": 830.9,
+    "gld_tonnes_chg": -19.5,
     "gld_volume_m": null
   },
   {
     "date": "2024-06-14",
     "gld_close": 217.52,
-    "gold_spot": 217.5,
-    "gld_tonnes": 9010.7,
-    "gld_tonnes_chg": 49.8,
+    "gld_tonnes": 840.7,
+    "gld_tonnes_chg": 9.8,
     "gld_volume_m": null
   },
   {
     "date": "2024-06-21",
     "gld_close": 214.91,
-    "gold_spot": 214.9,
-    "gld_tonnes": 8960.9,
-    "gld_tonnes_chg": -49.8,
+    "gld_tonnes": 831.4,
+    "gld_tonnes_chg": -9.3,
     "gld_volume_m": null
   },
   {
     "date": "2024-06-28",
     "gld_close": 218.39,
-    "gold_spot": 218.4,
-    "gld_tonnes": 9023.1,
-    "gld_tonnes_chg": 62.2,
+    "gld_tonnes": 846.6,
+    "gld_tonnes_chg": 15.2,
     "gld_volume_m": null
   },
   {
     "date": "2024-07-05",
     "gld_close": 222.8,
-    "gold_spot": 222.8,
-    "gld_tonnes": 9026.2,
-    "gld_tonnes_chg": 3.1,
+    "gld_tonnes": 842.0,
+    "gld_tonnes_chg": -4.6,
     "gld_volume_m": null
   },
   {
     "date": "2024-07-12",
     "gld_close": 227.83,
-    "gold_spot": 227.8,
-    "gld_tonnes": 9082.2,
-    "gld_tonnes_chg": 56.0,
+    "gld_tonnes": 857.2,
+    "gld_tonnes_chg": 15.2,
     "gld_volume_m": null
   },
   {
     "date": "2024-07-19",
     "gld_close": 218.61,
-    "gold_spot": 218.6,
-    "gld_tonnes": 9138.2,
-    "gld_tonnes_chg": 56.0,
+    "gld_tonnes": 833.9,
+    "gld_tonnes_chg": -23.3,
     "gld_volume_m": null
   },
   {
     "date": "2024-07-26",
     "gld_close": 226.94,
-    "gold_spot": 226.9,
-    "gld_tonnes": 9141.3,
-    "gld_tonnes_chg": 3.1,
+    "gld_tonnes": 871.7,
+    "gld_tonnes_chg": 37.8,
     "gld_volume_m": null
   },
   {
     "date": "2024-08-02",
     "gld_close": 222.94,
-    "gold_spot": 222.9,
-    "gld_tonnes": 9156.9,
-    "gld_tonnes_chg": 15.6,
+    "gld_tonnes": 841.6,
+    "gld_tonnes_chg": -30.1,
     "gld_volume_m": null
   },
   {
     "date": "2024-08-09",
     "gld_close": 226.18,
-    "gold_spot": 226.2,
-    "gld_tonnes": 9169.3,
-    "gld_tonnes_chg": 12.4,
+    "gld_tonnes": 852.7,
+    "gld_tonnes_chg": 11.1,
     "gld_volume_m": null
   },
   {
     "date": "2024-08-16",
     "gld_close": 229.52,
-    "gold_spot": 229.5,
-    "gld_tonnes": 9278.2,
-    "gld_tonnes_chg": 108.9,
+    "gld_tonnes": 852.3,
+    "gld_tonnes_chg": -0.4,
     "gld_volume_m": null
   },
   {
     "date": "2024-08-23",
     "gld_close": 232.75,
-    "gold_spot": 232.8,
-    "gld_tonnes": 9271.9,
-    "gld_tonnes_chg": -6.3,
+    "gld_tonnes": 860.3,
+    "gld_tonnes_chg": 8.0,
     "gld_volume_m": null
   },
   {
     "date": "2024-08-30",
     "gld_close": 231.94,
-    "gold_spot": 231.9,
-    "gld_tonnes": 9331.0,
-    "gld_tonnes_chg": 59.1,
+    "gld_tonnes": 867.9,
+    "gld_tonnes_chg": 7.6,
     "gld_volume_m": null
   },
   {
     "date": "2024-09-06",
     "gld_close": 235.29,
-    "gold_spot": 235.3,
-    "gld_tonnes": 9418.1,
-    "gld_tonnes_chg": 87.1,
+    "gld_tonnes": 888.7,
+    "gld_tonnes_chg": 20.8,
     "gld_volume_m": null
   },
   {
     "date": "2024-09-13",
     "gld_close": 237.99,
-    "gold_spot": 238.0,
-    "gld_tonnes": 9455.5,
-    "gld_tonnes_chg": 37.4,
+    "gld_tonnes": 871.8,
+    "gld_tonnes_chg": -16.9,
     "gld_volume_m": null
   },
   {
     "date": "2024-09-20",
     "gld_close": 246.14,
-    "gold_spot": 246.1,
-    "gld_tonnes": 9489.7,
-    "gld_tonnes_chg": 34.2,
+    "gld_tonnes": 891.6,
+    "gld_tonnes_chg": 19.8,
     "gld_volume_m": null
   },
   {
     "date": "2024-09-27",
     "gld_close": 244.64,
-    "gold_spot": 244.6,
-    "gld_tonnes": 9492.8,
-    "gld_tonnes_chg": 3.1,
+    "gld_tonnes": 878.2,
+    "gld_tonnes_chg": -13.4,
     "gld_volume_m": null
   },
   {
     "date": "2024-10-04",
     "gld_close": 242.89,
-    "gold_spot": 242.9,
-    "gld_tonnes": 9480.3,
-    "gld_tonnes_chg": -12.5,
+    "gld_tonnes": 870.3,
+    "gld_tonnes_chg": -7.9,
     "gld_volume_m": null
   },
   {
     "date": "2024-10-11",
     "gld_close": 248.41,
-    "gold_spot": 248.4,
-    "gld_tonnes": 9570.5,
-    "gld_tonnes_chg": 90.2,
+    "gld_tonnes": 894.6,
+    "gld_tonnes_chg": 24.3,
     "gld_volume_m": null
   },
   {
     "date": "2024-10-18",
     "gld_close": 252.37,
-    "gold_spot": 252.4,
-    "gld_tonnes": 9673.2,
-    "gld_tonnes_chg": 102.7,
+    "gld_tonnes": 899.6,
+    "gld_tonnes_chg": 5.0,
     "gld_volume_m": null
   },
   {
     "date": "2024-10-25",
     "gld_close": 252.55,
-    "gold_spot": 252.6,
-    "gld_tonnes": 9651.4,
-    "gld_tonnes_chg": -21.8,
+    "gld_tonnes": 889.3,
+    "gld_tonnes_chg": -10.3,
     "gld_volume_m": null
   },
   {
     "date": "2024-11-01",
     "gld_close": 248.64,
-    "gold_spot": 248.6,
-    "gld_tonnes": 9530.1,
-    "gld_tonnes_chg": -121.3,
+    "gld_tonnes": 865.2,
+    "gld_tonnes_chg": -24.1,
     "gld_volume_m": null
   },
   {
     "date": "2024-11-08",
     "gld_close": 237.1,
-    "gold_spot": 237.1,
-    "gld_tonnes": 9387.0,
-    "gld_tonnes_chg": -143.1,
+    "gld_tonnes": 828.1,
+    "gld_tonnes_chg": -37.1,
     "gld_volume_m": null
   },
   {
     "date": "2024-11-15",
     "gld_close": 246.13,
-    "gold_spot": 246.1,
-    "gld_tonnes": 9505.2,
-    "gld_tonnes_chg": 118.2,
+    "gld_tonnes": 911.9,
+    "gld_tonnes_chg": 83.8,
     "gld_volume_m": null
   },
   {
     "date": "2024-11-22",
     "gld_close": 243.86,
-    "gold_spot": 243.9,
-    "gld_tonnes": 9511.4,
-    "gld_tonnes_chg": 6.2,
+    "gld_tonnes": 855.9,
+    "gld_tonnes_chg": -56.0,
     "gld_volume_m": null
   },
   {
     "date": "2024-11-29",
     "gld_close": 243.77,
-    "gold_spot": 243.8,
-    "gld_tonnes": 9439.9,
-    "gld_tonnes_chg": -71.5,
+    "gld_tonnes": 866.1,
+    "gld_tonnes_chg": 10.2,
     "gld_volume_m": null
   },
   {
     "date": "2024-12-06",
     "gld_close": 247.83,
-    "gold_spot": 247.8,
-    "gld_tonnes": 9405.7,
-    "gld_tonnes_chg": -34.2,
+    "gld_tonnes": 883.4,
+    "gld_tonnes_chg": 17.3,
     "gld_volume_m": null
   },
   {
     "date": "2024-12-13",
     "gld_close": 239.33,
-    "gold_spot": 239.3,
-    "gld_tonnes": 9321.7,
-    "gld_tonnes_chg": -84.0,
+    "gld_tonnes": 840.0,
+    "gld_tonnes_chg": -43.4,
     "gld_volume_m": null
   },
   {
     "date": "2024-12-20",
     "gld_close": 241.28,
-    "gold_spot": 241.3,
-    "gld_tonnes": 9452.3,
-    "gld_tonnes_chg": 130.6,
+    "gld_tonnes": 867.6,
+    "gld_tonnes_chg": 27.6,
     "gld_volume_m": null
   },
   {
     "date": "2024-12-27",
     "gld_close": 244.27,
-    "gold_spot": 244.3,
-    "gld_tonnes": 9449.2,
-    "gld_tonnes_chg": -3.1,
+    "gld_tonnes": 881.9,
+    "gld_tonnes_chg": 14.3,
     "gld_volume_m": null
   },
   {
     "date": "2025-01-03",
     "gld_close": 245.48,
-    "gold_spot": 245.5,
-    "gld_tonnes": 9433.7,
-    "gld_tonnes_chg": -15.5,
+    "gld_tonnes": 875.5,
+    "gld_tonnes_chg": -6.4,
     "gld_volume_m": null
   },
   {
     "date": "2025-01-10",
     "gld_close": 250.71,
-    "gold_spot": 250.7,
-    "gld_tonnes": 9408.8,
-    "gld_tonnes_chg": -24.9,
+    "gld_tonnes": 870.9,
+    "gld_tonnes_chg": -4.6,
     "gld_volume_m": null
   },
   {
     "date": "2025-01-17",
     "gld_close": 253.25,
-    "gold_spot": 253.3,
-    "gld_tonnes": 9362.1,
-    "gld_tonnes_chg": -46.7,
+    "gld_tonnes": 864.0,
+    "gld_tonnes_chg": -6.9,
     "gld_volume_m": null
   },
   {
     "date": "2025-01-24",
     "gld_close": 257.2,
-    "gold_spot": 257.2,
-    "gld_tonnes": 9362.1,
-    "gld_tonnes_chg": 0.0,
+    "gld_tonnes": 867.0,
+    "gld_tonnes_chg": 3.0,
     "gld_volume_m": null
   },
   {
     "date": "2025-01-31",
     "gld_close": 261.95,
-    "gold_spot": 262.0,
-    "gld_tonnes": 9362.1,
-    "gld_tonnes_chg": 0.0,
+    "gld_tonnes": 872.0,
+    "gld_tonnes_chg": 5.0,
     "gld_volume_m": null
   },
   {
     "date": "2025-02-07",
     "gld_close": 268.98,
-    "gold_spot": 269.0,
-    "gld_tonnes": 9365.3,
-    "gld_tonnes_chg": 3.2,
+    "gld_tonnes": 878.6,
+    "gld_tonnes_chg": 6.6,
     "gld_volume_m": null
   },
   {
     "date": "2025-02-14",
     "gld_close": 270.51,
-    "gold_spot": 270.5,
-    "gld_tonnes": 9576.8,
-    "gld_tonnes_chg": 211.5,
+    "gld_tonnes": 898.4,
+    "gld_tonnes_chg": 19.8,
     "gld_volume_m": null
   },
   {
     "date": "2025-02-21",
     "gld_close": 265.76,
-    "gold_spot": 265.8,
-    "gld_tonnes": 9819.4,
-    "gld_tonnes_chg": 242.6,
+    "gld_tonnes": 888.3,
+    "gld_tonnes_chg": -10.1,
     "gld_volume_m": null
   },
   {
     "date": "2025-02-28",
     "gld_close": 269.56,
-    "gold_spot": 269.6,
-    "gld_tonnes": 9738.5,
-    "gld_tonnes_chg": -80.9,
+    "gld_tonnes": 925.4,
+    "gld_tonnes_chg": 37.1,
     "gld_volume_m": null
   },
   {
     "date": "2025-03-07",
     "gld_close": 274.32,
-    "gold_spot": 274.3,
-    "gld_tonnes": 9816.3,
-    "gld_tonnes_chg": 77.8,
+    "gld_tonnes": 927.0,
+    "gld_tonnes_chg": 1.6,
     "gld_volume_m": null
   },
   {
     "date": "2025-03-14",
     "gld_close": 280.21,
-    "gold_spot": 280.2,
-    "gld_tonnes": 9869.1,
-    "gld_tonnes_chg": 52.8,
+    "gld_tonnes": 923.5,
+    "gld_tonnes_chg": -3.5,
     "gld_volume_m": null
   },
   {
     "date": "2025-03-21",
     "gld_close": 281.89,
-    "gold_spot": 281.9,
-    "gld_tonnes": 10077.5,
-    "gld_tonnes_chg": 208.4,
+    "gld_tonnes": 941.2,
+    "gld_tonnes_chg": 17.7,
     "gld_volume_m": null
   },
   {
     "date": "2025-03-28",
     "gld_close": 287.54,
-    "gold_spot": 287.5,
-    "gld_tonnes": 10149.1,
-    "gld_tonnes_chg": 71.6,
+    "gld_tonnes": 945.5,
+    "gld_tonnes_chg": 4.3,
     "gld_volume_m": null
   },
   {
     "date": "2025-04-04",
     "gld_close": 289.83,
-    "gold_spot": 289.8,
-    "gld_tonnes": 10298.4,
-    "gld_tonnes_chg": 149.3,
+    "gld_tonnes": 991.0,
+    "gld_tonnes_chg": 45.5,
     "gld_volume_m": null
   },
   {
     "date": "2025-04-11",
     "gld_close": 304.79,
-    "gold_spot": 304.8,
-    "gld_tonnes": 10326.4,
-    "gld_tonnes_chg": 28.0,
+    "gld_tonnes": 976.8,
+    "gld_tonnes_chg": -14.2,
     "gld_volume_m": null
   },
   {
     "date": "2025-04-18",
     "gld_close": 305.61,
-    "gold_spot": 305.6,
-    "gld_tonnes": 10285.9,
-    "gld_tonnes_chg": -40.5,
+    "gld_tonnes": 950.1,
+    "gld_tonnes_chg": -26.7,
     "gld_volume_m": null
   },
   {
     "date": "2025-04-25",
     "gld_close": 296.36,
-    "gold_spot": 296.4,
-    "gld_tonnes": 10251.7,
-    "gld_tonnes_chg": -34.2,
+    "gld_tonnes": 925.6,
+    "gld_tonnes_chg": -24.5,
     "gld_volume_m": null
   },
   {
     "date": "2025-05-02",
     "gld_close": 309.03,
-    "gold_spot": 309.0,
-    "gld_tonnes": 10189.5,
-    "gld_tonnes_chg": -62.2,
+    "gld_tonnes": 974.3,
+    "gld_tonnes_chg": 48.7,
     "gld_volume_m": null
   },
   {
     "date": "2025-05-09",
     "gld_close": 294.14,
-    "gold_spot": 294.1,
-    "gld_tonnes": 10062.0,
-    "gld_tonnes_chg": -127.5,
+    "gld_tonnes": 887.3,
+    "gld_tonnes_chg": -87.0,
     "gld_volume_m": null
   },
   {
     "date": "2025-05-16",
     "gld_close": 302.68,
-    "gold_spot": 302.7,
-    "gld_tonnes": 10021.5,
-    "gld_tonnes_chg": -40.5,
+    "gld_tonnes": 953.3,
+    "gld_tonnes_chg": 66.0,
     "gld_volume_m": null
   },
   {
     "date": "2025-05-23",
     "gld_close": 305.28,
-    "gold_spot": 305.3,
-    "gld_tonnes": 10090.0,
-    "gld_tonnes_chg": 68.5,
+    "gld_tonnes": 915.8,
+    "gld_tonnes_chg": -37.5,
     "gld_volume_m": null
   },
   {
     "date": "2025-05-30",
     "gld_close": 310.99,
-    "gold_spot": 311.0,
-    "gld_tonnes": 10149.1,
-    "gld_tonnes_chg": 59.1,
+    "gld_tonnes": 959.7,
+    "gld_tonnes_chg": 43.9,
     "gld_volume_m": null
   },
   {
     "date": "2025-06-06",
     "gld_close": 312.51,
-    "gold_spot": 312.5,
-    "gld_tonnes": 10177.1,
-    "gld_tonnes_chg": 28.0,
+    "gld_tonnes": 957.2,
+    "gld_tonnes_chg": -2.5,
     "gld_volume_m": null
   },
   {
     "date": "2025-06-13",
     "gld_close": 312.5,
-    "gold_spot": 312.5,
-    "gld_tonnes": 10279.7,
-    "gld_tonnes_chg": 102.6,
+    "gld_tonnes": 936.2,
+    "gld_tonnes_chg": -21.0,
     "gld_volume_m": null
   },
   {
     "date": "2025-06-20",
     "gld_close": 305.76,
-    "gold_spot": 305.8,
-    "gld_tonnes": 10345.0,
-    "gld_tonnes_chg": 65.3,
+    "gld_tonnes": 939.1,
+    "gld_tonnes_chg": 2.9,
     "gld_volume_m": null
   },
   {
     "date": "2025-06-27",
     "gld_close": 306.98,
-    "gold_spot": 307.0,
-    "gld_tonnes": 10282.8,
-    "gld_tonnes_chg": -62.2,
+    "gld_tonnes": 964.2,
+    "gld_tonnes_chg": 25.1,
     "gld_volume_m": null
   },
   {
     "date": "2025-07-04",
     "gld_close": 305.16,
-    "gold_spot": 305.2,
-    "gld_tonnes": 10295.3,
-    "gld_tonnes_chg": 12.5,
+    "gld_tonnes": 942.7,
+    "gld_tonnes_chg": -21.5,
     "gld_volume_m": null
   },
   {
     "date": "2025-07-11",
     "gld_close": 305.68,
-    "gold_spot": 305.7,
-    "gld_tonnes": 10295.3,
-    "gld_tonnes_chg": 0.0,
+    "gld_tonnes": 937.7,
+    "gld_tonnes_chg": -5.0,
     "gld_volume_m": null
   },
   {
     "date": "2025-07-18",
     "gld_close": 310.02,
-    "gold_spot": 310.0,
-    "gld_tonnes": 10388.6,
-    "gld_tonnes_chg": 93.3,
+    "gld_tonnes": 960.5,
+    "gld_tonnes_chg": 22.8,
     "gld_volume_m": null
   },
   {
     "date": "2025-07-25",
     "gld_close": 303.82,
-    "gold_spot": 303.8,
-    "gld_tonnes": 10360.6,
-    "gld_tonnes_chg": -28.0,
+    "gld_tonnes": 944.1,
+    "gld_tonnes_chg": -16.4,
     "gld_volume_m": null
   },
   {
     "date": "2025-08-01",
     "gld_close": 311.62,
-    "gold_spot": 311.6,
-    "gld_tonnes": 10410.3,
-    "gld_tonnes_chg": 49.7,
+    "gld_tonnes": 969.0,
+    "gld_tonnes_chg": 24.9,
     "gld_volume_m": null
   },
   {
     "date": "2025-08-08",
     "gld_close": 307.92,
-    "gold_spot": 307.9,
-    "gld_tonnes": 10438.3,
-    "gld_tonnes_chg": 28.0,
+    "gld_tonnes": 934.6,
+    "gld_tonnes_chg": -34.4,
     "gld_volume_m": null
   },
   {
     "date": "2025-08-15",
     "gld_close": 307.38,
-    "gold_spot": 307.4,
-    "gld_tonnes": 10388.6,
-    "gld_tonnes_chg": -49.7,
+    "gld_tonnes": 957.2,
+    "gld_tonnes_chg": 22.6,
     "gld_volume_m": null
   },
   {
     "date": "2025-08-22",
     "gld_close": 313.75,
-    "gold_spot": 313.7,
-    "gld_tonnes": 10509.9,
-    "gld_tonnes_chg": 121.3,
+    "gld_tonnes": 977.2,
+    "gld_tonnes_chg": 20.0,
     "gld_volume_m": null
   },
   {
     "date": "2025-08-29",
     "gld_close": 326.49,
-    "gold_spot": 326.5,
-    "gld_tonnes": 10662.3,
-    "gld_tonnes_chg": 152.4,
+    "gld_tonnes": 1002.1,
+    "gld_tonnes_chg": 24.9,
     "gld_volume_m": null
   },
   {
     "date": "2025-09-05",
     "gld_close": 334.13,
-    "gold_spot": 334.1,
-    "gld_tonnes": 10621.8,
-    "gld_tonnes_chg": -40.5,
+    "gld_tonnes": 982.3,
+    "gld_tonnes_chg": -19.8,
     "gld_volume_m": null
   },
   {
     "date": "2025-09-12",
     "gld_close": 335.41,
-    "gold_spot": 335.4,
-    "gld_tonnes": 10597.0,
-    "gld_tonnes_chg": -24.8,
+    "gld_tonnes": 974.0,
+    "gld_tonnes_chg": -8.3,
     "gld_volume_m": null
   },
   {
     "date": "2025-09-19",
     "gld_close": 343.4,
-    "gold_spot": 343.4,
-    "gld_tonnes": 10827.1,
-    "gld_tonnes_chg": 230.1,
+    "gld_tonnes": 1012.7,
+    "gld_tonnes_chg": 38.7,
     "gld_volume_m": null
   },
   {
     "date": "2025-09-26",
     "gld_close": 356.94,
-    "gold_spot": 356.9,
-    "gld_tonnes": 11032.4,
-    "gld_tonnes_chg": 205.3,
+    "gld_tonnes": 1043.1,
+    "gld_tonnes_chg": 30.4,
     "gld_volume_m": null
   },
   {
     "date": "2025-10-03",
     "gld_close": 369.91,
-    "gold_spot": 369.9,
-    "gld_tonnes": 11010.6,
-    "gld_tonnes_chg": -21.8,
+    "gld_tonnes": 1049.5,
+    "gld_tonnes_chg": 6.4,
     "gld_volume_m": null
   },
   {
     "date": "2025-10-10",
     "gld_close": 392.22,
-    "gold_spot": 392.2,
-    "gld_tonnes": 11240.8,
-    "gld_tonnes_chg": 230.2,
+    "gld_tonnes": 1108.9,
+    "gld_tonnes_chg": 59.4,
     "gld_volume_m": null
   },
   {
     "date": "2025-10-17",
     "gld_close": 381.31,
-    "gold_spot": 381.3,
-    "gld_tonnes": 11433.6,
-    "gld_tonnes_chg": 192.8,
+    "gld_tonnes": 1040.5,
+    "gld_tonnes_chg": -68.4,
     "gld_volume_m": null
   },
   {
     "date": "2025-10-24",
     "gld_close": 367.51,
-    "gold_spot": 367.5,
-    "gld_tonnes": 11303.0,
-    "gld_tonnes_chg": -130.6,
+    "gld_tonnes": 1008.6,
+    "gld_tonnes_chg": -31.9,
     "gld_volume_m": null
   },
   {
     "date": "2025-10-31",
     "gld_close": 366.78,
-    "gold_spot": 366.8,
-    "gld_tonnes": 11303.0,
-    "gld_tonnes_chg": 0.0,
+    "gld_tonnes": 1041.1,
+    "gld_tonnes_chg": 32.5,
     "gld_volume_m": null
   },
   {
     "date": "2025-11-07",
     "gld_close": 386.0,
-    "gold_spot": 386.0,
-    "gld_tonnes": 11396.3,
-    "gld_tonnes_chg": 93.3,
+    "gld_tonnes": 1099.9,
+    "gld_tonnes_chg": 58.8,
     "gld_volume_m": null
   },
   {
     "date": "2025-11-14",
     "gld_close": 376.3,
-    "gold_spot": 376.3,
-    "gld_tonnes": 11296.8,
-    "gld_tonnes_chg": -99.5,
+    "gld_tonnes": 1040.0,
+    "gld_tonnes_chg": -59.9,
     "gld_volume_m": null
   },
   {
     "date": "2025-11-21",
     "gld_close": 380.78,
-    "gold_spot": 380.8,
-    "gld_tonnes": 11362.1,
-    "gld_tonnes_chg": 65.3,
+    "gld_tonnes": 1061.3,
+    "gld_tonnes_chg": 21.3,
     "gld_volume_m": null
   },
   {
     "date": "2025-11-28",
     "gld_close": 386.36,
-    "gold_spot": 386.4,
-    "gld_tonnes": 11418.1,
-    "gld_tonnes_chg": 56.0,
+    "gld_tonnes": 1045.8,
+    "gld_tonnes_chg": -15.5,
     "gld_volume_m": null
   },
   {
     "date": "2025-12-05",
     "gld_close": 389.07,
-    "gold_spot": 389.1,
-    "gld_tonnes": 11424.3,
-    "gld_tonnes_chg": 6.2,
+    "gld_tonnes": 1055.1,
+    "gld_tonnes_chg": 9.3,
     "gld_volume_m": null
   },
   {
     "date": "2025-12-12",
     "gld_close": 398.51,
-    "gold_spot": 398.5,
-    "gld_tonnes": 11443.0,
-    "gld_tonnes_chg": 18.7,
+    "gld_tonnes": 1060.5,
+    "gld_tonnes_chg": 5.4,
     "gld_volume_m": null
   },
   {
     "date": "2025-12-19",
     "gld_close": 412.05,
-    "gold_spot": 412.1,
-    "gld_tonnes": 11614.0,
-    "gld_tonnes_chg": 171.0,
+    "gld_tonnes": 1097.3,
+    "gld_tonnes_chg": 36.8,
     "gld_volume_m": null
   },
   {
     "date": "2025-12-26",
     "gld_close": 396.12,
-    "gold_spot": 396.1,
-    "gld_tonnes": 11638.9,
-    "gld_tonnes_chg": 24.9,
+    "gld_tonnes": 1018.0,
+    "gld_tonnes_chg": -79.3,
     "gld_volume_m": null
   },
   {
     "date": "2026-01-02",
     "gld_close": 407.25,
-    "gold_spot": 407.3,
-    "gld_tonnes": 11601.6,
-    "gld_tonnes_chg": -37.3,
+    "gld_tonnes": 1095.1,
+    "gld_tonnes_chg": 77.1,
     "gld_volume_m": null
   },
   {
     "date": "2026-01-09",
     "gld_close": 423.91,
-    "gold_spot": 423.9,
-    "gld_tonnes": 11688.7,
-    "gld_tonnes_chg": 87.1,
+    "gld_tonnes": 1103.5,
+    "gld_tonnes_chg": 8.4,
     "gld_volume_m": null
   },
   {
     "date": "2026-01-16",
     "gld_close": 444.22,
-    "gold_spot": 444.2,
-    "gld_tonnes": 11741.6,
-    "gld_tonnes_chg": 52.9,
+    "gld_tonnes": 1136.7,
+    "gld_tonnes_chg": 33.2,
     "gld_volume_m": null
   },
   {
     "date": "2026-01-23",
     "gld_close": 496.87,
-    "gold_spot": 496.9,
-    "gld_tonnes": 11816.2,
-    "gld_tonnes_chg": 74.6,
+    "gld_tonnes": 1179.8,
+    "gld_tonnes_chg": 43.1,
     "gld_volume_m": null
   },
   {
     "date": "2026-01-30",
     "gld_close": 445.55,
-    "gold_spot": 445.5,
-    "gld_tonnes": 11722.9,
-    "gld_tonnes_chg": -93.3,
+    "gld_tonnes": 1108.0,
+    "gld_tonnes_chg": -71.8,
     "gld_volume_m": null
   },
   {
     "date": "2026-02-06",
     "gld_close": 463.53,
-    "gold_spot": 463.5,
-    "gld_tonnes": 11707.3,
-    "gld_tonnes_chg": -15.6,
+    "gld_tonnes": 1096.0,
+    "gld_tonnes_chg": -12.0,
     "gld_volume_m": null
   },
   {
     "date": "2026-02-13",
     "gld_close": 459.97,
-    "gold_spot": 460.0,
-    "gld_tonnes": 11735.3,
-    "gld_tonnes_chg": 28.0,
+    "gld_tonnes": 1074.8,
+    "gld_tonnes_chg": -21.2,
     "gld_volume_m": null
   },
   {
     "date": "2026-02-20",
     "gld_close": 474.87,
-    "gold_spot": 474.9,
-    "gld_tonnes": 11943.7,
-    "gld_tonnes_chg": 208.4,
+    "gld_tonnes": 1121.1,
+    "gld_tonnes_chg": 46.3,
     "gld_volume_m": null
   },
   {
     "date": "2026-02-27",
     "gld_close": 469.02,
-    "gold_spot": 469.0,
-    "gld_tonnes": 11704.2,
-    "gld_tonnes_chg": -239.5,
+    "gld_tonnes": 1049.5,
+    "gld_tonnes_chg": -71.6,
     "gld_volume_m": null
   },
   {
     "date": "2026-03-06",
     "gld_close": 471.37,
-    "gold_spot": 471.4,
-    "gld_tonnes": 11707.3,
-    "gld_tonnes_chg": 3.1,
+    "gld_tonnes": 1072.4,
+    "gld_tonnes_chg": 22.9,
     "gld_volume_m": null
   },
   {
     "date": "2026-03-13",
     "gld_close": 422.66,
-    "gold_spot": 422.7,
-    "gld_tonnes": 11558.1,
-    "gld_tonnes_chg": -149.2,
+    "gld_tonnes": 966.9,
+    "gld_tonnes_chg": -105.5,
     "gld_volume_m": null
   },
   {
     "date": "2026-03-20",
     "gld_close": 409.4,
-    "gold_spot": 409.4,
-    "gld_tonnes": 11455.4,
-    "gld_tonnes_chg": -102.7,
+    "gld_tonnes": 1026.1,
+    "gld_tonnes_chg": 59.2,
     "gld_volume_m": null
   },
   {
     "date": "2026-03-27",
     "gld_close": 426.18,
-    "gold_spot": 426.2,
-    "gld_tonnes": 11436.7,
-    "gld_tonnes_chg": -18.7,
+    "gld_tonnes": 1085.1,
+    "gld_tonnes_chg": 59.0,
     "gld_volume_m": null
   },
   {
     "date": "2026-04-03",
     "gld_close": 437.47,
-    "gold_spot": 437.5,
-    "gld_tonnes": 11452.3,
-    "gld_tonnes_chg": 15.6,
+    "gld_tonnes": 1077.1,
+    "gld_tonnes_chg": -8.0,
     "gld_volume_m": null
   },
   {
     "date": "2026-04-10",
     "gld_close": 440.28,
-    "gold_spot": 440.3,
-    "gld_tonnes": 11461.6,
-    "gld_tonnes_chg": 9.3,
+    "gld_tonnes": 1059.7,
+    "gld_tonnes_chg": -17.4,
     "gld_volume_m": null
   },
   {
     "date": "2026-04-17",
     "gld_close": 433.41,
-    "gold_spot": 433.4,
-    "gld_tonnes": 11421.2,
-    "gld_tonnes_chg": -40.4,
+    "gld_tonnes": 1019.0,
+    "gld_tonnes_chg": -40.7,
     "gld_volume_m": null
   },
   {
     "date": "2026-04-24",
     "gld_close": 423.48,
-    "gold_spot": 423.5,
-    "gld_tonnes": 11275.0,
-    "gld_tonnes_chg": -146.2,
+    "gld_tonnes": 1011.1,
+    "gld_tonnes_chg": -7.9,
     "gld_volume_m": null
   },
   {
     "date": "2026-05-01",
     "gld_close": 425.8,
-    "gold_spot": 425.8,
-    "gld_tonnes": 11275.0,
-    "gld_tonnes_chg": 0.0,
+    "gld_tonnes": 1036.9,
+    "gld_tonnes_chg": 25.8,
     "gld_volume_m": null
   }
 ]
