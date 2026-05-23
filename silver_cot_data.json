@@ -16638,5 +16638,21 @@
     "mm_cot_index": 88.9,
     "other_cot_index": 20.5,
     "nr_cot_index": 95.9
+  },
+  {
+    "date": "2026-05-19",
+    "oi": 100751,
+    "comm_net": -42668,
+    "mm_net": 11564,
+    "other_net": 13107,
+    "nr_net": 17997,
+    "comm_long": 21557,
+    "comm_short": 64225,
+    "mm_long": 17944,
+    "mm_short": 6380,
+    "comm_cot_index": 0.0,
+    "mm_cot_index": 60.9,
+    "other_cot_index": 72.8,
+    "nr_cot_index": 100.0
   }
 ]
