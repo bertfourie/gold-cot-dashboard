@@ -1,13 +1,13 @@
 """
-Williams COT Index calculation — mirrors the JS implementation in app.js
+Williams COT Index calculation - mirrors the JS implementation in app.js
 exactly, so the dashboard sees identical numbers whether they were computed
 client-side or by this pipeline.
 
 Formula:
-  For each week i and each trader group:
-    cot_index = (oi_ratio_i - min(window)) / (max(window) - min(window)) × 100
-  where window = previous `lookback` weeks (default 26).
-  If max == min, the index is 50 (no information in the window).
+    For each week i and each trader group:
+        cot_index = (oi_ratio_i - min(window)) / (max(window) - min(window)) x 100
+        where window = previous `lookback` weeks (default 26).
+    If max == min, the index is 50 (no information in the window).
 """
 from __future__ import annotations
 
@@ -28,9 +28,9 @@ def williams_cot_index(records: list[dict], lookback: int = 26) -> list[dict]:
     for i, rec in enumerate(records):
         new = dict(rec)
         start = max(0, i - lookback + 1)
-        window = records[start : i ]
+        window = records[start : i]
         for src_key, dst_key in keys:
-                        vals = [w[src_key] for w in window]
+            vals = [w[src_key] for w in window]
             if not vals:
                 new[dst_key] = 50.0
                 continue
@@ -39,8 +39,8 @@ def williams_cot_index(records: list[dict], lookback: int = 26) -> list[dict]:
             if rng == 0:
                 new[dst_key] = 50.0
             else:
-                new[dst_key] = round((rec[src_key] - mn) / rng * 100, 1
-              out.append(new)
+                new[dst_key] = round((rec[src_key] - mn) / rng * 100, 1)
+        out.append(new)
     return out
 
 
@@ -63,8 +63,4 @@ def silver_cot_index(records: list[dict], lookback: int = 26) -> list[dict]:
             }
         )
     indexed = williams_cot_index(enriched, lookback)
-    # Strip the helper oi_ratio fields back out — silver schema doesn't keep them
-    for rec in indexed:
-        for k in ("comm_oi_ratio", "mm_oi_ratio", "other_oi_ratio", "nr_oi_ratio"):
-            rec.pop(k, None)
     return indexed
