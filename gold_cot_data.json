@@ -46,10 +46,10 @@
     "mm_oi_ratio": 0.21209933784027651,
     "other_oi_ratio": 0.10100712134042228,
     "nr_oi_ratio": 0.11122756361314325,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 0.0
+    "comm_cot_index": 50.0,
+    "mm_cot_index": 50.0,
+    "other_cot_index": 50.0,
+    "nr_cot_index": 50.0
   },
   {
     "date": "2006-06-27",
@@ -72,10 +72,10 @@
     "mm_oi_ratio": 0.19541376212904174,
     "other_oi_ratio": 0.09702891843614343,
     "nr_oi_ratio": 0.10457018535532414,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 0.0
+    "comm_cot_index": 167.0,
+    "mm_cot_index": -56.2,
+    "other_cot_index": -527.7,
+    "nr_cot_index": -64.7
   },
   {
     "date": "2006-07-03",
@@ -100,8 +100,8 @@
     "nr_oi_ratio": 0.10340854700854701,
     "comm_cot_index": 69.7,
     "mm_cot_index": 16.0,
-    "other_cot_index": 100.0,
-    "nr_cot_index": 0.0
+    "other_cot_index": 304.4,
+    "nr_cot_index": -6.9
   },
   {
     "date": "2006-07-11",
@@ -126,8 +126,8 @@
     "nr_oi_ratio": 0.09632088626216884,
     "comm_cot_index": 62.9,
     "mm_cot_index": 74.3,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 0.0
+    "other_cot_index": -6.5,
+    "nr_cot_index": -39.2
   },
   {
     "date": "2006-07-18",
@@ -151,8 +151,8 @@
     "other_oi_ratio": 0.08666382957727368,
     "nr_oi_ratio": 0.10089244964166327,
     "comm_cot_index": 48.6,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
+    "mm_cot_index": 105.7,
+    "other_cot_index": -61.4,
     "nr_cot_index": 18.1
   },
   {
@@ -282,7 +282,7 @@
     "nr_oi_ratio": 0.10492502555761322,
     "comm_cot_index": 68.7,
     "mm_cot_index": 3.2,
-    "other_cot_index": 100.0,
+    "other_cot_index": 120.1,
     "nr_cot_index": 34.2
   },
   {
@@ -306,10 +306,10 @@
     "mm_oi_ratio": 0.1610264546480137,
     "other_oi_ratio": 0.12415185494646973,
     "nr_oi_ratio": 0.09600335519193193,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
-    "nr_cot_index": 0.0
+    "comm_cot_index": 123.3,
+    "mm_cot_index": -70.1,
+    "other_cot_index": 126.0,
+    "nr_cot_index": -1.3
   },
   {
     "date": "2006-09-05",
@@ -334,7 +334,7 @@
     "nr_oi_ratio": 0.10291001818761367,
     "comm_cot_index": 65.4,
     "mm_cot_index": 25.1,
-    "other_cot_index": 100.0,
+    "other_cot_index": 103.2,
     "nr_cot_index": 27.1
   },
   {
@@ -358,10 +358,10 @@
     "mm_oi_ratio": 0.14795014653312294,
     "other_oi_ratio": 0.12328749476667418,
     "nr_oi_ratio": 0.0852565134778268,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 129.4,
+    "mm_cot_index": -15.7,
     "other_cot_index": 94.7,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -42.1
   },
   {
     "date": "2006-09-19",
@@ -384,10 +384,10 @@
     "mm_oi_ratio": 0.12764383830696144,
     "other_oi_ratio": 0.11132354565876533,
     "nr_oi_ratio": 0.07382799553171378,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 140.2,
+    "mm_cot_index": -21.0,
     "other_cot_index": 63.7,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -31.5
   },
   {
     "date": "2006-09-26",
@@ -410,8 +410,8 @@
     "mm_oi_ratio": 0.10938356397687475,
     "other_oi_ratio": 0.11122912518540767,
     "nr_oi_ratio": 0.0746925870990317,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 111.5,
+    "mm_cot_index": -15.6,
     "other_cot_index": 63.5,
     "nr_cot_index": 1.8
   },
@@ -436,10 +436,10 @@
     "mm_oi_ratio": 0.09832305757956766,
     "other_oi_ratio": 0.11204156757002409,
     "nr_oi_ratio": 0.06835017345068396,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 109.8,
+    "mm_cot_index": -8.2,
     "other_cot_index": 65.6,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -11.5
   },
   {
     "date": "2006-10-10",
@@ -462,10 +462,10 @@
     "mm_oi_ratio": 0.06898593900020639,
     "other_oi_ratio": 0.11780312207436387,
     "nr_oi_ratio": 0.06027894678595037,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 117.0,
+    "mm_cot_index": -20.1,
     "other_cot_index": 80.5,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -15.2
   },
   {
     "date": "2006-10-17",
@@ -489,7 +489,7 @@
     "other_oi_ratio": 0.11953012504736643,
     "nr_oi_ratio": 0.06632512315270936,
     "comm_cot_index": 97.7,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -1.6,
     "other_cot_index": 85.0,
     "nr_cot_index": 9.9
   },
@@ -514,9 +514,9 @@
     "mm_oi_ratio": 0.030696807580262848,
     "other_oi_ratio": 0.1383331624436818,
     "nr_oi_ratio": 0.07376099976477542,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "comm_cot_index": 102.0,
+    "mm_cot_index": -19.9,
+    "other_cot_index": 133.6,
     "nr_cot_index": 22.0
   },
   {
@@ -800,9 +800,9 @@
     "mm_oi_ratio": 0.07481057063348404,
     "other_oi_ratio": 0.07733149923307366,
     "nr_oi_ratio": 0.08289711100431378,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 103.6,
     "mm_cot_index": 20.6,
-    "other_cot_index": 0.0,
+    "other_cot_index": -18.1,
     "nr_cot_index": 37.8
   },
   {
@@ -854,7 +854,7 @@
     "nr_oi_ratio": 0.09436355278388542,
     "comm_cot_index": 58.4,
     "mm_cot_index": 61.9,
-    "other_cot_index": 0.0,
+    "other_cot_index": -6.2,
     "nr_cot_index": 60.1
   },
   {
@@ -905,7 +905,7 @@
     "other_oi_ratio": 0.075038233925128,
     "nr_oi_ratio": 0.10560875058182059,
     "comm_cot_index": 12.7,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 104.9,
     "other_cot_index": 2.3,
     "nr_cot_index": 90.2
   },
@@ -930,9 +930,9 @@
     "mm_oi_ratio": 0.25330076284876907,
     "other_oi_ratio": 0.07227359207033972,
     "nr_oi_ratio": 0.10625598626193664,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
+    "comm_cot_index": -7.4,
+    "mm_cot_index": 114.2,
+    "other_cot_index": -2.0,
     "nr_cot_index": 91.5
   },
   {
@@ -982,9 +982,9 @@
     "mm_oi_ratio": 0.2703496284520239,
     "other_oi_ratio": 0.07191290000120437,
     "nr_oi_ratio": 0.10034324529392637,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
+    "comm_cot_index": -5.5,
+    "mm_cot_index": 107.7,
+    "other_cot_index": -0.5,
     "nr_cot_index": 79.7
   },
   {
@@ -1036,7 +1036,7 @@
     "nr_oi_ratio": 0.08773122890710244,
     "comm_cot_index": 53.2,
     "mm_cot_index": 59.5,
-    "other_cot_index": 0.0,
+    "other_cot_index": -1.0,
     "nr_cot_index": 54.6
   },
   {
@@ -1089,7 +1089,7 @@
     "comm_cot_index": 27.6,
     "mm_cot_index": 67.2,
     "other_cot_index": 2.5,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 120.4
   },
   {
     "date": "2007-04-03",
@@ -1164,8 +1164,8 @@
     "mm_oi_ratio": 0.2800420168067227,
     "other_oi_ratio": 0.07541491596638655,
     "nr_oi_ratio": 0.10304621848739495,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -7.7,
+    "mm_cot_index": 104.0,
     "other_cot_index": 6.2,
     "nr_cot_index": 62.3
   },
@@ -1218,7 +1218,7 @@
     "nr_oi_ratio": 0.09010891398923983,
     "comm_cot_index": 17.5,
     "mm_cot_index": 91.6,
-    "other_cot_index": 0.0,
+    "other_cot_index": -11.8,
     "nr_cot_index": 19.1
   },
   {
@@ -1244,7 +1244,7 @@
     "nr_oi_ratio": 0.0879659009952027,
     "comm_cot_index": 17.5,
     "mm_cot_index": 99.0,
-    "other_cot_index": 0.0,
+    "other_cot_index": -30.1,
     "nr_cot_index": 13.4
   },
   {
@@ -1271,7 +1271,7 @@
     "comm_cot_index": 44.0,
     "mm_cot_index": 67.7,
     "other_cot_index": 24.0,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -3.3
   },
   {
     "date": "2007-05-22",
@@ -1297,7 +1297,7 @@
     "comm_cot_index": 71.8,
     "mm_cot_index": 41.0,
     "other_cot_index": 36.9,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -34.6
   },
   {
     "date": "2007-05-29",
@@ -1323,7 +1323,7 @@
     "comm_cot_index": 80.4,
     "mm_cot_index": 36.5,
     "other_cot_index": 47.1,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -23.3
   },
   {
     "date": "2007-06-05",
@@ -1375,7 +1375,7 @@
     "comm_cot_index": 98.8,
     "mm_cot_index": 14.8,
     "other_cot_index": 66.5,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -3.5
   },
   {
     "date": "2007-06-19",
@@ -1424,10 +1424,10 @@
     "mm_oi_ratio": 0.06499362182317732,
     "other_oi_ratio": 0.08974340104013345,
     "nr_oi_ratio": 0.05030664311647532,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
-    "nr_cot_index": 0.0
+    "comm_cot_index": 113.4,
+    "mm_cot_index": -4.8,
+    "other_cot_index": 105.2,
+    "nr_cot_index": -5.0
   },
   {
     "date": "2007-07-03",
@@ -1504,7 +1504,7 @@
     "nr_oi_ratio": 0.08503481632282577,
     "comm_cot_index": 65.8,
     "mm_cot_index": 24.1,
-    "other_cot_index": 100.0,
+    "other_cot_index": 100.5,
     "nr_cot_index": 49.3
   },
   {
@@ -1737,7 +1737,7 @@
     "other_oi_ratio": 0.0625642905883671,
     "nr_oi_ratio": 0.08558668662857609,
     "comm_cot_index": 4.8,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 108.4,
     "other_cot_index": 25.1,
     "nr_cot_index": 50.1
   },
@@ -1762,8 +1762,8 @@
     "mm_oi_ratio": 0.3266643232149134,
     "other_oi_ratio": 0.06804476748800871,
     "nr_oi_ratio": 0.07703228293778136,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -5.2,
+    "mm_cot_index": 112.3,
     "other_cot_index": 40.1,
     "nr_cot_index": 45.6
   },
@@ -1788,8 +1788,8 @@
     "mm_oi_ratio": 0.3454241642322076,
     "other_oi_ratio": 0.05445989110295204,
     "nr_oi_ratio": 0.08215247860138906,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -3.9,
+    "mm_cot_index": 107.2,
     "other_cot_index": 3.0,
     "nr_cot_index": 54.3
   },
@@ -1814,9 +1814,9 @@
     "mm_oi_ratio": 0.3668202102253909,
     "other_oi_ratio": 0.04869742186274339,
     "nr_oi_ratio": 0.079150469782279,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
+    "comm_cot_index": -4.6,
+    "mm_cot_index": 107.6,
+    "other_cot_index": -12.8,
     "nr_cot_index": 54.7
   },
   {
@@ -1841,8 +1841,8 @@
     "other_oi_ratio": 0.04046731366973084,
     "nr_oi_ratio": 0.07695630249322134,
     "comm_cot_index": 0.2,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
+    "mm_cot_index": 103.3,
+    "other_cot_index": -20.0,
     "nr_cot_index": 57.9
   },
   {
@@ -1868,7 +1868,7 @@
     "nr_oi_ratio": 0.07449879563855673,
     "comm_cot_index": 13.7,
     "mm_cot_index": 92.6,
-    "other_cot_index": 0.0,
+    "other_cot_index": -27.1,
     "nr_cot_index": 52.6
   },
   {
@@ -1894,7 +1894,7 @@
     "nr_oi_ratio": 0.0707664051859587,
     "comm_cot_index": 13.5,
     "mm_cot_index": 94.7,
-    "other_cot_index": 0.0,
+    "other_cot_index": -3.9,
     "nr_cot_index": 44.5
   },
   {
@@ -1972,7 +1972,7 @@
     "nr_oi_ratio": 0.07266358331869718,
     "comm_cot_index": 29.6,
     "mm_cot_index": 79.8,
-    "other_cot_index": 0.0,
+    "other_cot_index": -3.2,
     "nr_cot_index": 48.6
   },
   {
@@ -2282,7 +2282,7 @@
     "mm_oi_ratio": 0.3743066196670934,
     "other_oi_ratio": 0.05994757739900662,
     "nr_oi_ratio": 0.07778051031110943,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -8.0,
     "mm_cot_index": 99.0,
     "other_cot_index": 61.4,
     "nr_cot_index": 58.7
@@ -2308,8 +2308,8 @@
     "mm_oi_ratio": 0.3832956640512547,
     "other_oi_ratio": 0.05007258227522464,
     "nr_oi_ratio": 0.08264987576282848,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -1.9,
+    "mm_cot_index": 103.0,
     "other_cot_index": 45.2,
     "nr_cot_index": 73.2
   },
@@ -2389,7 +2389,7 @@
     "comm_cot_index": 9.3,
     "mm_cot_index": 79.5,
     "other_cot_index": 44.5,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 119.1
   },
   {
     "date": "2008-03-18",
@@ -2466,7 +2466,7 @@
     "nr_oi_ratio": 0.07959578660617488,
     "comm_cot_index": 26.8,
     "mm_cot_index": 51.6,
-    "other_cot_index": 100.0,
+    "other_cot_index": 113.3,
     "nr_cot_index": 54.8
   },
   {
@@ -2492,7 +2492,7 @@
     "nr_oi_ratio": 0.07165555042582242,
     "comm_cot_index": 31.4,
     "mm_cot_index": 46.6,
-    "other_cot_index": 100.0,
+    "other_cot_index": 116.4,
     "nr_cot_index": 34.6
   },
   {
@@ -2571,7 +2571,7 @@
     "comm_cot_index": 69.3,
     "mm_cot_index": 18.0,
     "other_cot_index": 87.8,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -0.7
   },
   {
     "date": "2008-05-06",
@@ -2595,8 +2595,8 @@
     "other_oi_ratio": 0.07294675854945694,
     "nr_oi_ratio": 0.06169811016251634,
     "comm_cot_index": 77.8,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "mm_cot_index": -5.4,
+    "other_cot_index": 102.2,
     "nr_cot_index": 9.9
   },
   {
@@ -2621,9 +2621,9 @@
     "other_oi_ratio": 0.07812599514143519,
     "nr_oi_ratio": 0.05608958320064781,
     "comm_cot_index": 92.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
-    "nr_cot_index": 0.0
+    "mm_cot_index": -17.5,
+    "other_cot_index": 110.3,
+    "nr_cot_index": -4.3
   },
   {
     "date": "2008-05-20",
@@ -2674,7 +2674,7 @@
     "nr_oi_ratio": 0.062123950891147924,
     "comm_cot_index": 8.5,
     "mm_cot_index": 60.1,
-    "other_cot_index": 100.0,
+    "other_cot_index": 171.6,
     "nr_cot_index": 14.6
   },
   {
@@ -2802,7 +2802,7 @@
     "mm_oi_ratio": 0.3608809651079203,
     "other_oi_ratio": 0.07153521464250825,
     "nr_oi_ratio": 0.09065858109228983,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -6.3,
     "mm_cot_index": 80.3,
     "other_cot_index": 48.6,
     "nr_cot_index": 83.8
@@ -2959,8 +2959,8 @@
     "other_oi_ratio": 0.11211642975731037,
     "nr_oi_ratio": 0.0687971641991078,
     "comm_cot_index": 81.4,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "mm_cot_index": -21.6,
+    "other_cot_index": 108.8,
     "nr_cot_index": 30.8
   },
   {
@@ -2984,10 +2984,10 @@
     "mm_oi_ratio": 0.19818590334827652,
     "other_oi_ratio": 0.10308927307436563,
     "nr_oi_ratio": 0.04769309967611162,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 146.2,
+    "mm_cot_index": -35.9,
     "other_cot_index": 87.3,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -20.4
   },
   {
     "date": "2008-08-26",
@@ -3010,10 +3010,10 @@
     "mm_oi_ratio": 0.1765414979278612,
     "other_oi_ratio": 0.09995115110067601,
     "nr_oi_ratio": 0.04370138090060562,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 116.5,
+    "mm_cot_index": -13.0,
     "other_cot_index": 82.9,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -8.0
   },
   {
     "date": "2008-09-02",
@@ -3036,10 +3036,10 @@
     "mm_oi_ratio": 0.1404314085512739,
     "other_oi_ratio": 0.10331416136364231,
     "nr_oi_ratio": 0.038814738092062075,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 118.5,
+    "mm_cot_index": -19.2,
     "other_cot_index": 87.3,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -9.1
   },
   {
     "date": "2008-09-09",
@@ -3062,10 +3062,10 @@
     "mm_oi_ratio": 0.11301045360068468,
     "other_oi_ratio": 0.09752618494518482,
     "nr_oi_ratio": 0.02885693035008355,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 117.9,
+    "mm_cot_index": -12.4,
     "other_cot_index": 78.1,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -17.3
   },
   {
     "date": "2008-09-16",
@@ -3116,7 +3116,7 @@
     "nr_oi_ratio": 0.05501637456755391,
     "comm_cot_index": 49.2,
     "mm_cot_index": 34.5,
-    "other_cot_index": 100.0,
+    "other_cot_index": 133.3,
     "nr_cot_index": 42.3
   },
   {
@@ -3220,7 +3220,7 @@
     "nr_oi_ratio": 0.030021410327039616,
     "comm_cot_index": 64.3,
     "mm_cot_index": 24.7,
-    "other_cot_index": 100.0,
+    "other_cot_index": 109.5,
     "nr_cot_index": 1.9
   },
   {
@@ -3247,7 +3247,7 @@
     "comm_cot_index": 88.8,
     "mm_cot_index": 13.8,
     "other_cot_index": 51.5,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -11.8
   },
   {
     "date": "2008-11-04",
@@ -3296,10 +3296,10 @@
     "mm_oi_ratio": 0.12548709972739433,
     "other_oi_ratio": 0.0921856441287679,
     "nr_oi_ratio": 0.018844165523719418,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 101.0,
     "mm_cot_index": 5.0,
     "other_cot_index": 36.7,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -3.9
   },
   {
     "date": "2008-11-18",
@@ -3608,8 +3608,8 @@
     "mm_oi_ratio": 0.3386891835697454,
     "other_oi_ratio": 0.10979878020607124,
     "nr_oi_ratio": 0.06434817261932264,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -15.8,
+    "mm_cot_index": 116.1,
     "other_cot_index": 58.5,
     "nr_cot_index": 91.1
   },
@@ -3634,10 +3634,10 @@
     "mm_oi_ratio": 0.34960012312673505,
     "other_oi_ratio": 0.11674808612031078,
     "nr_oi_ratio": 0.07151041161951559,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -9.1,
+    "mm_cot_index": 104.8,
     "other_cot_index": 69.4,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 106.1
   },
   {
     "date": "2009-02-17",
@@ -3660,10 +3660,10 @@
     "mm_oi_ratio": 0.3405988070317102,
     "other_oi_ratio": 0.11822940719375918,
     "nr_oi_ratio": 0.08417422757100705,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -1.7,
     "mm_cot_index": 96.2,
     "other_cot_index": 71.7,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 124.0
   },
   {
     "date": "2009-02-24",
@@ -3687,7 +3687,7 @@
     "other_oi_ratio": 0.08390730271507417,
     "nr_oi_ratio": 0.07800170111377339,
     "comm_cot_index": 10.0,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 100.3,
     "other_cot_index": 18.1,
     "nr_cot_index": 90.6
   },
@@ -3713,8 +3713,8 @@
     "other_oi_ratio": 0.06680245625850396,
     "nr_oi_ratio": 0.07968877901612775,
     "comm_cot_index": 8.9,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
+    "mm_cot_index": 108.0,
+    "other_cot_index": -8.6,
     "nr_cot_index": 93.1
   },
   {
@@ -3740,7 +3740,7 @@
     "nr_oi_ratio": 0.0755761187759378,
     "comm_cot_index": 25.3,
     "mm_cot_index": 91.1,
-    "other_cot_index": 0.0,
+    "other_cot_index": -34.0,
     "nr_cot_index": 86.8
   },
   {
@@ -3949,7 +3949,7 @@
     "comm_cot_index": 23.9,
     "mm_cot_index": 86.2,
     "other_cot_index": 2.3,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 107.7
   },
   {
     "date": "2009-05-12",
@@ -3974,8 +3974,8 @@
     "nr_oi_ratio": 0.089851105789156,
     "comm_cot_index": 22.5,
     "mm_cot_index": 89.8,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 100.0
+    "other_cot_index": -2.7,
+    "nr_cot_index": 101.0
   },
   {
     "date": "2009-05-19",
@@ -4001,7 +4001,7 @@
     "comm_cot_index": 22.1,
     "mm_cot_index": 85.8,
     "other_cot_index": 23.3,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 102.2
   },
   {
     "date": "2009-05-26",
@@ -4050,10 +4050,10 @@
     "mm_oi_ratio": 0.3916411162567094,
     "other_oi_ratio": 0.08741948104751993,
     "nr_oi_ratio": 0.10019255504951964,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -20.2,
+    "mm_cot_index": 115.1,
     "other_cot_index": 56.4,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 119.5
   },
   {
     "date": "2009-06-09",
@@ -4076,8 +4076,8 @@
     "mm_oi_ratio": 0.4148886438125838,
     "other_oi_ratio": 0.0749959321350996,
     "nr_oi_ratio": 0.09136037150583319,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -1.2,
+    "mm_cot_index": 117.6,
     "other_cot_index": 41.3,
     "nr_cot_index": 84.3
   },
@@ -4285,7 +4285,7 @@
     "other_oi_ratio": 0.06574787314743633,
     "nr_oi_ratio": 0.08827901861855135,
     "comm_cot_index": 0.3,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 112.1,
     "other_cot_index": 32.1,
     "nr_cot_index": 68.3
   },
@@ -4338,7 +4338,7 @@
     "nr_oi_ratio": 0.07226933468874562,
     "comm_cot_index": 24.3,
     "mm_cot_index": 56.5,
-    "other_cot_index": 100.0,
+    "other_cot_index": 119.4,
     "nr_cot_index": 25.7
   },
   {
@@ -4414,10 +4414,10 @@
     "mm_oi_ratio": 0.41519504641221305,
     "other_oi_ratio": 0.08219156854020142,
     "nr_oi_ratio": 0.10210244115179329,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -13.0,
     "mm_cot_index": 89.5,
     "other_cot_index": 74.4,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 105.1
   },
   {
     "date": "2009-09-15",
@@ -4440,10 +4440,10 @@
     "mm_oi_ratio": 0.4314243457891992,
     "other_oi_ratio": 0.0722111085464167,
     "nr_oi_ratio": 0.10475494344848811,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -5.6,
+    "mm_cot_index": 104.1,
     "other_cot_index": 56.4,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 106.7
   },
   {
     "date": "2009-09-22",
@@ -4466,10 +4466,10 @@
     "mm_oi_ratio": 0.43469586530948634,
     "other_oi_ratio": 0.0721039505934988,
     "nr_oi_ratio": 0.1088762589774053,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -4.4,
+    "mm_cot_index": 102.8,
     "other_cot_index": 56.2,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 109.8
   },
   {
     "date": "2009-09-29",
@@ -4545,7 +4545,7 @@
     "other_oi_ratio": 0.053751881742290064,
     "nr_oi_ratio": 0.08324490714754644,
     "comm_cot_index": 16.5,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 112.8,
     "other_cot_index": 23.1,
     "nr_cot_index": 44.6
   },
@@ -4650,7 +4650,7 @@
     "nr_oi_ratio": 0.0843045777136879,
     "comm_cot_index": 66.8,
     "mm_cot_index": 56.8,
-    "other_cot_index": 0.0,
+    "other_cot_index": -2.4,
     "nr_cot_index": 46.0
   },
   {
@@ -4676,7 +4676,7 @@
     "nr_oi_ratio": 0.08600143682742502,
     "comm_cot_index": 70.8,
     "mm_cot_index": 48.4,
-    "other_cot_index": 0.0,
+    "other_cot_index": -6.2,
     "nr_cot_index": 49.7
   },
   {
@@ -4883,7 +4883,7 @@
     "other_oi_ratio": 0.0731922196359022,
     "nr_oi_ratio": 0.10156593396093,
     "comm_cot_index": 81.3,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -17.0,
     "other_cot_index": 58.6,
     "nr_cot_index": 80.0
   },
@@ -4908,8 +4908,8 @@
     "mm_oi_ratio": 0.36418275593469007,
     "other_oi_ratio": 0.054533354508398184,
     "nr_oi_ratio": 0.09864933336358342,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 107.5,
+    "mm_cot_index": -1.1,
     "other_cot_index": 25.4,
     "nr_cot_index": 72.1
   },
@@ -4934,8 +4934,8 @@
     "mm_oi_ratio": 0.34353629584388207,
     "other_oi_ratio": 0.07399446376326185,
     "nr_oi_ratio": 0.07229418892161595,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 128.0,
+    "mm_cot_index": -24.1,
     "other_cot_index": 60.1,
     "nr_cot_index": 0.1
   },
@@ -4963,7 +4963,7 @@
     "comm_cot_index": 85.1,
     "mm_cot_index": 26.2,
     "other_cot_index": 45.2,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -1.9
   },
   {
     "date": "2010-02-09",
@@ -4986,10 +4986,10 @@
     "mm_oi_ratio": 0.3271072273803022,
     "other_oi_ratio": 0.06166350756577891,
     "nr_oi_ratio": 0.06833938381469463,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 126.0,
+    "mm_cot_index": -15.4,
     "other_cot_index": 38.1,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -8.6
   },
   {
     "date": "2010-02-16",
@@ -5015,7 +5015,7 @@
     "comm_cot_index": 91.0,
     "mm_cot_index": 7.9,
     "other_cot_index": 50.4,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -4.6
   },
   {
     "date": "2010-02-23",
@@ -5142,8 +5142,8 @@
     "mm_oi_ratio": 0.3103992180036878,
     "other_oi_ratio": 0.06095208858854917,
     "nr_oi_ratio": 0.0806857816832713,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 103.4,
+    "mm_cot_index": -13.6,
     "other_cot_index": 37.7,
     "nr_cot_index": 40.5
   },
@@ -5168,7 +5168,7 @@
     "mm_oi_ratio": 0.3154637673085082,
     "other_oi_ratio": 0.056882904272324813,
     "nr_oi_ratio": 0.0726946631296097,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 104.7,
     "mm_cot_index": 3.6,
     "other_cot_index": 30.3,
     "nr_cot_index": 17.7
@@ -5248,7 +5248,7 @@
     "nr_oi_ratio": 0.08966351963601349,
     "comm_cot_index": 69.0,
     "mm_cot_index": 44.4,
-    "other_cot_index": 0.0,
+    "other_cot_index": -9.0,
     "nr_cot_index": 66.1
   },
   {
@@ -5326,7 +5326,7 @@
     "nr_oi_ratio": 0.08023766760810551,
     "comm_cot_index": 75.0,
     "mm_cot_index": 54.2,
-    "other_cot_index": 0.0,
+    "other_cot_index": -6.6,
     "nr_cot_index": 39.2
   },
   {
@@ -5352,7 +5352,7 @@
     "nr_oi_ratio": 0.08292080488755653,
     "comm_cot_index": 76.2,
     "mm_cot_index": 59.7,
-    "other_cot_index": 0.0,
+    "other_cot_index": -17.0,
     "nr_cot_index": 46.8
   },
   {
@@ -5532,7 +5532,7 @@
     "mm_oi_ratio": 0.3145628076686076,
     "other_oi_ratio": 0.04726932210782854,
     "nr_oi_ratio": 0.0694093455096827,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 114.6,
     "mm_cot_index": 5.9,
     "other_cot_index": 47.3,
     "nr_cot_index": 8.3
@@ -5584,8 +5584,8 @@
     "mm_oi_ratio": 0.2651977843434804,
     "other_oi_ratio": 0.053507497234004144,
     "nr_oi_ratio": 0.06677176557224387,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 151.0,
+    "mm_cot_index": -63.6,
     "other_cot_index": 58.3,
     "nr_cot_index": 1.1
   },
@@ -5872,8 +5872,8 @@
     "nr_oi_ratio": 0.06461072838153997,
     "comm_cot_index": 11.5,
     "mm_cot_index": 76.7,
-    "other_cot_index": 100.0,
-    "nr_cot_index": 0.0
+    "other_cot_index": 104.5,
+    "nr_cot_index": -9.4
   },
   {
     "date": "2010-10-12",
@@ -5950,7 +5950,7 @@
     "nr_oi_ratio": 0.07134674825784833,
     "comm_cot_index": 26.3,
     "mm_cot_index": 53.3,
-    "other_cot_index": 100.0,
+    "other_cot_index": 102.8,
     "nr_cot_index": 32.2
   },
   {
@@ -6002,7 +6002,7 @@
     "nr_oi_ratio": 0.06880220786644621,
     "comm_cot_index": 42.8,
     "mm_cot_index": 21.7,
-    "other_cot_index": 100.0,
+    "other_cot_index": 144.2,
     "nr_cot_index": 20.0
   },
   {
@@ -6027,7 +6027,7 @@
     "other_oi_ratio": 0.08138398424937444,
     "nr_oi_ratio": 0.07283723046271384,
     "comm_cot_index": 72.0,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -3.6,
     "other_cot_index": 87.9,
     "nr_cot_index": 39.3
   },
@@ -6211,7 +6211,7 @@
     "comm_cot_index": 59.0,
     "mm_cot_index": 2.0,
     "other_cot_index": 77.2,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 125.5
   },
   {
     "date": "2011-01-11",
@@ -6234,8 +6234,8 @@
     "mm_oi_ratio": 0.23726790653865576,
     "other_oi_ratio": 0.06429335287387003,
     "nr_oi_ratio": 0.08108415975408846,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 102.6,
+    "mm_cot_index": -22.7,
     "other_cot_index": 46.0,
     "nr_cot_index": 69.9
   },
@@ -6260,8 +6260,8 @@
     "mm_oi_ratio": 0.226663400427333,
     "other_oi_ratio": 0.0540171341471713,
     "nr_oi_ratio": 0.07056097660556077,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 128.4,
+    "mm_cot_index": -8.1,
     "other_cot_index": 23.0,
     "nr_cot_index": 25.2
   },
@@ -6315,7 +6315,7 @@
     "comm_cot_index": 53.4,
     "mm_cot_index": 28.9,
     "other_cot_index": 34.9,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 110.8
   },
   {
     "date": "2011-02-08",
@@ -6341,7 +6341,7 @@
     "comm_cot_index": 32.6,
     "mm_cot_index": 53.0,
     "other_cot_index": 23.9,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 101.6
   },
   {
     "date": "2011-02-15",
@@ -6366,8 +6366,8 @@
     "nr_oi_ratio": 0.0967201512638773,
     "comm_cot_index": 22.0,
     "mm_cot_index": 70.5,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 100.0
+    "other_cot_index": -10.0,
+    "nr_cot_index": 121.0
   },
   {
     "date": "2011-02-22",
@@ -6392,8 +6392,8 @@
     "nr_oi_ratio": 0.10233032408652132,
     "comm_cot_index": 22.2,
     "mm_cot_index": 77.3,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 100.0
+    "other_cot_index": -31.5,
+    "nr_cot_index": 117.5
   },
   {
     "date": "2011-03-01",
@@ -6418,8 +6418,8 @@
     "nr_oi_ratio": 0.10342119957191383,
     "comm_cot_index": 5.1,
     "mm_cot_index": 99.1,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 100.0
+    "other_cot_index": -11.6,
+    "nr_cot_index": 102.9
   },
   {
     "date": "2011-03-08",
@@ -6444,8 +6444,8 @@
     "nr_oi_ratio": 0.1097097516760026,
     "comm_cot_index": 9.0,
     "mm_cot_index": 99.1,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 100.0
+    "other_cot_index": -16.5,
+    "nr_cot_index": 116.2
   },
   {
     "date": "2011-03-15",
@@ -6470,7 +6470,7 @@
     "nr_oi_ratio": 0.08977272727272727,
     "comm_cot_index": 40.3,
     "mm_cot_index": 86.4,
-    "other_cot_index": 0.0,
+    "other_cot_index": -9.3,
     "nr_cot_index": 55.8
   },
   {
@@ -6496,7 +6496,7 @@
     "nr_oi_ratio": 0.09813191496883907,
     "comm_cot_index": 34.3,
     "mm_cot_index": 89.4,
-    "other_cot_index": 0.0,
+    "other_cot_index": -5.1,
     "nr_cot_index": 74.3
   },
   {
@@ -6520,8 +6520,8 @@
     "mm_oi_ratio": 0.3889901582443755,
     "other_oi_ratio": 0.003462802309347737,
     "nr_oi_ratio": 0.09682840635903814,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -1.9,
+    "mm_cot_index": 116.4,
     "other_cot_index": 11.8,
     "nr_cot_index": 71.4
   },
@@ -6546,8 +6546,8 @@
     "mm_oi_ratio": 0.40611369155683397,
     "other_oi_ratio": -0.003906035099301315,
     "nr_oi_ratio": 0.10601898788893342,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -13.7,
+    "mm_cot_index": 110.5,
     "other_cot_index": 4.2,
     "nr_cot_index": 91.1
   },
@@ -6678,7 +6678,7 @@
     "nr_oi_ratio": 0.08868354663619203,
     "comm_cot_index": 47.1,
     "mm_cot_index": 71.4,
-    "other_cot_index": 0.0,
+    "other_cot_index": -1.2,
     "nr_cot_index": 49.2
   },
   {
@@ -6704,7 +6704,7 @@
     "nr_oi_ratio": 0.08316770235130527,
     "comm_cot_index": 64.8,
     "mm_cot_index": 63.9,
-    "other_cot_index": 0.0,
+    "other_cot_index": -9.2,
     "nr_cot_index": 35.8
   },
   {
@@ -6962,7 +6962,7 @@
     "mm_oi_ratio": 0.39798566139874064,
     "other_oi_ratio": 0.04122627475981165,
     "nr_oi_ratio": 0.08827597520011035,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -18.9,
     "mm_cot_index": 94.1,
     "other_cot_index": 76.6,
     "nr_cot_index": 22.4
@@ -6988,10 +6988,10 @@
     "mm_oi_ratio": 0.43223026692330796,
     "other_oi_ratio": 0.03466357387472304,
     "nr_oi_ratio": 0.07642382079436648,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -13.1,
+    "mm_cot_index": 124.9,
     "other_cot_index": 72.7,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -20.5
   },
   {
     "date": "2011-08-09",
@@ -7170,8 +7170,8 @@
     "mm_oi_ratio": 0.30324057385913056,
     "other_oi_ratio": -0.0017943110726615882,
     "nr_oi_ratio": 0.09431948349474123,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 107.8,
+    "mm_cot_index": -30.0,
     "other_cot_index": 27.4,
     "nr_cot_index": 60.5
   },
@@ -7196,8 +7196,8 @@
     "mm_oi_ratio": 0.26315280588895046,
     "other_oi_ratio": 0.0114435749676632,
     "nr_oi_ratio": 0.08354282423820512,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 125.5,
+    "mm_cot_index": -31.1,
     "other_cot_index": 49.7,
     "nr_cot_index": 24.1
   },
@@ -7225,7 +7225,7 @@
     "comm_cot_index": 89.8,
     "mm_cot_index": 7.7,
     "other_cot_index": 78.6,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -16.8
   },
   {
     "date": "2011-10-11",
@@ -7406,8 +7406,8 @@
     "nr_oi_ratio": 0.06879252630888048,
     "comm_cot_index": 66.1,
     "mm_cot_index": 22.5,
-    "other_cot_index": 100.0,
-    "nr_cot_index": 0.0
+    "other_cot_index": 117.1,
+    "nr_cot_index": -14.0
   },
   {
     "date": "2011-11-29",
@@ -7458,8 +7458,8 @@
     "nr_oi_ratio": 0.09880223947644673,
     "comm_cot_index": 36.1,
     "mm_cot_index": 36.9,
-    "other_cot_index": 100.0,
-    "nr_cot_index": 100.0
+    "other_cot_index": 101.7,
+    "nr_cot_index": 110.5
   },
   {
     "date": "2011-12-13",
@@ -7484,7 +7484,7 @@
     "nr_oi_ratio": 0.08350265022831477,
     "comm_cot_index": 58.3,
     "mm_cot_index": 20.2,
-    "other_cot_index": 100.0,
+    "other_cot_index": 103.8,
     "nr_cot_index": 49.0
   },
   {
@@ -7535,8 +7535,8 @@
     "other_oi_ratio": 0.05906503240282137,
     "nr_oi_ratio": 0.07911301006098652,
     "comm_cot_index": 82.1,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "mm_cot_index": -5.9,
+    "other_cot_index": 106.3,
     "nr_cot_index": 34.4
   },
   {
@@ -7561,8 +7561,8 @@
     "other_oi_ratio": 0.06239206189829307,
     "nr_oi_ratio": 0.07293603449294193,
     "comm_cot_index": 86.9,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "mm_cot_index": -3.4,
+    "other_cot_index": 104.5,
     "nr_cot_index": 13.8
   },
   {
@@ -7588,7 +7588,7 @@
     "nr_oi_ratio": 0.08090964124970389,
     "comm_cot_index": 78.2,
     "mm_cot_index": 1.0,
-    "other_cot_index": 100.0,
+    "other_cot_index": 108.4,
     "nr_cot_index": 40.4
   },
   {
@@ -7664,7 +7664,7 @@
     "mm_oi_ratio": 0.3385952160853192,
     "other_oi_ratio": 0.06447629330115517,
     "nr_oi_ratio": 0.09056695198914222,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -4.0,
     "mm_cot_index": 64.6,
     "other_cot_index": 94.7,
     "nr_cot_index": 72.6
@@ -7690,10 +7690,10 @@
     "mm_oi_ratio": 0.35685144968249854,
     "other_oi_ratio": 0.050217744765067275,
     "nr_oi_ratio": 0.09990574713170863,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -9.8,
     "mm_cot_index": 77.5,
     "other_cot_index": 77.6,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 103.7
   },
   {
     "date": "2012-02-14",
@@ -7745,7 +7745,7 @@
     "comm_cot_index": 3.3,
     "mm_cot_index": 92.3,
     "other_cot_index": 71.7,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 119.1
   },
   {
     "date": "2012-02-28",
@@ -7768,10 +7768,10 @@
     "mm_oi_ratio": 0.36978440393784284,
     "other_oi_ratio": 0.03356059151142692,
     "nr_oi_ratio": 0.10882298911999733,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -3.5,
+    "mm_cot_index": 109.0,
     "other_cot_index": 57.6,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 108.0
   },
   {
     "date": "2012-03-06",
@@ -7900,7 +7900,7 @@
     "nr_oi_ratio": 0.08754883375310538,
     "comm_cot_index": 51.8,
     "mm_cot_index": 24.6,
-    "other_cot_index": 100.0,
+    "other_cot_index": 102.6,
     "nr_cot_index": 46.9
   },
   {
@@ -7926,7 +7926,7 @@
     "nr_oi_ratio": 0.0851409320550807,
     "comm_cot_index": 59.7,
     "mm_cot_index": 8.9,
-    "other_cot_index": 100.0,
+    "other_cot_index": 115.5,
     "nr_cot_index": 40.8
   },
   {
@@ -7952,7 +7952,7 @@
     "nr_oi_ratio": 0.08553017870854097,
     "comm_cot_index": 52.7,
     "mm_cot_index": 18.7,
-    "other_cot_index": 100.0,
+    "other_cot_index": 108.4,
     "nr_cot_index": 41.8
   },
   {
@@ -8028,10 +8028,10 @@
     "mm_oi_ratio": 0.21630548734077235,
     "other_oi_ratio": 0.0788203868855284,
     "nr_oi_ratio": 0.06738184481495843,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 115.3,
+    "mm_cot_index": -25.0,
     "other_cot_index": 89.0,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -3.5
   },
   {
     "date": "2012-05-15",
@@ -8054,10 +8054,10 @@
     "mm_oi_ratio": 0.18976476636554676,
     "other_oi_ratio": 0.08065559322515761,
     "nr_oi_ratio": 0.05869587363862295,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 122.3,
+    "mm_cot_index": -17.3,
     "other_cot_index": 89.1,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -21.0
   },
   {
     "date": "2012-05-22",
@@ -8080,10 +8080,10 @@
     "mm_oi_ratio": 0.17131965132451699,
     "other_oi_ratio": 0.09296635804877601,
     "nr_oi_ratio": 0.04692843339315961,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
-    "nr_cot_index": 0.0
+    "comm_cot_index": 109.8,
+    "mm_cot_index": -10.2,
+    "other_cot_index": 112.4,
+    "nr_cot_index": -23.5
   },
   {
     "date": "2012-05-29",
@@ -8134,7 +8134,7 @@
     "nr_oi_ratio": 0.06429668279312452,
     "comm_cot_index": 71.6,
     "mm_cot_index": 19.0,
-    "other_cot_index": 100.0,
+    "other_cot_index": 103.4,
     "nr_cot_index": 28.1
   },
   {
@@ -8160,7 +8160,7 @@
     "nr_oi_ratio": 0.06422167454226138,
     "comm_cot_index": 63.2,
     "mm_cot_index": 21.1,
-    "other_cot_index": 100.0,
+    "other_cot_index": 120.8,
     "nr_cot_index": 27.9
   },
   {
@@ -8212,7 +8212,7 @@
     "nr_oi_ratio": 0.052079454956022224,
     "comm_cot_index": 81.4,
     "mm_cot_index": 8.1,
-    "other_cot_index": 100.0,
+    "other_cot_index": 101.7,
     "nr_cot_index": 8.3
   },
   {
@@ -8290,7 +8290,7 @@
     "nr_oi_ratio": 0.06922982400415471,
     "comm_cot_index": 71.6,
     "mm_cot_index": 8.7,
-    "other_cot_index": 100.0,
+    "other_cot_index": 101.7,
     "nr_cot_index": 36.0
   },
   {
@@ -8315,8 +8315,8 @@
     "other_oi_ratio": 0.12650132287721036,
     "nr_oi_ratio": 0.05536098368768677,
     "comm_cot_index": 93.6,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "mm_cot_index": -14.6,
+    "other_cot_index": 121.0,
     "nr_cot_index": 13.6
   },
   {
@@ -8444,10 +8444,10 @@
     "mm_oi_ratio": 0.26529975923611976,
     "other_oi_ratio": 0.1062572821110327,
     "nr_oi_ratio": 0.10580716852768315,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -18.3,
     "mm_cot_index": 69.2,
     "other_cot_index": 76.8,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 107.6
   },
   {
     "date": "2012-09-04",
@@ -8470,10 +8470,10 @@
     "mm_oi_ratio": 0.27655802505798793,
     "other_oi_ratio": 0.10694752851026684,
     "nr_oi_ratio": 0.11006346613751972,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -9.8,
     "mm_cot_index": 84.0,
     "other_cot_index": 77.6,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 107.2
   },
   {
     "date": "2012-09-11",
@@ -8496,10 +8496,10 @@
     "mm_oi_ratio": 0.2988137606371775,
     "other_oi_ratio": 0.09641696215889918,
     "nr_oi_ratio": 0.11959021216812767,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -11.7,
+    "mm_cot_index": 100.9,
     "other_cot_index": 64.1,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 115.1
   },
   {
     "date": "2012-09-18",
@@ -8522,10 +8522,10 @@
     "mm_oi_ratio": 0.301502896936748,
     "other_oi_ratio": 0.0978105300986818,
     "nr_oi_ratio": 0.12226681905271318,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -3.3,
+    "mm_cot_index": 101.7,
     "other_cot_index": 58.8,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 103.7
   },
   {
     "date": "2012-09-25",
@@ -8548,8 +8548,8 @@
     "mm_oi_ratio": 0.3232335613136241,
     "other_oi_ratio": 0.09329214979694228,
     "nr_oi_ratio": 0.1194220413633058,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -6.8,
+    "mm_cot_index": 113.6,
     "other_cot_index": 40.8,
     "nr_cot_index": 96.2
   },
@@ -8574,10 +8574,10 @@
     "mm_oi_ratio": 0.3389213737346852,
     "other_oi_ratio": 0.09427166942533707,
     "nr_oi_ratio": 0.12672694153559516,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -10.7,
+    "mm_cot_index": 108.7,
     "other_cot_index": 39.0,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 105.9
   },
   {
     "date": "2012-10-09",
@@ -8601,7 +8601,7 @@
     "other_oi_ratio": 0.09182445252385112,
     "nr_oi_ratio": 0.1136326567690494,
     "comm_cot_index": 3.5,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 103.5,
     "other_cot_index": 34.4,
     "nr_cot_index": 83.6
   },
@@ -8680,7 +8680,7 @@
     "nr_oi_ratio": 0.11554243944918217,
     "comm_cot_index": 28.2,
     "mm_cot_index": 76.4,
-    "other_cot_index": 0.0,
+    "other_cot_index": -0.1,
     "nr_cot_index": 86.0
   },
   {
@@ -9044,7 +9044,7 @@
     "nr_oi_ratio": 0.08760277558952974,
     "comm_cot_index": 78.3,
     "mm_cot_index": 7.8,
-    "other_cot_index": 100.0,
+    "other_cot_index": 127.0,
     "nr_cot_index": 22.3
   },
   {
@@ -9068,10 +9068,10 @@
     "mm_oi_ratio": 0.15303111094767036,
     "other_oi_ratio": 0.13848462839701395,
     "nr_oi_ratio": 0.07772680469238406,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 110.9,
+    "mm_cot_index": -14.6,
     "other_cot_index": 99.2,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -6.7
   },
   {
     "date": "2013-02-19",
@@ -9094,10 +9094,10 @@
     "mm_oi_ratio": 0.09570971852713005,
     "other_oi_ratio": 0.13602137315835364,
     "nr_oi_ratio": 0.06356278924187887,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 138.8,
+    "mm_cot_index": -29.7,
     "other_cot_index": 95.3,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -28.9
   },
   {
     "date": "2013-02-26",
@@ -9122,8 +9122,8 @@
     "nr_oi_ratio": 0.04845133661244001,
     "comm_cot_index": 91.7,
     "mm_cot_index": 8.6,
-    "other_cot_index": 100.0,
-    "nr_cot_index": 0.0
+    "other_cot_index": 120.1,
+    "nr_cot_index": -23.9
   },
   {
     "date": "2013-03-05",
@@ -9147,8 +9147,8 @@
     "other_oi_ratio": 0.15282820891607185,
     "nr_oi_ratio": 0.06031257334566691,
     "comm_cot_index": 95.2,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "mm_cot_index": -0.4,
+    "other_cot_index": 101.7,
     "nr_cot_index": 15.2
   },
   {
@@ -9174,7 +9174,7 @@
     "nr_oi_ratio": 0.06196328517158045,
     "comm_cot_index": 91.1,
     "mm_cot_index": 1.9,
-    "other_cot_index": 100.0,
+    "other_cot_index": 106.1,
     "nr_cot_index": 17.3
   },
   {
@@ -9200,7 +9200,7 @@
     "nr_oi_ratio": 0.060706311604857593,
     "comm_cot_index": 72.4,
     "mm_cot_index": 20.8,
-    "other_cot_index": 100.0,
+    "other_cot_index": 104.0,
     "nr_cot_index": 15.7
   },
   {
@@ -9226,7 +9226,7 @@
     "nr_oi_ratio": 0.06200935369895194,
     "comm_cot_index": 68.9,
     "mm_cot_index": 15.3,
-    "other_cot_index": 100.0,
+    "other_cot_index": 125.6,
     "nr_cot_index": 17.3
   },
   {
@@ -9305,7 +9305,7 @@
     "comm_cot_index": 80.2,
     "mm_cot_index": 31.5,
     "other_cot_index": 65.5,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -23.0
   },
   {
     "date": "2013-04-23",
@@ -9328,10 +9328,10 @@
     "mm_oi_ratio": 0.12749292897170142,
     "other_oi_ratio": 0.1236791511874991,
     "nr_oi_ratio": 0.0003204247917238854,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 117.9,
     "mm_cot_index": 14.7,
     "other_cot_index": 44.6,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -34.7
   },
   {
     "date": "2013-04-30",
@@ -9354,10 +9354,10 @@
     "mm_oi_ratio": 0.12251862441728194,
     "other_oi_ratio": 0.10796106267825889,
     "nr_oi_ratio": -0.0035360863669502978,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 108.5,
     "mm_cot_index": 12.5,
     "other_cot_index": 15.2,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -3.2
   },
   {
     "date": "2013-05-07",
@@ -9380,10 +9380,10 @@
     "mm_oi_ratio": 0.11082339455302319,
     "other_oi_ratio": 0.09337087349376956,
     "nr_oi_ratio": -0.003891023928427081,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 108.5,
     "mm_cot_index": 7.2,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 0.0
+    "other_cot_index": -1.5,
+    "nr_cot_index": -0.3
   },
   {
     "date": "2013-05-14",
@@ -9406,8 +9406,8 @@
     "mm_oi_ratio": 0.08874147713189998,
     "other_oi_ratio": 0.09991302506049941,
     "nr_oi_ratio": 0.0009463594453432355,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 103.2,
+    "mm_cot_index": -2.7,
     "other_cot_index": 7.4,
     "nr_cot_index": 3.9
   },
@@ -9432,8 +9432,8 @@
     "mm_oi_ratio": 0.08150428055513835,
     "other_oi_ratio": 0.09841353816632181,
     "nr_oi_ratio": 0.008659745744664157,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 100.3,
+    "mm_cot_index": -3.2,
     "other_cot_index": 5.7,
     "nr_cot_index": 10.0
   },
@@ -9458,9 +9458,9 @@
     "mm_oi_ratio": 0.11444497701952064,
     "other_oi_ratio": 0.023946413755684293,
     "nr_oi_ratio": 0.005698282972547512,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 114.2,
     "mm_cot_index": 16.9,
-    "other_cot_index": 0.0,
+    "other_cot_index": -78.1,
     "nr_cot_index": 7.8
   },
   {
@@ -9486,7 +9486,7 @@
     "nr_oi_ratio": 0.0012115981032592524,
     "comm_cot_index": 94.0,
     "mm_cot_index": 32.0,
-    "other_cot_index": 0.0,
+    "other_cot_index": -2.2,
     "nr_cot_index": 4.2
   },
   {
@@ -9512,7 +9512,7 @@
     "nr_oi_ratio": -0.0018269652582360556,
     "comm_cot_index": 96.3,
     "mm_cot_index": 39.9,
-    "other_cot_index": 0.0,
+    "other_cot_index": -6.5,
     "nr_cot_index": 2.0
   },
   {
@@ -9536,7 +9536,7 @@
     "mm_oi_ratio": 0.10409009668369106,
     "other_oi_ratio": 0.011771226127401845,
     "nr_oi_ratio": 0.0011217005298245057,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 109.1,
     "mm_cot_index": 15.0,
     "other_cot_index": 1.1,
     "nr_cot_index": 5.0
@@ -9562,8 +9562,8 @@
     "mm_oi_ratio": 0.07753547320214925,
     "other_oi_ratio": 0.00988872306711686,
     "nr_oi_ratio": 0.002703207755339219,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 108.3,
+    "mm_cot_index": -2.7,
     "other_cot_index": 0.0,
     "nr_cot_index": 6.6
   },
@@ -9588,9 +9588,9 @@
     "mm_oi_ratio": 0.0521053901203463,
     "other_oi_ratio": -0.0015424014191067717,
     "nr_oi_ratio": 0.004934222549275218,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 0.0,
+    "comm_cot_index": 110.4,
+    "mm_cot_index": -18.9,
+    "other_cot_index": -6.6,
     "nr_cot_index": 8.9
   },
   {
@@ -9614,9 +9614,9 @@
     "mm_oi_ratio": 0.05533697581411299,
     "other_oi_ratio": -0.01697275554134401,
     "nr_oi_ratio": 0.00575567573579502,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 103.1,
     "mm_cot_index": 2.0,
-    "other_cot_index": 0.0,
+    "other_cot_index": -8.4,
     "nr_cot_index": 9.7
   },
   {
@@ -9642,7 +9642,7 @@
     "nr_oi_ratio": 0.0026006000685922463,
     "comm_cot_index": 96.9,
     "mm_cot_index": 26.8,
-    "other_cot_index": 0.0,
+    "other_cot_index": -12.4,
     "nr_cot_index": 6.5
   },
   {
@@ -9668,7 +9668,7 @@
     "nr_oi_ratio": 0.0011615871190339276,
     "comm_cot_index": 90.3,
     "mm_cot_index": 56.5,
-    "other_cot_index": 0.0,
+    "other_cot_index": -3.1,
     "nr_cot_index": 5.2
   },
   {
@@ -9694,8 +9694,8 @@
     "nr_oi_ratio": -0.00652839170350221,
     "comm_cot_index": 94.3,
     "mm_cot_index": 59.3,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 0.0
+    "other_cot_index": -4.7,
+    "nr_cot_index": -2.9
   },
   {
     "date": "2013-08-06",
@@ -9797,7 +9797,7 @@
     "other_oi_ratio": 0.020567453436847506,
     "nr_oi_ratio": 0.024339888883681937,
     "comm_cot_index": 44.8,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 114.9,
     "other_cot_index": 33.1,
     "nr_cot_index": 45.0
   },
@@ -9823,7 +9823,7 @@
     "other_oi_ratio": 0.007182488213616618,
     "nr_oi_ratio": 0.036723076606345086,
     "comm_cot_index": 41.9,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 108.2,
     "other_cot_index": 27.6,
     "nr_cot_index": 63.1
   },
@@ -10030,8 +10030,8 @@
     "mm_oi_ratio": 0.2283335830109049,
     "other_oi_ratio": 0.030563117629130658,
     "nr_oi_ratio": 0.016920390736789904,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -15.9,
+    "mm_cot_index": 124.2,
     "other_cot_index": 56.5,
     "nr_cot_index": 54.2
   },
@@ -10135,7 +10135,7 @@
     "other_oi_ratio": 0.02685887554762291,
     "nr_oi_ratio": 0.004261824598409865,
     "comm_cot_index": 88.1,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -6.6,
     "other_cot_index": 84.6,
     "nr_cot_index": 24.9
   },
@@ -10161,7 +10161,7 @@
     "other_oi_ratio": 0.03299382045151073,
     "nr_oi_ratio": -0.001014398244469977,
     "comm_cot_index": 94.1,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -7.8,
     "other_cot_index": 90.6,
     "nr_cot_index": 12.7
   },
@@ -10370,8 +10370,8 @@
     "nr_oi_ratio": -0.003558560794692989,
     "comm_cot_index": 48.6,
     "mm_cot_index": 48.2,
-    "other_cot_index": 100.0,
-    "nr_cot_index": 0.0
+    "other_cot_index": 120.5,
+    "nr_cot_index": -3.7
   },
   {
     "date": "2014-02-04",
@@ -10396,7 +10396,7 @@
     "nr_oi_ratio": 0.0022890254399517756,
     "comm_cot_index": 44.6,
     "mm_cot_index": 45.8,
-    "other_cot_index": 100.0,
+    "other_cot_index": 118.5,
     "nr_cot_index": 14.5
   },
   {
@@ -10472,8 +10472,8 @@
     "mm_oi_ratio": 0.24840065754329643,
     "other_oi_ratio": 0.03408489740724588,
     "nr_oi_ratio": 0.01857792068706565,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -11.6,
+    "mm_cot_index": 109.9,
     "other_cot_index": 53.1,
     "nr_cot_index": 55.0
   },
@@ -10498,8 +10498,8 @@
     "mm_oi_ratio": 0.25724827470465284,
     "other_oi_ratio": 0.03559677165074021,
     "nr_oi_ratio": 0.015213621314835252,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -2.9,
+    "mm_cot_index": 104.0,
     "other_cot_index": 55.2,
     "nr_cot_index": 56.0
   },
@@ -10550,8 +10550,8 @@
     "mm_oi_ratio": 0.28781625482019657,
     "other_oi_ratio": 0.03744656773475724,
     "nr_oi_ratio": 0.02168196925534798,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -15.5,
+    "mm_cot_index": 113.2,
     "other_cot_index": 58.9,
     "nr_cot_index": 99.3
   },
@@ -10579,7 +10579,7 @@
     "comm_cot_index": 9.2,
     "mm_cot_index": 92.7,
     "other_cot_index": 5.7,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 115.8
   },
   {
     "date": "2014-04-01",
@@ -10604,8 +10604,8 @@
     "nr_oi_ratio": 0.03820047269095422,
     "comm_cot_index": 11.5,
     "mm_cot_index": 86.2,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 100.0
+    "other_cot_index": -0.1,
+    "nr_cot_index": 141.9
   },
   {
     "date": "2014-04-08",
@@ -10630,7 +10630,7 @@
     "nr_oi_ratio": 0.035971538040503556,
     "comm_cot_index": 23.7,
     "mm_cot_index": 75.3,
-    "other_cot_index": 0.0,
+    "other_cot_index": -13.5,
     "nr_cot_index": 94.7
   },
   {
@@ -10656,7 +10656,7 @@
     "nr_oi_ratio": 0.022493282861217014,
     "comm_cot_index": 38.0,
     "mm_cot_index": 65.5,
-    "other_cot_index": 0.0,
+    "other_cot_index": -6.0,
     "nr_cot_index": 62.4
   },
   {
@@ -10682,7 +10682,7 @@
     "nr_oi_ratio": 0.023331087808949713,
     "comm_cot_index": 36.0,
     "mm_cot_index": 69.1,
-    "other_cot_index": 0.0,
+    "other_cot_index": -10.7,
     "nr_cot_index": 64.4
   },
   {
@@ -10864,7 +10864,7 @@
     "nr_oi_ratio": 0.0053421145055705345,
     "comm_cot_index": 64.8,
     "mm_cot_index": 27.6,
-    "other_cot_index": 100.0,
+    "other_cot_index": 106.9,
     "nr_cot_index": 21.3
   },
   {
@@ -10890,7 +10890,7 @@
     "nr_oi_ratio": 7.897999963142667e-05,
     "comm_cot_index": 50.6,
     "mm_cot_index": 43.3,
-    "other_cot_index": 100.0,
+    "other_cot_index": 108.7,
     "nr_cot_index": 8.7
   },
   {
@@ -10940,8 +10940,8 @@
     "mm_oi_ratio": 0.31346422340740593,
     "other_oi_ratio": 0.04995109665441387,
     "nr_oi_ratio": 0.03591222782737243,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -22.0,
+    "mm_cot_index": 111.4,
     "other_cot_index": 71.1,
     "nr_cot_index": 94.5
   },
@@ -10966,10 +10966,10 @@
     "mm_oi_ratio": 0.3254953867715187,
     "other_oi_ratio": 0.039526316813952585,
     "nr_oi_ratio": 0.03888640168178456,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -1.6,
+    "mm_cot_index": 104.9,
     "other_cot_index": 51.2,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 101.6
   },
   {
     "date": "2014-07-15",
@@ -11046,7 +11046,7 @@
     "nr_oi_ratio": 0.026114450672555925,
     "comm_cot_index": 2.6,
     "mm_cot_index": 84.3,
-    "other_cot_index": 100.0,
+    "other_cot_index": 131.3,
     "nr_cot_index": 67.1
   },
   {
@@ -11072,7 +11072,7 @@
     "nr_oi_ratio": 0.02824816424396823,
     "comm_cot_index": 16.2,
     "mm_cot_index": 67.3,
-    "other_cot_index": 100.0,
+    "other_cot_index": 105.7,
     "nr_cot_index": 72.6
   },
   {
@@ -11096,7 +11096,7 @@
     "mm_oi_ratio": 0.3162797394285466,
     "other_oi_ratio": 0.08490304633890589,
     "nr_oi_ratio": 0.03533144623676361,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -13.7,
     "mm_cot_index": 95.9,
     "other_cot_index": 99.3,
     "nr_cot_index": 90.8
@@ -11124,7 +11124,7 @@
     "nr_oi_ratio": 0.026435517370312855,
     "comm_cot_index": 12.4,
     "mm_cot_index": 80.6,
-    "other_cot_index": 100.0,
+    "other_cot_index": 113.0,
     "nr_cot_index": 67.9
   },
   {
@@ -11253,7 +11253,7 @@
     "other_oi_ratio": 0.08749364936182566,
     "nr_oi_ratio": 0.0011275622880960528,
     "comm_cot_index": 99.7,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -9.7,
     "other_cot_index": 91.0,
     "nr_cot_index": 2.7
   },
@@ -11278,10 +11278,10 @@
     "mm_oi_ratio": 0.08140330741245781,
     "other_oi_ratio": 0.08936384169487778,
     "nr_oi_ratio": -0.010900982957506963,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 102.3,
     "mm_cot_index": 1.3,
     "other_cot_index": 93.3,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -28.3
   },
   {
     "date": "2014-10-07",
@@ -11306,7 +11306,7 @@
     "nr_oi_ratio": -0.007998168840291827,
     "comm_cot_index": 97.5,
     "mm_cot_index": 0.2,
-    "other_cot_index": 100.0,
+    "other_cot_index": 101.6,
     "nr_cot_index": 5.8
   },
   {
@@ -11332,8 +11332,8 @@
     "nr_oi_ratio": -0.01656885046059494,
     "comm_cot_index": 86.2,
     "mm_cot_index": 11.3,
-    "other_cot_index": 100.0,
-    "nr_cot_index": 0.0
+    "other_cot_index": 114.8,
+    "nr_cot_index": -11.4
   },
   {
     "date": "2014-10-21",
@@ -11358,7 +11358,7 @@
     "nr_oi_ratio": -0.007507474632471895,
     "comm_cot_index": 65.5,
     "mm_cot_index": 29.9,
-    "other_cot_index": 100.0,
+    "other_cot_index": 102.3,
     "nr_cot_index": 16.3
   },
   {
@@ -11408,10 +11408,10 @@
     "mm_oi_ratio": 0.09297349877928109,
     "other_oi_ratio": 0.058508255126660066,
     "nr_oi_ratio": -0.018970858480462507,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 109.9,
     "mm_cot_index": 6.0,
     "other_cot_index": 40.4,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -4.3
   },
   {
     "date": "2014-11-11",
@@ -11434,8 +11434,8 @@
     "mm_oi_ratio": 0.06904258246095142,
     "other_oi_ratio": 0.057344921993045,
     "nr_oi_ratio": -0.013573976933936522,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 106.5,
+    "mm_cot_index": -3.7,
     "other_cot_index": 26.2,
     "nr_cot_index": 9.3
   },
@@ -11463,7 +11463,7 @@
     "comm_cot_index": 87.1,
     "mm_cot_index": 14.1,
     "other_cot_index": 45.4,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -6.4
   },
   {
     "date": "2014-11-25",
@@ -11697,7 +11697,7 @@
     "comm_cot_index": 7.1,
     "mm_cot_index": 93.7,
     "other_cot_index": 38.3,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 100.6
   },
   {
     "date": "2015-01-27",
@@ -11720,10 +11720,10 @@
     "mm_oi_ratio": 0.3496334526637142,
     "other_oi_ratio": 0.08142758379936069,
     "nr_oi_ratio": 0.03932426604970806,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -10.5,
+    "mm_cot_index": 113.5,
     "other_cot_index": 46.4,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 106.2
   },
   {
     "date": "2015-02-03",
@@ -11746,10 +11746,10 @@
     "mm_oi_ratio": 0.35355784174445326,
     "other_oi_ratio": 0.08745387629789952,
     "nr_oi_ratio": 0.04352075209046443,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -4.0,
+    "mm_cot_index": 101.4,
     "other_cot_index": 57.5,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 106.8
   },
   {
     "date": "2015-02-10",
@@ -11903,7 +11903,7 @@
     "other_oi_ratio": 0.07881313730691723,
     "nr_oi_ratio": 0.007904816423029846,
     "comm_cot_index": 95.0,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -8.5,
     "other_cot_index": 41.7,
     "nr_cot_index": 46.2
   },
@@ -11929,7 +11929,7 @@
     "other_oi_ratio": 0.09877653210133551,
     "nr_oi_ratio": -0.003126102262274447,
     "comm_cot_index": 97.5,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -5.9,
     "other_cot_index": 78.2,
     "nr_cot_index": 29.5
   },
@@ -11956,7 +11956,7 @@
     "nr_oi_ratio": 0.002827766812441142,
     "comm_cot_index": 74.0,
     "mm_cot_index": 20.4,
-    "other_cot_index": 100.0,
+    "other_cot_index": 105.0,
     "nr_cot_index": 38.5
   },
   {
@@ -11982,7 +11982,7 @@
     "nr_oi_ratio": 0.019284585901154977,
     "comm_cot_index": 55.8,
     "mm_cot_index": 35.5,
-    "other_cot_index": 100.0,
+    "other_cot_index": 103.5,
     "nr_cot_index": 63.4
   },
   {
@@ -12008,7 +12008,7 @@
     "nr_oi_ratio": 0.013151467137784145,
     "comm_cot_index": 59.8,
     "mm_cot_index": 29.1,
-    "other_cot_index": 100.0,
+    "other_cot_index": 120.2,
     "nr_cot_index": 54.1
   },
   {
@@ -12034,7 +12034,7 @@
     "nr_oi_ratio": 0.009464516242680162,
     "comm_cot_index": 59.3,
     "mm_cot_index": 29.0,
-    "other_cot_index": 100.0,
+    "other_cot_index": 108.7,
     "nr_cot_index": 48.6
   },
   {
@@ -12318,8 +12318,8 @@
     "mm_oi_ratio": 0.004642316071171859,
     "other_oi_ratio": 0.10693251058841743,
     "nr_oi_ratio": 0.004735206626192925,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 101.6,
+    "mm_cot_index": -6.6,
     "other_cot_index": 57.8,
     "nr_cot_index": 16.9
   },
@@ -12344,8 +12344,8 @@
     "mm_oi_ratio": -0.0024272474192934827,
     "other_oi_ratio": 0.1057938374284578,
     "nr_oi_ratio": 0.0013941002541801393,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 103.1,
+    "mm_cot_index": -2.0,
     "other_cot_index": 50.8,
     "nr_cot_index": 9.7
   },
@@ -12370,10 +12370,10 @@
     "mm_oi_ratio": -0.029484948668870716,
     "other_oi_ratio": 0.09099312684879067,
     "nr_oi_ratio": -0.014561945362797982,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 115.2,
+    "mm_cot_index": -7.6,
     "other_cot_index": 22.2,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -24.5
   },
   {
     "date": "2015-07-28",
@@ -12396,10 +12396,10 @@
     "mm_oi_ratio": -0.03338717994350669,
     "other_oi_ratio": 0.08920740527788046,
     "nr_oi_ratio": -0.02098876978748842,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 102.8,
+    "mm_cot_index": -1.0,
     "other_cot_index": 18.9,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -11.1
   },
   {
     "date": "2015-08-04",
@@ -12422,10 +12422,10 @@
     "mm_oi_ratio": -0.025990563539524676,
     "other_oi_ratio": 0.09484126344488375,
     "nr_oi_ratio": -0.03472470082183327,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 100.2,
     "mm_cot_index": 2.2,
     "other_cot_index": 29.2,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -22.9
   },
   {
     "date": "2015-08-11",
@@ -12476,7 +12476,7 @@
     "nr_oi_ratio": -0.027063189809765027,
     "comm_cot_index": 88.5,
     "mm_cot_index": 20.1,
-    "other_cot_index": 0.0,
+    "other_cot_index": -1.5,
     "nr_cot_index": 13.1
   },
   {
@@ -12502,7 +12502,7 @@
     "nr_oi_ratio": -0.01873637638434447,
     "comm_cot_index": 59.7,
     "mm_cot_index": 58.7,
-    "other_cot_index": 0.0,
+    "other_cot_index": -14.9,
     "nr_cot_index": 27.9
   },
   {
@@ -12708,10 +12708,10 @@
     "mm_oi_ratio": 0.24870882785511508,
     "other_oi_ratio": 0.07472765673632725,
     "nr_oi_ratio": 0.02565028901734104,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -14.7,
+    "mm_cot_index": 130.1,
     "other_cot_index": 8.6,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 105.2
   },
   {
     "date": "2015-10-27",
@@ -12734,7 +12734,7 @@
     "mm_oi_ratio": 0.24442349715069198,
     "other_oi_ratio": 0.09285316423154377,
     "nr_oi_ratio": 0.018025622348858135,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -2.0,
     "mm_cot_index": 98.5,
     "other_cot_index": 39.7,
     "nr_cot_index": 87.4
@@ -12838,8 +12838,8 @@
     "mm_oi_ratio": -0.04190040356545681,
     "other_oi_ratio": 0.08289058472988774,
     "nr_oi_ratio": -0.010859808149256358,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 101.2,
+    "mm_cot_index": -3.0,
     "other_cot_index": 22.6,
     "nr_cot_index": 39.5
   },
@@ -12864,8 +12864,8 @@
     "mm_oi_ratio": -0.05260653808768609,
     "other_oi_ratio": 0.07754642656162071,
     "nr_oi_ratio": -0.017493733053665524,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 107.0,
+    "mm_cot_index": -3.7,
     "other_cot_index": 13.4,
     "nr_cot_index": 28.5
   },
@@ -12917,7 +12917,7 @@
     "other_oi_ratio": 0.10455461651796677,
     "nr_oi_ratio": -0.01378714086928051,
     "comm_cot_index": 96.1,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -5.6,
     "other_cot_index": 59.7,
     "nr_cot_index": 34.7
   },
@@ -13153,7 +13153,7 @@
     "comm_cot_index": 13.7,
     "mm_cot_index": 81.2,
     "other_cot_index": 31.1,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 119.0
   },
   {
     "date": "2016-02-23",
@@ -13176,10 +13176,10 @@
     "mm_oi_ratio": 0.24500213344112826,
     "other_oi_ratio": 0.0805789485503829,
     "nr_oi_ratio": 0.04080711446473085,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -3.2,
     "mm_cot_index": 98.8,
     "other_cot_index": 14.2,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 113.0
   },
   {
     "date": "2016-03-01",
@@ -13202,10 +13202,10 @@
     "mm_oi_ratio": 0.23164763458401305,
     "other_oi_ratio": 0.10663071101197412,
     "nr_oi_ratio": 0.04221016302116279,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -3.9,
     "mm_cot_index": 94.6,
     "other_cot_index": 73.9,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 102.4
   },
   {
     "date": "2016-03-08",
@@ -13228,8 +13228,8 @@
     "mm_oi_ratio": 0.25530844903928995,
     "other_oi_ratio": 0.09493498427200417,
     "nr_oi_ratio": 0.04119733124962433,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -2.9,
+    "mm_cot_index": 102.1,
     "other_cot_index": 47.1,
     "nr_cot_index": 98.3
   },
@@ -13255,7 +13255,7 @@
     "other_oi_ratio": 0.08058431997663694,
     "nr_oi_ratio": 0.03248723346434496,
     "comm_cot_index": 4.0,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 102.4,
     "other_cot_index": 13.5,
     "nr_cot_index": 83.7
   },
@@ -13280,9 +13280,9 @@
     "mm_oi_ratio": 0.28379349718652747,
     "other_oi_ratio": 0.06645788408845645,
     "nr_oi_ratio": 0.041449021600966744,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
+    "comm_cot_index": -0.1,
+    "mm_cot_index": 106.2,
+    "other_cot_index": -19.1,
     "nr_cot_index": 98.7
   },
   {
@@ -13306,8 +13306,8 @@
     "mm_oi_ratio": 0.320952168854496,
     "other_oi_ratio": 0.07409758544397985,
     "nr_oi_ratio": 0.03779286976466352,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -10.7,
+    "mm_cot_index": 110.5,
     "other_cot_index": 14.8,
     "nr_cot_index": 92.6
   },
@@ -13332,8 +13332,8 @@
     "mm_oi_ratio": 0.3222103633456656,
     "other_oi_ratio": 0.07939775656304446,
     "nr_oi_ratio": 0.03553092846566293,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -1.0,
+    "mm_cot_index": 100.3,
     "other_cot_index": 25.1,
     "nr_cot_index": 88.8
   },
@@ -13358,8 +13358,8 @@
     "mm_oi_ratio": 0.3382085653181322,
     "other_oi_ratio": 0.08557191644384894,
     "nr_oi_ratio": 0.03563762207074801,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -5.2,
+    "mm_cot_index": 104.1,
     "other_cot_index": 37.0,
     "nr_cot_index": 89.0
   },
@@ -13384,10 +13384,10 @@
     "mm_oi_ratio": 0.3459095505740755,
     "other_oi_ratio": 0.08489443328545232,
     "nr_oi_ratio": 0.046259817098489864,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -3.9,
+    "mm_cot_index": 101.9,
     "other_cot_index": 35.7,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 106.8
   },
   {
     "date": "2016-04-26",
@@ -13410,7 +13410,7 @@
     "mm_oi_ratio": 0.3455624201621261,
     "other_oi_ratio": 0.09802885812759599,
     "nr_oi_ratio": 0.03866563295868114,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -1.1,
     "mm_cot_index": 99.9,
     "other_cot_index": 61.2,
     "nr_cot_index": 88.1
@@ -13436,8 +13436,8 @@
     "mm_oi_ratio": 0.38689476716851606,
     "other_oi_ratio": 0.09324041048192387,
     "nr_oi_ratio": 0.04109944960355195,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -8.2,
+    "mm_cot_index": 109.9,
     "other_cot_index": 51.9,
     "nr_cot_index": 91.9
   },
@@ -13592,8 +13592,8 @@
     "mm_oi_ratio": 0.4203485056577618,
     "other_oi_ratio": 0.09282359995379173,
     "nr_oi_ratio": 0.03340013972498748,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -5.2,
+    "mm_cot_index": 107.4,
     "other_cot_index": 53.8,
     "nr_cot_index": 79.9
   },
@@ -13619,7 +13619,7 @@
     "other_oi_ratio": 0.07405029071751147,
     "nr_oi_ratio": 0.03395874488422917,
     "comm_cot_index": 0.1,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 103.6,
     "other_cot_index": 15.5,
     "nr_cot_index": 80.7
   },
@@ -13672,7 +13672,7 @@
     "nr_oi_ratio": 0.03712875456949849,
     "comm_cot_index": 5.7,
     "mm_cot_index": 95.4,
-    "other_cot_index": 0.0,
+    "other_cot_index": -1.6,
     "nr_cot_index": 83.4
   },
   {
@@ -13698,7 +13698,7 @@
     "nr_oi_ratio": 0.044215032700388616,
     "comm_cot_index": 7.2,
     "mm_cot_index": 93.4,
-    "other_cot_index": 0.0,
+    "other_cot_index": -10.3,
     "nr_cot_index": 96.3
   },
   {
@@ -13724,8 +13724,8 @@
     "nr_oi_ratio": 0.0479136044753504,
     "comm_cot_index": 9.0,
     "mm_cot_index": 92.6,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 100.0
+    "other_cot_index": -11.4,
+    "nr_cot_index": 103.7
   },
   {
     "date": "2016-07-26",
@@ -13751,7 +13751,7 @@
     "comm_cot_index": 3.0,
     "mm_cot_index": 97.6,
     "other_cot_index": 0.7,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 111.8
   },
   {
     "date": "2016-08-02",
@@ -13774,7 +13774,7 @@
     "mm_oi_ratio": 0.4375200743373107,
     "other_oi_ratio": 0.06776580998984905,
     "nr_oi_ratio": 0.05125976664817394,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -3.4,
     "mm_cot_index": 99.8,
     "other_cot_index": 25.7,
     "nr_cot_index": 97.5
@@ -13853,7 +13853,7 @@
     "other_oi_ratio": 0.07142570417803282,
     "nr_oi_ratio": 0.03990763962699813,
     "comm_cot_index": 1.4,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 102.2,
     "other_cot_index": 32.7,
     "nr_cot_index": 43.7
   },
@@ -13904,8 +13904,8 @@
     "mm_oi_ratio": 0.4563316041824683,
     "other_oi_ratio": 0.06488548325929136,
     "nr_oi_ratio": 0.03743803499837469,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -1.2,
+    "mm_cot_index": 107.6,
     "other_cot_index": 21.6,
     "nr_cot_index": 32.4
   },
@@ -13959,7 +13959,7 @@
     "comm_cot_index": 26.8,
     "mm_cot_index": 55.5,
     "other_cot_index": 46.4,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 143.4
   },
   {
     "date": "2016-09-27",
@@ -14060,8 +14060,8 @@
     "mm_oi_ratio": 0.2634565978823525,
     "other_oi_ratio": 0.09790347663566444,
     "nr_oi_ratio": 0.046378613490094776,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 104.9,
+    "mm_cot_index": -14.7,
     "other_cot_index": 89.0,
     "nr_cot_index": 51.2
   },
@@ -14088,7 +14088,7 @@
     "nr_oi_ratio": 0.04061920700055357,
     "comm_cot_index": 86.1,
     "mm_cot_index": 10.4,
-    "other_cot_index": 100.0,
+    "other_cot_index": 102.6,
     "nr_cot_index": 32.8
   },
   {
@@ -14218,7 +14218,7 @@
     "nr_oi_ratio": 0.04006547338787805,
     "comm_cot_index": 96.0,
     "mm_cot_index": 0.1,
-    "other_cot_index": 100.0,
+    "other_cot_index": 110.9,
     "nr_cot_index": 31.0
   },
   {
@@ -14242,9 +14242,9 @@
     "mm_oi_ratio": 0.20918165092853294,
     "other_oi_ratio": 0.13737916874193187,
     "nr_oi_ratio": 0.047173742897510695,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "comm_cot_index": 109.3,
+    "mm_cot_index": -28.1,
+    "other_cot_index": 149.1,
     "nr_cot_index": 48.8
   },
   {
@@ -14268,9 +14268,9 @@
     "mm_oi_ratio": 0.17307837615922061,
     "other_oi_ratio": 0.1526141338021429,
     "nr_oi_ratio": 0.05182175833807684,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "comm_cot_index": 109.8,
+    "mm_cot_index": -14.6,
+    "other_cot_index": 118.3,
     "nr_cot_index": 64.6
   },
   {
@@ -14294,9 +14294,9 @@
     "mm_oi_ratio": 0.1349642929707195,
     "other_oi_ratio": 0.15308495187640628,
     "nr_oi_ratio": 0.04813111892058666,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "comm_cot_index": 122.8,
+    "mm_cot_index": -13.5,
+    "other_cot_index": 100.5,
     "nr_cot_index": 44.9
   },
   {
@@ -14320,8 +14320,8 @@
     "mm_oi_ratio": 0.10800646554407951,
     "other_oi_ratio": 0.13692458276568878,
     "nr_oi_ratio": 0.0563468679718963,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 115.7,
+    "mm_cot_index": -8.4,
     "other_cot_index": 83.6,
     "nr_cot_index": 78.5
   },
@@ -14346,8 +14346,8 @@
     "mm_oi_ratio": 0.08608270363314832,
     "other_oi_ratio": 0.1412686937949905,
     "nr_oi_ratio": 0.049595806655944694,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 109.5,
+    "mm_cot_index": -6.3,
     "other_cot_index": 88.0,
     "nr_cot_index": 50.3
   },
@@ -14375,7 +14375,7 @@
     "comm_cot_index": 97.7,
     "mm_cot_index": 10.6,
     "other_cot_index": 67.7,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -2.7
   },
   {
     "date": "2017-01-17",
@@ -14398,10 +14398,10 @@
     "mm_oi_ratio": 0.1253053295635951,
     "other_oi_ratio": 0.1034455492940289,
     "nr_oi_ratio": 0.03434222983008396,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 104.9,
     "mm_cot_index": 10.6,
     "other_cot_index": 49.5,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -9.8
   },
   {
     "date": "2017-01-24",
@@ -14424,7 +14424,7 @@
     "mm_oi_ratio": 0.12387483570839225,
     "other_oi_ratio": 0.10293465236517722,
     "nr_oi_ratio": 0.03517395216160075,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 100.4,
     "mm_cot_index": 10.2,
     "other_cot_index": 44.3,
     "nr_cot_index": 3.0
@@ -14453,7 +14453,7 @@
     "comm_cot_index": 76.8,
     "mm_cot_index": 24.1,
     "other_cot_index": 67.5,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -9.5
   },
   {
     "date": "2017-02-07",
@@ -14635,7 +14635,7 @@
     "comm_cot_index": 90.4,
     "mm_cot_index": 11.3,
     "other_cot_index": 79.3,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -13.1
   },
   {
     "date": "2017-03-28",
@@ -14763,7 +14763,7 @@
     "other_oi_ratio": 0.08466023088962887,
     "nr_oi_ratio": 0.02920890364192149,
     "comm_cot_index": 7.0,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 103.4,
     "other_cot_index": 3.0,
     "nr_cot_index": 2.5
   },
@@ -14920,8 +14920,8 @@
     "nr_oi_ratio": 0.024064804338101493,
     "comm_cot_index": 6.8,
     "mm_cot_index": 99.7,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 0.0
+    "other_cot_index": -10.1,
+    "nr_cot_index": -16.0
   },
   {
     "date": "2017-06-13",
@@ -15022,8 +15022,8 @@
     "mm_oi_ratio": 0.07368531564891591,
     "other_oi_ratio": 0.13147390316294147,
     "nr_oi_ratio": 0.029367827279467892,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 114.5,
+    "mm_cot_index": -15.4,
     "other_cot_index": 86.3,
     "nr_cot_index": 27.1
   },
@@ -15048,8 +15048,8 @@
     "mm_oi_ratio": 0.048819662412307716,
     "other_oi_ratio": 0.07786507003819883,
     "nr_oi_ratio": 0.028709039268903377,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 136.6,
+    "mm_cot_index": -9.4,
     "other_cot_index": 0.2,
     "nr_cot_index": 23.7
   },
@@ -15074,9 +15074,9 @@
     "mm_oi_ratio": 0.05971243525456213,
     "other_oi_ratio": 0.06448728221989079,
     "nr_oi_ratio": 0.027874614831765124,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 101.1,
     "mm_cot_index": 3.8,
-    "other_cot_index": 0.0,
+    "other_cot_index": -21.3,
     "nr_cot_index": 19.4
   },
   {
@@ -15102,7 +15102,7 @@
     "nr_oi_ratio": 0.026975574944968706,
     "comm_cot_index": 76.3,
     "mm_cot_index": 38.1,
-    "other_cot_index": 0.0,
+    "other_cot_index": -36.3,
     "nr_cot_index": 14.9
   },
   {
@@ -15128,7 +15128,7 @@
     "nr_oi_ratio": 0.030561009473846077,
     "comm_cot_index": 43.9,
     "mm_cot_index": 74.7,
-    "other_cot_index": 0.0,
+    "other_cot_index": -11.8,
     "nr_cot_index": 33.2
   },
   {
@@ -15155,7 +15155,7 @@
     "comm_cot_index": 31.9,
     "mm_cot_index": 88.2,
     "other_cot_index": 3.2,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -1.4
   },
   {
     "date": "2017-08-15",
@@ -15179,9 +15179,9 @@
     "other_oi_ratio": 0.02338880275191925,
     "nr_oi_ratio": 0.018616047422063478,
     "comm_cot_index": 13.2,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 0.0
+    "mm_cot_index": 111.3,
+    "other_cot_index": -1.4,
+    "nr_cot_index": -26.0
   },
   {
     "date": "2017-08-22",
@@ -15205,7 +15205,7 @@
     "other_oi_ratio": 0.028692578375559254,
     "nr_oi_ratio": 0.022939675447553466,
     "comm_cot_index": 3.8,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 105.7,
     "other_cot_index": 4.5,
     "nr_cot_index": 17.3
   },
@@ -15230,9 +15230,9 @@
     "mm_oi_ratio": 0.41034748318255626,
     "other_oi_ratio": 0.018410577592205983,
     "nr_oi_ratio": 0.03151380190211088,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
+    "comm_cot_index": -3.2,
+    "mm_cot_index": 106.6,
+    "other_cot_index": -4.3,
     "nr_cot_index": 51.5
   },
   {
@@ -15256,9 +15256,9 @@
     "mm_oi_ratio": 0.41845604489632454,
     "other_oi_ratio": 0.014307968885901447,
     "nr_oi_ratio": 0.029125802507687665,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
+    "comm_cot_index": -0.5,
+    "mm_cot_index": 102.2,
+    "other_cot_index": -3.4,
     "nr_cot_index": 48.1
   },
   {
@@ -15282,9 +15282,9 @@
     "mm_oi_ratio": 0.43664206019228186,
     "other_oi_ratio": 0.0021408666117814835,
     "nr_oi_ratio": 0.029861902908340596,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
+    "comm_cot_index": -2.2,
+    "mm_cot_index": 104.9,
+    "other_cot_index": -9.7,
     "nr_cot_index": 52.2
   },
   {
@@ -15389,7 +15389,7 @@
     "comm_cot_index": 12.6,
     "mm_cot_index": 72.4,
     "other_cot_index": 38.6,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 118.0
   },
   {
     "date": "2017-10-17",
@@ -15568,7 +15568,7 @@
     "mm_oi_ratio": 0.39407713225223795,
     "other_oi_ratio": 0.05136261685953038,
     "nr_oi_ratio": 0.04391338004406423,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -6.5,
     "mm_cot_index": 89.0,
     "other_cot_index": 38.1,
     "nr_cot_index": 99.6
@@ -15804,7 +15804,7 @@
     "nr_oi_ratio": 0.031848705241252065,
     "comm_cot_index": 39.2,
     "mm_cot_index": 75.4,
-    "other_cot_index": 0.0,
+    "other_cot_index": -3.3,
     "nr_cot_index": 52.1
   },
   {
@@ -15883,7 +15883,7 @@
     "comm_cot_index": 37.2,
     "mm_cot_index": 60.7,
     "other_cot_index": 36.1,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 108.0
   },
   {
     "date": "2018-02-27",
@@ -16117,7 +16117,7 @@
     "comm_cot_index": 76.6,
     "mm_cot_index": 11.7,
     "other_cot_index": 89.0,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 123.8
   },
   {
     "date": "2018-05-01",
@@ -16140,9 +16140,9 @@
     "mm_oi_ratio": 0.07743286145313891,
     "other_oi_ratio": 0.13286302869882385,
     "nr_oi_ratio": 0.049419406171468186,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "comm_cot_index": 103.5,
+    "mm_cot_index": -41.7,
+    "other_cot_index": 161.4,
     "nr_cot_index": 98.9
   },
   {
@@ -16168,8 +16168,8 @@
     "nr_oi_ratio": 0.05605232418528362,
     "comm_cot_index": 93.5,
     "mm_cot_index": 2.3,
-    "other_cot_index": 100.0,
-    "nr_cot_index": 100.0
+    "other_cot_index": 100.8,
+    "nr_cot_index": 128.4
   },
   {
     "date": "2018-05-15",
@@ -16192,9 +16192,9 @@
     "mm_oi_ratio": 0.03653756649575542,
     "other_oi_ratio": 0.14125179341408345,
     "nr_oi_ratio": 0.04932321456733044,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "comm_cot_index": 114.2,
+    "mm_cot_index": -12.9,
+    "other_cot_index": 105.5,
     "nr_cot_index": 76.7
   },
   {
@@ -16219,8 +16219,8 @@
     "other_oi_ratio": 0.14798127815931061,
     "nr_oi_ratio": 0.048947990026683,
     "comm_cot_index": 99.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "mm_cot_index": -1.0,
+    "other_cot_index": 104.7,
     "nr_cot_index": 75.4
   },
   {
@@ -16323,8 +16323,8 @@
     "other_oi_ratio": 0.183591156092197,
     "nr_oi_ratio": 0.03760475717686748,
     "comm_cot_index": 91.7,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "mm_cot_index": -3.1,
+    "other_cot_index": 124.0,
     "nr_cot_index": 36.0
   },
   {
@@ -16348,8 +16348,8 @@
     "mm_oi_ratio": -5.1219340422943705e-05,
     "other_oi_ratio": 0.16367993887825377,
     "nr_oi_ratio": 0.03903553981983597,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 112.2,
+    "mm_cot_index": -6.5,
     "other_cot_index": 89.2,
     "nr_cot_index": 41.0
   },
@@ -16374,8 +16374,8 @@
     "mm_oi_ratio": -0.0025376190900186983,
     "other_oi_ratio": 0.16104167847111486,
     "nr_oi_ratio": 0.029996114650197102,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 106.3,
+    "mm_cot_index": -0.7,
     "other_cot_index": 87.8,
     "nr_cot_index": 9.6
   },
@@ -16401,7 +16401,7 @@
     "other_oi_ratio": 0.16672392189724639,
     "nr_oi_ratio": 0.03764945104479212,
     "comm_cot_index": 95.5,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -0.7,
     "other_cot_index": 90.8,
     "nr_cot_index": 36.2
   },
@@ -16426,8 +16426,8 @@
     "mm_oi_ratio": -0.05006644228985496,
     "other_oi_ratio": 0.1595561427884561,
     "nr_oi_ratio": 0.029897137492002318,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 120.6,
+    "mm_cot_index": -12.0,
     "other_cot_index": 86.9,
     "nr_cot_index": 9.3
   },
@@ -16452,8 +16452,8 @@
     "mm_oi_ratio": -0.07333977689178849,
     "other_oi_ratio": 0.1711952800934316,
     "nr_oi_ratio": 0.034374370746244616,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 102.5,
+    "mm_cot_index": -5.5,
     "other_cot_index": 93.3,
     "nr_cot_index": 24.8
   },
@@ -16478,8 +16478,8 @@
     "mm_oi_ratio": -0.09395234781456076,
     "other_oi_ratio": 0.17201842462802797,
     "nr_oi_ratio": 0.027793794390871634,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 108.9,
+    "mm_cot_index": -5.0,
     "other_cot_index": 93.3,
     "nr_cot_index": 2.0
   },
@@ -16504,8 +16504,8 @@
     "mm_oi_ratio": -0.1438949755590088,
     "other_oi_ratio": 0.1715091604748038,
     "nr_oi_ratio": 0.028121286514579714,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 115.6,
+    "mm_cot_index": -11.7,
     "other_cot_index": 93.0,
     "nr_cot_index": 1.2
   },
@@ -16530,10 +16530,10 @@
     "mm_oi_ratio": -0.1747790719869782,
     "other_oi_ratio": 0.1670431829575512,
     "nr_oi_ratio": 0.023153129909657066,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 110.8,
+    "mm_cot_index": -6.5,
     "other_cot_index": 89.3,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -16.4
   },
   {
     "date": "2018-08-21",
@@ -16556,10 +16556,10 @@
     "mm_oi_ratio": -0.18611208732143963,
     "other_oi_ratio": 0.16810617493229693,
     "nr_oi_ratio": 0.021489260537903374,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 102.9,
+    "mm_cot_index": -2.4,
     "other_cot_index": 88.1,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -5.1
   },
   {
     "date": "2018-08-28",
@@ -16608,10 +16608,10 @@
     "mm_oi_ratio": -0.1748443305898317,
     "other_oi_ratio": 0.14631656373251492,
     "nr_oi_ratio": 0.014736281435075393,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 104.1,
     "mm_cot_index": 2.3,
     "other_cot_index": 69.9,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -19.5
   },
   {
     "date": "2018-09-11",
@@ -16686,7 +16686,7 @@
     "mm_oi_ratio": -0.18179625835634475,
     "other_oi_ratio": 0.14345429619860997,
     "nr_oi_ratio": 0.022959987312043347,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 100.4,
     "mm_cot_index": 1.0,
     "other_cot_index": 67.6,
     "nr_cot_index": 19.9
@@ -16712,7 +16712,7 @@
     "mm_oi_ratio": -0.17313430888084633,
     "other_oi_ratio": 0.1256720663975501,
     "nr_oi_ratio": 0.02815936456013363,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 101.0,
     "mm_cot_index": 2.9,
     "other_cot_index": 53.3,
     "nr_cot_index": 32.5
@@ -16738,8 +16738,8 @@
     "mm_oi_ratio": -0.23525694622065843,
     "other_oi_ratio": 0.1532048154445001,
     "nr_oi_ratio": 0.026456573090340094,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 109.5,
+    "mm_cot_index": -11.0,
     "other_cot_index": 75.5,
     "nr_cot_index": 28.4
   },
@@ -16896,7 +16896,7 @@
     "nr_oi_ratio": 0.027082937217173062,
     "comm_cot_index": 73.0,
     "mm_cot_index": 38.1,
-    "other_cot_index": 0.0,
+    "other_cot_index": -17.6,
     "nr_cot_index": 34.2
   },
   {
@@ -16975,7 +16975,7 @@
     "comm_cot_index": 17.2,
     "mm_cot_index": 91.2,
     "other_cot_index": 51.5,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 111.9
   },
   {
     "date": "2018-12-18",
@@ -16998,8 +16998,8 @@
     "mm_oi_ratio": 0.027147653854079544,
     "other_oi_ratio": 0.1570044971332291,
     "nr_oi_ratio": 0.04052268567341843,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -8.5,
+    "mm_cot_index": 111.6,
     "other_cot_index": 73.4,
     "nr_cot_index": 94.8
   },
@@ -17024,8 +17024,8 @@
     "mm_oi_ratio": 0.09479430890819851,
     "other_oi_ratio": 0.1558906504459859,
     "nr_oi_ratio": 0.03892692336360782,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -23.2,
+    "mm_cot_index": 125.8,
     "other_cot_index": 71.5,
     "nr_cot_index": 88.9
   },
@@ -17050,10 +17050,10 @@
     "mm_oi_ratio": 0.11118397731300957,
     "other_oi_ratio": 0.1630361573909961,
     "nr_oi_ratio": 0.0461760014179369,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -8.9,
+    "mm_cot_index": 105.0,
     "other_cot_index": 84.1,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 115.6
   },
   {
     "date": "2019-01-08",
@@ -17079,7 +17079,7 @@
     "comm_cot_index": 14.4,
     "mm_cot_index": 88.5,
     "other_cot_index": 55.1,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 106.6
   },
   {
     "date": "2019-01-15",
@@ -17130,7 +17130,7 @@
     "nr_oi_ratio": 0.03422140605130582,
     "comm_cot_index": 37.5,
     "mm_cot_index": 77.0,
-    "other_cot_index": 0.0,
+    "other_cot_index": -3.5,
     "nr_cot_index": 58.1
   },
   {
@@ -17232,8 +17232,8 @@
     "mm_oi_ratio": 0.16323946425068217,
     "other_oi_ratio": 0.12537675447200872,
     "nr_oi_ratio": 0.04127703169988844,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -2.5,
+    "mm_cot_index": 115.0,
     "other_cot_index": 23.9,
     "nr_cot_index": 79.2
   },
@@ -17287,7 +17287,7 @@
     "comm_cot_index": 22.8,
     "mm_cot_index": 75.7,
     "other_cot_index": 14.0,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 121.3
   },
   {
     "date": "2019-03-12",
@@ -17313,7 +17313,7 @@
     "comm_cot_index": 32.5,
     "mm_cot_index": 67.3,
     "other_cot_index": 4.7,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 102.3
   },
   {
     "date": "2019-03-19",
@@ -17338,7 +17338,7 @@
     "nr_oi_ratio": 0.053024041014230895,
     "comm_cot_index": 27.2,
     "mm_cot_index": 73.9,
-    "other_cot_index": 0.0,
+    "other_cot_index": -1.8,
     "nr_cot_index": 91.7
   },
   {
@@ -17365,7 +17365,7 @@
     "comm_cot_index": 8.5,
     "mm_cot_index": 87.6,
     "other_cot_index": 17.7,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 116.5
   },
   {
     "date": "2019-04-02",
@@ -17622,8 +17622,8 @@
     "mm_oi_ratio": 0.19975700682250075,
     "other_oi_ratio": 0.1244727359577981,
     "nr_oi_ratio": 0.03418727089585562,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -14.3,
+    "mm_cot_index": 115.2,
     "other_cot_index": 23.5,
     "nr_cot_index": 26.1
   },
@@ -17648,9 +17648,9 @@
     "mm_oi_ratio": 0.26005561114880715,
     "other_oi_ratio": 0.11089612070961598,
     "nr_oi_ratio": 0.03581704294461234,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
+    "comm_cot_index": -21.2,
+    "mm_cot_index": 121.8,
+    "other_cot_index": -3.5,
     "nr_cot_index": 30.5
   },
   {
@@ -17674,9 +17674,9 @@
     "mm_oi_ratio": 0.2863502499828779,
     "other_oi_ratio": 0.10236551529956091,
     "nr_oi_ratio": 0.03715879429871622,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
+    "comm_cot_index": -6.9,
+    "mm_cot_index": 107.8,
+    "other_cot_index": -16.4,
     "nr_cot_index": 34.1
   },
   {
@@ -17700,9 +17700,9 @@
     "mm_oi_ratio": 0.3077206741631392,
     "other_oi_ratio": 0.10182217951714406,
     "nr_oi_ratio": 0.040851446923070266,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
+    "comm_cot_index": -8.3,
+    "mm_cot_index": 105.9,
+    "other_cot_index": -0.9,
     "nr_cot_index": 44.0
   },
   {
@@ -17726,8 +17726,8 @@
     "mm_oi_ratio": 0.320302533711583,
     "other_oi_ratio": 0.10703706087476009,
     "nr_oi_ratio": 0.04600387161295753,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -7.2,
+    "mm_cot_index": 103.3,
     "other_cot_index": 8.6,
     "nr_cot_index": 57.7
   },
@@ -17830,8 +17830,8 @@
     "mm_oi_ratio": 0.3296887260384379,
     "other_oi_ratio": 0.12191593082169651,
     "nr_oi_ratio": 0.059611431249534,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -11.0,
+    "mm_cot_index": 102.4,
     "other_cot_index": 33.0,
     "nr_cot_index": 94.1
   },
@@ -17856,8 +17856,8 @@
     "mm_oi_ratio": 0.3778553664147442,
     "other_oi_ratio": 0.10946216748817708,
     "nr_oi_ratio": 0.052938697388213225,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -7.6,
+    "mm_cot_index": 111.8,
     "other_cot_index": 12.6,
     "nr_cot_index": 76.3
   },
@@ -17882,7 +17882,7 @@
     "mm_oi_ratio": 0.376473579117856,
     "other_oi_ratio": 0.11192466858149175,
     "nr_oi_ratio": 0.056631569022934126,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -1.2,
     "mm_cot_index": 99.7,
     "other_cot_index": 16.6,
     "nr_cot_index": 86.2
@@ -17908,8 +17908,8 @@
     "mm_oi_ratio": 0.38642114164762686,
     "other_oi_ratio": 0.11793237134061973,
     "nr_oi_ratio": 0.06095590670587266,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -4.9,
+    "mm_cot_index": 101.9,
     "other_cot_index": 26.5,
     "nr_cot_index": 97.7
   },
@@ -18457,7 +18457,7 @@
     "comm_cot_index": 90.4,
     "mm_cot_index": 29.9,
     "other_cot_index": 31.0,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -0.0
   },
   {
     "date": "2020-01-21",
@@ -18508,7 +18508,7 @@
     "nr_oi_ratio": 0.042935465432352396,
     "comm_cot_index": 43.7,
     "mm_cot_index": 43.0,
-    "other_cot_index": 100.0,
+    "other_cot_index": 194.8,
     "nr_cot_index": 20.2
   },
   {
@@ -18534,7 +18534,7 @@
     "nr_oi_ratio": 0.048705108070617134,
     "comm_cot_index": 41.9,
     "mm_cot_index": 21.5,
-    "other_cot_index": 100.0,
+    "other_cot_index": 152.6,
     "nr_cot_index": 45.7
   },
   {
@@ -18584,7 +18584,7 @@
     "mm_oi_ratio": 0.33348291736391,
     "other_oi_ratio": 0.16091187543424804,
     "nr_oi_ratio": 0.04468368569459415,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -6.2,
     "mm_cot_index": 73.1,
     "other_cot_index": 74.5,
     "nr_cot_index": 31.1
@@ -18690,8 +18690,8 @@
     "nr_oi_ratio": 0.03448708454937492,
     "comm_cot_index": 11.8,
     "mm_cot_index": 18.4,
-    "other_cot_index": 100.0,
-    "nr_cot_index": 0.0
+    "other_cot_index": 161.0,
+    "nr_cot_index": -19.8
   },
   {
     "date": "2020-03-24",
@@ -18714,9 +18714,9 @@
     "mm_oi_ratio": 0.28759221974151067,
     "other_oi_ratio": 0.23926341137221513,
     "nr_oi_ratio": 0.0428568296506338,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -27.0,
     "mm_cot_index": 46.5,
-    "other_cot_index": 100.0,
+    "other_cot_index": 114.8,
     "nr_cot_index": 35.5
   },
   {
@@ -18740,7 +18740,7 @@
     "mm_oi_ratio": 0.3078732659204442,
     "other_oi_ratio": 0.21436612784776415,
     "nr_oi_ratio": 0.05066054409141898,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -2.2,
     "mm_cot_index": 70.2,
     "other_cot_index": 80.5,
     "nr_cot_index": 68.7
@@ -18766,7 +18766,7 @@
     "mm_oi_ratio": 0.3176377460681179,
     "other_oi_ratio": 0.20093740235392146,
     "nr_oi_ratio": 0.0555546297260702,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -0.8,
     "mm_cot_index": 81.5,
     "other_cot_index": 70.0,
     "nr_cot_index": 89.5
@@ -18821,7 +18821,7 @@
     "comm_cot_index": 4.2,
     "mm_cot_index": 57.0,
     "other_cot_index": 76.7,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 121.8
   },
   {
     "date": "2020-04-28",
@@ -18844,7 +18844,7 @@
     "mm_oi_ratio": 0.2923349094278138,
     "other_oi_ratio": 0.23226694035334333,
     "nr_oi_ratio": 0.061699306731414334,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -8.2,
     "mm_cot_index": 52.1,
     "other_cot_index": 94.5,
     "nr_cot_index": 99.4
@@ -18873,7 +18873,7 @@
     "comm_cot_index": 7.4,
     "mm_cot_index": 28.1,
     "other_cot_index": 99.1,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 109.7
   },
   {
     "date": "2020-05-12",
@@ -18897,9 +18897,9 @@
     "other_oi_ratio": 0.24280557797958283,
     "nr_oi_ratio": 0.07187879349114927,
     "comm_cot_index": 17.3,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
-    "nr_cot_index": 100.0
+    "mm_cot_index": -29.9,
+    "other_cot_index": 102.8,
+    "nr_cot_index": 124.5
   },
   {
     "date": "2020-05-19",
@@ -18923,9 +18923,9 @@
     "other_oi_ratio": 0.2361280184776744,
     "nr_oi_ratio": 0.07267254191081114,
     "comm_cot_index": 24.9,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -6.3,
     "other_cot_index": 94.9,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 102.1
   },
   {
     "date": "2020-05-26",
@@ -18949,7 +18949,7 @@
     "other_oi_ratio": 0.2403528093435559,
     "nr_oi_ratio": 0.07009977395865022,
     "comm_cot_index": 39.2,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -24.6,
     "other_cot_index": 98.1,
     "nr_cot_index": 93.3
   },
@@ -18975,9 +18975,9 @@
     "other_oi_ratio": 0.24945926914628636,
     "nr_oi_ratio": 0.07901081461707428,
     "comm_cot_index": 31.6,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
-    "nr_cot_index": 100.0
+    "mm_cot_index": -5.9,
+    "other_cot_index": 105.1,
+    "nr_cot_index": 116.6
   },
   {
     "date": "2020-06-09",
@@ -19001,7 +19001,7 @@
     "other_oi_ratio": 0.2468901171212271,
     "nr_oi_ratio": 0.07325385095687896,
     "comm_cot_index": 50.6,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -15.7,
     "other_cot_index": 98.1,
     "nr_cot_index": 87.1
   },
@@ -19156,7 +19156,7 @@
     "mm_oi_ratio": 0.23256534988675892,
     "other_oi_ratio": 0.20918429944722436,
     "nr_oi_ratio": 0.062047160019763306,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 100.6,
     "mm_cot_index": 28.8,
     "other_cot_index": 62.9,
     "nr_cot_index": 61.9
@@ -19182,7 +19182,7 @@
     "mm_oi_ratio": 0.19567378125683854,
     "other_oi_ratio": 0.19989843458970413,
     "nr_oi_ratio": 0.06945203122468173,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 147.0,
     "mm_cot_index": 2.8,
     "other_cot_index": 54.3,
     "nr_cot_index": 78.5
@@ -19235,9 +19235,9 @@
     "other_oi_ratio": 0.22835843822570007,
     "nr_oi_ratio": 0.08001879478444732,
     "comm_cot_index": 83.6,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -10.7,
     "other_cot_index": 80.5,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 102.3
   },
   {
     "date": "2020-08-18",
@@ -19261,9 +19261,9 @@
     "other_oi_ratio": 0.23543684858734215,
     "nr_oi_ratio": 0.08134593114097168,
     "comm_cot_index": 77.6,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -0.7,
     "other_cot_index": 87.1,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 102.9
   },
   {
     "date": "2020-08-25",
@@ -19287,9 +19287,9 @@
     "other_oi_ratio": 0.24429892113704801,
     "nr_oi_ratio": 0.08266609865242262,
     "comm_cot_index": 83.5,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -11.1,
     "other_cot_index": 95.2,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 102.8
   },
   {
     "date": "2020-09-01",
@@ -19315,7 +19315,7 @@
     "comm_cot_index": 65.8,
     "mm_cot_index": 11.7,
     "other_cot_index": 94.0,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 105.1
   },
   {
     "date": "2020-09-08",
@@ -19390,8 +19390,8 @@
     "mm_oi_ratio": 0.14143297961196574,
     "other_oi_ratio": 0.23896075029910901,
     "nr_oi_ratio": 0.08221894605966204,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 102.0,
+    "mm_cot_index": -10.5,
     "other_cot_index": 79.4,
     "nr_cot_index": 91.6
   },
@@ -19418,7 +19418,7 @@
     "nr_oi_ratio": 0.07560331154560132,
     "comm_cot_index": 62.6,
     "mm_cot_index": 15.0,
-    "other_cot_index": 100.0,
+    "other_cot_index": 131.4,
     "nr_cot_index": 67.9
   },
   {
@@ -19444,7 +19444,7 @@
     "nr_oi_ratio": 0.07178587178587179,
     "comm_cot_index": 54.2,
     "mm_cot_index": 16.5,
-    "other_cot_index": 100.0,
+    "other_cot_index": 117.5,
     "nr_cot_index": 52.7
   },
   {
@@ -19470,7 +19470,7 @@
     "nr_oi_ratio": 0.07950874643210284,
     "comm_cot_index": 58.0,
     "mm_cot_index": 4.1,
-    "other_cot_index": 100.0,
+    "other_cot_index": 113.0,
     "nr_cot_index": 76.3
   },
   {
@@ -19523,7 +19523,7 @@
     "comm_cot_index": 41.0,
     "mm_cot_index": 30.8,
     "other_cot_index": 70.7,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 100.7
   },
   {
     "date": "2020-11-03",
@@ -19574,7 +19574,7 @@
     "nr_oi_ratio": 0.07980104082754741,
     "comm_cot_index": 36.5,
     "mm_cot_index": 4.1,
-    "other_cot_index": 100.0,
+    "other_cot_index": 105.7,
     "nr_cot_index": 77.0
   },
   {
@@ -19650,10 +19650,10 @@
     "mm_oi_ratio": 0.15898944692050063,
     "other_oi_ratio": 0.3248278015470911,
     "nr_oi_ratio": 0.06123871370636493,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -6.6,
     "mm_cot_index": 16.7,
-    "other_cot_index": 100.0,
-    "nr_cot_index": 0.0
+    "other_cot_index": 135.4,
+    "nr_cot_index": -1.2
   },
   {
     "date": "2020-12-08",
@@ -19676,10 +19676,10 @@
     "mm_oi_ratio": 0.17981329159994178,
     "other_oi_ratio": 0.3101051827049061,
     "nr_oi_ratio": 0.057328213713786574,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -2.7,
     "mm_cot_index": 36.5,
     "other_cot_index": 88.2,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -16.3
   },
   {
     "date": "2020-12-15",
@@ -19702,7 +19702,7 @@
     "mm_oi_ratio": 0.18511136225711616,
     "other_oi_ratio": 0.3083493529760196,
     "nr_oi_ratio": 0.06315433729554515,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -11.1,
     "mm_cot_index": 41.5,
     "other_cot_index": 86.8,
     "nr_cot_index": 20.9
@@ -19728,7 +19728,7 @@
     "mm_oi_ratio": 0.1928137967683663,
     "other_oi_ratio": 0.30328352672847464,
     "nr_oi_ratio": 0.06580784601145927,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -5.6,
     "mm_cot_index": 48.8,
     "other_cot_index": 82.8,
     "nr_cot_index": 30.3
@@ -19780,7 +19780,7 @@
     "mm_oi_ratio": 0.20490676547932107,
     "other_oi_ratio": 0.28608267356667744,
     "nr_oi_ratio": 0.07313390333422395,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -2.2,
     "mm_cot_index": 69.6,
     "other_cot_index": 69.0,
     "nr_cot_index": 56.6
@@ -19807,7 +19807,7 @@
     "other_oi_ratio": 0.3023969557438015,
     "nr_oi_ratio": 0.07933570700834146,
     "comm_cot_index": 40.9,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -0.7,
     "other_cot_index": 82.0,
     "nr_cot_index": 78.8
   },
@@ -19884,9 +19884,9 @@
     "mm_oi_ratio": 0.16880027537879005,
     "other_oi_ratio": 0.3256623417581551,
     "nr_oi_ratio": 0.07851949285688187,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -8.7,
     "mm_cot_index": 43.7,
-    "other_cot_index": 100.0,
+    "other_cot_index": 100.8,
     "nr_cot_index": 75.8
   },
   {
@@ -19910,7 +19910,7 @@
     "mm_oi_ratio": 0.17294831087281273,
     "other_oi_ratio": 0.3231769286479681,
     "nr_oi_ratio": 0.08049082272798136,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -3.3,
     "mm_cot_index": 50.1,
     "other_cot_index": 97.5,
     "nr_cot_index": 82.9
@@ -19937,8 +19937,8 @@
     "other_oi_ratio": 0.33202323584140464,
     "nr_oi_ratio": 0.07973702625761407,
     "comm_cot_index": 26.1,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "mm_cot_index": -8.9,
+    "other_cot_index": 106.3,
     "nr_cot_index": 80.2
   },
   {
@@ -19989,7 +19989,7 @@
     "other_oi_ratio": 0.3076563998903659,
     "nr_oi_ratio": 0.06973113950938742,
     "comm_cot_index": 88.4,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -52.5,
     "other_cot_index": 77.4,
     "nr_cot_index": 44.4
   },
@@ -20014,8 +20014,8 @@
     "mm_oi_ratio": 0.06210550972733086,
     "other_oi_ratio": 0.3075372833534865,
     "nr_oi_ratio": 0.0690419966615387,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 121.0,
+    "mm_cot_index": -34.1,
     "other_cot_index": 77.3,
     "nr_cot_index": 41.9
   },
@@ -20066,10 +20066,10 @@
     "mm_oi_ratio": 0.08964954671577503,
     "other_oi_ratio": 0.2689136215977934,
     "nr_oi_ratio": 0.057133793518272476,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 116.7,
     "mm_cot_index": 19.3,
     "other_cot_index": 10.3,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -0.7
   },
   {
     "date": "2021-03-30",
@@ -20092,10 +20092,10 @@
     "mm_oi_ratio": 0.09217005013684385,
     "other_oi_ratio": 0.26631587281547375,
     "nr_oi_ratio": 0.056059967345785874,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 100.7,
     "mm_cot_index": 21.1,
     "other_cot_index": 6.6,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -3.8
   },
   {
     "date": "2021-04-06",
@@ -20121,7 +20121,7 @@
     "comm_cot_index": 69.7,
     "mm_cot_index": 57.0,
     "other_cot_index": 5.5,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -5.1
   },
   {
     "date": "2021-04-13",
@@ -20198,7 +20198,7 @@
     "nr_oi_ratio": 0.0772398347788424,
     "comm_cot_index": 85.7,
     "mm_cot_index": 31.4,
-    "other_cot_index": 0.0,
+    "other_cot_index": -17.4,
     "nr_cot_index": 73.9
   },
   {
@@ -20224,7 +20224,7 @@
     "nr_oi_ratio": 0.06629658056601487,
     "comm_cot_index": 90.9,
     "mm_cot_index": 36.3,
-    "other_cot_index": 0.0,
+    "other_cot_index": -5.7,
     "nr_cot_index": 45.2
   },
   {
@@ -20250,7 +20250,7 @@
     "nr_oi_ratio": 0.06984056323228921,
     "comm_cot_index": 74.8,
     "mm_cot_index": 71.1,
-    "other_cot_index": 0.0,
+    "other_cot_index": -32.7,
     "nr_cot_index": 58.9
   },
   {
@@ -20276,7 +20276,7 @@
     "nr_oi_ratio": 0.0653561614880575,
     "comm_cot_index": 79.6,
     "mm_cot_index": 80.3,
-    "other_cot_index": 0.0,
+    "other_cot_index": -14.9,
     "nr_cot_index": 41.6
   },
   {
@@ -20301,7 +20301,7 @@
     "other_oi_ratio": 0.210495056491638,
     "nr_oi_ratio": 0.07101049858476882,
     "comm_cot_index": 52.4,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 103.7,
     "other_cot_index": 4.0,
     "nr_cot_index": 63.4
   },
@@ -20327,7 +20327,7 @@
     "other_oi_ratio": 0.21203684397728528,
     "nr_oi_ratio": 0.0704704434605211,
     "comm_cot_index": 42.8,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 109.8,
     "other_cot_index": 5.2,
     "nr_cot_index": 61.3
   },
@@ -20380,8 +20380,8 @@
     "nr_oi_ratio": 0.08162423692064807,
     "comm_cot_index": 58.6,
     "mm_cot_index": 85.7,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 100.0
+    "other_cot_index": -5.6,
+    "nr_cot_index": 104.4
   },
   {
     "date": "2021-06-22",
@@ -20586,7 +20586,7 @@
     "mm_oi_ratio": 0.07418404465752507,
     "other_oi_ratio": 0.2786967345022966,
     "nr_oi_ratio": 0.05706867938445033,
-    "comm_cot_index": 100.0,
+    "comm_cot_index": 103.5,
     "mm_cot_index": 7.4,
     "other_cot_index": 60.1,
     "nr_cot_index": 9.2
@@ -20615,7 +20615,7 @@
     "comm_cot_index": 72.8,
     "mm_cot_index": 36.6,
     "other_cot_index": 68.1,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -30.8
   },
   {
     "date": "2021-08-24",
@@ -20744,7 +20744,7 @@
     "nr_oi_ratio": 0.050728034661552665,
     "comm_cot_index": 77.8,
     "mm_cot_index": 13.9,
-    "other_cot_index": 100.0,
+    "other_cot_index": 108.8,
     "nr_cot_index": 12.6
   },
   {
@@ -20768,10 +20768,10 @@
     "mm_oi_ratio": 0.0628715432976543,
     "other_oi_ratio": 0.28019916146828616,
     "nr_oi_ratio": 0.044314241593291746,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 123.2,
+    "mm_cot_index": -7.5,
     "other_cot_index": 93.7,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -5.5
   },
   {
     "date": "2021-10-05",
@@ -20797,7 +20797,7 @@
     "comm_cot_index": 71.9,
     "mm_cot_index": 30.3,
     "other_cot_index": 76.8,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -1.8
   },
   {
     "date": "2021-10-12",
@@ -20951,8 +20951,8 @@
     "other_oi_ratio": 0.19163026515967693,
     "nr_oi_ratio": 0.045312530606648256,
     "comm_cot_index": 31.6,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
+    "mm_cot_index": 104.7,
+    "other_cot_index": -7.7,
     "nr_cot_index": 4.4
   },
   {
@@ -21028,7 +21028,7 @@
     "mm_oi_ratio": 0.1617061246888187,
     "other_oi_ratio": 0.2732667477123293,
     "nr_oi_ratio": 0.05695493954621105,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -5.8,
     "mm_cot_index": 58.3,
     "other_cot_index": 86.7,
     "nr_cot_index": 35.0
@@ -21290,7 +21290,7 @@
     "nr_oi_ratio": 0.04522013085233019,
     "comm_cot_index": 61.5,
     "mm_cot_index": 76.6,
-    "other_cot_index": 0.0,
+    "other_cot_index": -2.2,
     "nr_cot_index": 7.7
   },
   {
@@ -21316,8 +21316,8 @@
     "nr_oi_ratio": 0.04345792558480297,
     "comm_cot_index": 48.6,
     "mm_cot_index": 97.0,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 0.0
+    "other_cot_index": -20.0,
+    "nr_cot_index": -1.0
   },
   {
     "date": "2022-03-01",
@@ -21341,7 +21341,7 @@
     "other_oi_ratio": 0.1770646523716699,
     "nr_oi_ratio": 0.04578784925276153,
     "comm_cot_index": 26.4,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 105.3,
     "other_cot_index": 5.8,
     "nr_cot_index": 11.4
   },
@@ -21444,7 +21444,7 @@
     "mm_oi_ratio": 0.1885083399910534,
     "other_oi_ratio": 0.25985821231948003,
     "nr_oi_ratio": 0.049329789511610544,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -5.7,
     "mm_cot_index": 63.4,
     "other_cot_index": 82.4,
     "nr_cot_index": 28.8
@@ -21496,7 +21496,7 @@
     "mm_oi_ratio": 0.20259193025401678,
     "other_oi_ratio": 0.23762592207243624,
     "nr_oi_ratio": 0.058524441736101614,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -1.0,
     "mm_cot_index": 73.1,
     "other_cot_index": 62.0,
     "nr_cot_index": 73.8
@@ -21626,8 +21626,8 @@
     "mm_oi_ratio": 0.07801985043796199,
     "other_oi_ratio": 0.23751430483881417,
     "nr_oi_ratio": 0.056713737683443816,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 117.1,
+    "mm_cot_index": -13.0,
     "other_cot_index": 63.6,
     "nr_cot_index": 64.9
   },
@@ -21730,8 +21730,8 @@
     "mm_oi_ratio": 0.07418746582612332,
     "other_oi_ratio": 0.23658976874336624,
     "nr_oi_ratio": 0.04818717635328552,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 110.5,
+    "mm_cot_index": -2.3,
     "other_cot_index": 68.1,
     "nr_cot_index": 23.2
   },
@@ -21783,7 +21783,7 @@
     "other_oi_ratio": 0.24464743815454573,
     "nr_oi_ratio": 0.048921037011700086,
     "comm_cot_index": 94.8,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -0.9,
     "other_cot_index": 80.8,
     "nr_cot_index": 29.2
   },
@@ -21808,10 +21808,10 @@
     "mm_oi_ratio": 0.03419040163786355,
     "other_oi_ratio": 0.2581762710503603,
     "nr_oi_ratio": 0.03999317556853536,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 119.0,
+    "mm_cot_index": -22.8,
     "other_cot_index": 98.1,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -18.5
   },
   {
     "date": "2022-07-12",
@@ -21834,10 +21834,10 @@
     "mm_oi_ratio": -0.011305214998165876,
     "other_oi_ratio": 0.22904258672462133,
     "nr_oi_ratio": 0.03625300234288737,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 147.1,
+    "mm_cot_index": -22.0,
     "other_cot_index": 65.6,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -16.9
   },
   {
     "date": "2022-07-19",
@@ -21860,10 +21860,10 @@
     "mm_oi_ratio": -0.0357059830102175,
     "other_oi_ratio": 0.21664640443914282,
     "nr_oi_ratio": 0.032979157218370914,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 116.4,
+    "mm_cot_index": -9.7,
     "other_cot_index": 51.7,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -12.6
   },
   {
     "date": "2022-07-26",
@@ -21887,9 +21887,9 @@
     "other_oi_ratio": 0.22929140641826407,
     "nr_oi_ratio": 0.032269776314574936,
     "comm_cot_index": 97.0,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -1.2,
     "other_cot_index": 65.8,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -2.4
   },
   {
     "date": "2022-08-02",
@@ -21915,7 +21915,7 @@
     "comm_cot_index": 71.6,
     "mm_cot_index": 26.3,
     "other_cot_index": 73.3,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -26.1
   },
   {
     "date": "2022-08-09",
@@ -22045,7 +22045,7 @@
     "comm_cot_index": 89.2,
     "mm_cot_index": 9.9,
     "other_cot_index": 49.1,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -6.7
   },
   {
     "date": "2022-09-13",
@@ -22069,7 +22069,7 @@
     "other_oi_ratio": 0.2494877866777089,
     "nr_oi_ratio": 0.029318012224105728,
     "comm_cot_index": 91.1,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -0.2,
     "other_cot_index": 76.0,
     "nr_cot_index": 18.4
   },
@@ -22094,10 +22094,10 @@
     "mm_oi_ratio": -0.07817509773218717,
     "other_oi_ratio": 0.21818937142491932,
     "nr_oi_ratio": 0.020677680844491314,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 118.7,
+    "mm_cot_index": -16.0,
     "other_cot_index": 3.6,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -3.1
   },
   {
     "date": "2022-09-27",
@@ -22120,9 +22120,9 @@
     "mm_oi_ratio": -0.09428500790922875,
     "other_oi_ratio": 0.20823259914978526,
     "nr_oi_ratio": 0.022003627524553614,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 0.0,
+    "comm_cot_index": 107.3,
+    "mm_cot_index": -5.7,
+    "other_cot_index": -20.3,
     "nr_cot_index": 3.2
   },
   {
@@ -22149,7 +22149,7 @@
     "comm_cot_index": 76.6,
     "mm_cot_index": 26.5,
     "other_cot_index": 19.5,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -4.8
   },
   {
     "date": "2022-10-11",
@@ -22278,8 +22278,8 @@
     "nr_oi_ratio": 0.01802768229843737,
     "comm_cot_index": 81.1,
     "mm_cot_index": 28.9,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 0.0
+    "other_cot_index": -12.4,
+    "nr_cot_index": -1.7
   },
   {
     "date": "2022-11-15",
@@ -22305,7 +22305,7 @@
     "comm_cot_index": 49.6,
     "mm_cot_index": 69.1,
     "other_cot_index": 2.8,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -5.1
   },
   {
     "date": "2022-11-22",
@@ -22408,7 +22408,7 @@
     "nr_oi_ratio": 0.02947098663737873,
     "comm_cot_index": 23.8,
     "mm_cot_index": 92.8,
-    "other_cot_index": 0.0,
+    "other_cot_index": -0.4,
     "nr_cot_index": 40.5
   },
   {
@@ -22458,9 +22458,9 @@
     "mm_oi_ratio": 0.11561903463321516,
     "other_oi_ratio": 0.19544359603672393,
     "nr_oi_ratio": 0.038396509408235614,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
+    "comm_cot_index": -4.2,
+    "mm_cot_index": 114.0,
+    "other_cot_index": -11.3,
     "nr_cot_index": 93.3
   },
   {
@@ -22484,10 +22484,10 @@
     "mm_oi_ratio": 0.12145494033062375,
     "other_oi_ratio": 0.19378361478705722,
     "nr_oi_ratio": 0.040739397364889976,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 100.0
+    "comm_cot_index": -3.1,
+    "mm_cot_index": 102.8,
+    "other_cot_index": -3.1,
+    "nr_cot_index": 110.6
   },
   {
     "date": "2023-01-10",
@@ -22510,10 +22510,10 @@
     "mm_oi_ratio": 0.12836253605776718,
     "other_oi_ratio": 0.184262718605081,
     "nr_oi_ratio": 0.045570372093313036,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 100.0
+    "comm_cot_index": -1.0,
+    "mm_cot_index": 103.2,
+    "other_cot_index": -17.1,
+    "nr_cot_index": 119.7
   },
   {
     "date": "2023-01-17",
@@ -22537,9 +22537,9 @@
     "other_oi_ratio": 0.17051632921121226,
     "nr_oi_ratio": 0.04610038672842393,
     "comm_cot_index": 0.2,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 100.0
+    "mm_cot_index": 105.7,
+    "other_cot_index": -21.1,
+    "nr_cot_index": 101.8
   },
   {
     "date": "2023-01-24",
@@ -22562,9 +22562,9 @@
     "mm_oi_ratio": 0.15978132807389878,
     "other_oi_ratio": 0.15561071916499808,
     "nr_oi_ratio": 0.04576868222760523,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
+    "comm_cot_index": -1.3,
+    "mm_cot_index": 108.0,
+    "other_cot_index": -18.9,
     "nr_cot_index": 98.9
   },
   {
@@ -22588,8 +22588,8 @@
     "mm_oi_ratio": 0.17904893966186217,
     "other_oi_ratio": 0.160787207246174,
     "nr_oi_ratio": 0.04291178478591813,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -9.6,
+    "mm_cot_index": 107.6,
     "other_cot_index": 5.5,
     "nr_cot_index": 89.3
   },
@@ -22617,7 +22617,7 @@
     "comm_cot_index": 14.1,
     "mm_cot_index": 84.1,
     "other_cot_index": 2.0,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 129.5
   },
   {
     "date": "2023-02-14",
@@ -22642,8 +22642,8 @@
     "nr_oi_ratio": 0.05525021355687184,
     "comm_cot_index": 32.4,
     "mm_cot_index": 69.8,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 100.0
+    "other_cot_index": -4.9,
+    "nr_cot_index": 100.9
   },
   {
     "date": "2023-02-21",
@@ -22770,7 +22770,7 @@
     "mm_oi_ratio": 0.17287400452036078,
     "other_oi_ratio": 0.16467393386312076,
     "nr_oi_ratio": 0.053127008517176944,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -3.2,
     "mm_cot_index": 97.7,
     "other_cot_index": 16.0,
     "nr_cot_index": 94.6
@@ -22796,8 +22796,8 @@
     "mm_oi_ratio": 0.20718286875980702,
     "other_oi_ratio": 0.17231112531889153,
     "nr_oi_ratio": 0.04153268520782013,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -13.2,
+    "mm_cot_index": 110.5,
     "other_cot_index": 25.0,
     "nr_cot_index": 64.8
   },
@@ -22822,8 +22822,8 @@
     "mm_oi_ratio": 0.2310802531305603,
     "other_oi_ratio": 0.17852796521972672,
     "nr_oi_ratio": 0.04833064759794541,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -14.1,
+    "mm_cot_index": 108.1,
     "other_cot_index": 32.3,
     "nr_cot_index": 82.3
   },
@@ -22903,7 +22903,7 @@
     "comm_cot_index": 3.4,
     "mm_cot_index": 95.7,
     "other_cot_index": 30.6,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 102.8
   },
   {
     "date": "2023-05-02",
@@ -22980,8 +22980,8 @@
     "nr_oi_ratio": 0.060829922273835255,
     "comm_cot_index": 26.5,
     "mm_cot_index": 84.1,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 100.0
+    "other_cot_index": -8.3,
+    "nr_cot_index": 112.8
   },
   {
     "date": "2023-05-23",
@@ -23006,7 +23006,7 @@
     "nr_oi_ratio": 0.05487809969107456,
     "comm_cot_index": 34.0,
     "mm_cot_index": 81.6,
-    "other_cot_index": 0.0,
+    "other_cot_index": -5.7,
     "nr_cot_index": 84.9
   },
   {
@@ -23110,7 +23110,7 @@
     "nr_oi_ratio": 0.05378997664580846,
     "comm_cot_index": 16.2,
     "mm_cot_index": 71.2,
-    "other_cot_index": 100.0,
+    "other_cot_index": 101.4,
     "nr_cot_index": 74.8
   },
   {
@@ -23213,7 +23213,7 @@
     "other_oi_ratio": 0.16185304415644758,
     "nr_oi_ratio": 0.0422460713870866,
     "comm_cot_index": 7.4,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 104.1,
     "other_cot_index": 36.2,
     "nr_cot_index": 33.4
   },
@@ -23318,7 +23318,7 @@
     "nr_oi_ratio": 0.047955425485054576,
     "comm_cot_index": 65.8,
     "mm_cot_index": 17.7,
-    "other_cot_index": 100.0,
+    "other_cot_index": 122.3,
     "nr_cot_index": 53.9
   },
   {
@@ -23343,8 +23343,8 @@
     "other_oi_ratio": 0.21578006642819456,
     "nr_oi_ratio": 0.04437068699025425,
     "comm_cot_index": 89.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "mm_cot_index": -4.9,
+    "other_cot_index": 106.5,
     "nr_cot_index": 41.0
   },
   {
@@ -23498,9 +23498,9 @@
     "mm_oi_ratio": -0.017533729413347063,
     "other_oi_ratio": 0.22908405337340512,
     "nr_oi_ratio": 0.04813253375260304,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "comm_cot_index": 112.5,
+    "mm_cot_index": -17.8,
+    "other_cot_index": 117.8,
     "nr_cot_index": 41.5
   },
   {
@@ -23524,8 +23524,8 @@
     "mm_oi_ratio": -0.06132201906533578,
     "other_oi_ratio": 0.2249718785151856,
     "nr_oi_ratio": 0.04351670908753514,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 127.0,
+    "mm_cot_index": -17.1,
     "other_cot_index": 95.3,
     "nr_cot_index": 20.3
   },
@@ -23553,7 +23553,7 @@
     "comm_cot_index": 66.0,
     "mm_cot_index": 31.8,
     "other_cot_index": 92.1,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -20.3
   },
   {
     "date": "2023-10-24",
@@ -23732,7 +23732,7 @@
     "mm_oi_ratio": 0.22439785914591492,
     "other_oi_ratio": 0.19315484676974332,
     "nr_oi_ratio": 0.04800510391430019,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -9.4,
     "mm_cot_index": 95.1,
     "other_cot_index": 46.6,
     "nr_cot_index": 53.1
@@ -23784,7 +23784,7 @@
     "mm_oi_ratio": 0.2250110660157979,
     "other_oi_ratio": 0.1933965498968211,
     "nr_oi_ratio": 0.05344729771011403,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -2.4,
     "mm_cot_index": 95.3,
     "other_cot_index": 46.9,
     "nr_cot_index": 82.4
@@ -23810,7 +23810,7 @@
     "mm_oi_ratio": 0.21665923804755538,
     "other_oi_ratio": 0.20609635224273065,
     "nr_oi_ratio": 0.05012180900104408,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -0.4,
     "mm_cot_index": 92.5,
     "other_cot_index": 65.8,
     "nr_cot_index": 67.8
@@ -23865,7 +23865,7 @@
     "comm_cot_index": 10.7,
     "mm_cot_index": 80.5,
     "other_cot_index": 63.4,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 108.6
   },
   {
     "date": "2024-01-16",
@@ -23916,7 +23916,7 @@
     "nr_oi_ratio": 0.048551962770889856,
     "comm_cot_index": 22.8,
     "mm_cot_index": 66.7,
-    "other_cot_index": 100.0,
+    "other_cot_index": 106.1,
     "nr_cot_index": 56.1
   },
   {
@@ -24071,9 +24071,9 @@
     "other_oi_ratio": 0.17287369385262585,
     "nr_oi_ratio": 0.03286360089564391,
     "comm_cot_index": 12.9,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 101.9,
     "other_cot_index": 6.8,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -7.5
   },
   {
     "date": "2024-03-12",
@@ -24097,9 +24097,9 @@
     "other_oi_ratio": 0.11727192926362785,
     "nr_oi_ratio": 0.032304571006691124,
     "comm_cot_index": 18.8,
-    "mm_cot_index": 100.0,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 0.0
+    "mm_cot_index": 113.8,
+    "other_cot_index": -79.6,
+    "nr_cot_index": -2.1
   },
   {
     "date": "2024-03-19",
@@ -24124,8 +24124,8 @@
     "nr_oi_ratio": 0.02976934736574544,
     "comm_cot_index": 25.0,
     "mm_cot_index": 98.1,
-    "other_cot_index": 0.0,
-    "nr_cot_index": 0.0
+    "other_cot_index": -6.5,
+    "nr_cot_index": -9.4
   },
   {
     "date": "2024-03-26",
@@ -24175,7 +24175,7 @@
     "other_oi_ratio": 0.12032917037466628,
     "nr_oi_ratio": 0.03692467677908988,
     "comm_cot_index": 8.1,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 106.2,
     "other_cot_index": 8.6,
     "nr_cot_index": 24.2
   },
@@ -24356,7 +24356,7 @@
     "mm_oi_ratio": 0.27991993833291556,
     "other_oi_ratio": 0.15319332593278062,
     "nr_oi_ratio": 0.05438652370658379,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -13.4,
     "mm_cot_index": 93.3,
     "other_cot_index": 35.3,
     "nr_cot_index": 83.1
@@ -24382,8 +24382,8 @@
     "mm_oi_ratio": 0.3065900335784768,
     "other_oi_ratio": 0.1807819871042169,
     "nr_oi_ratio": 0.05019261273510084,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -40.4,
+    "mm_cot_index": 105.9,
     "other_cot_index": 57.8,
     "nr_cot_index": 69.0
   },
@@ -24408,10 +24408,10 @@
     "mm_oi_ratio": 0.3403420873855835,
     "other_oi_ratio": 0.1899559317791762,
     "nr_oi_ratio": 0.06397713458237986,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -32.6,
+    "mm_cot_index": 115.0,
     "other_cot_index": 65.2,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 115.5
   },
   {
     "date": "2024-06-11",
@@ -24434,8 +24434,8 @@
     "mm_oi_ratio": 0.35014890456144687,
     "other_oi_ratio": 0.18532609068871508,
     "nr_oi_ratio": 0.06085515397487049,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -0.9,
+    "mm_cot_index": 103.8,
     "other_cot_index": 61.4,
     "nr_cot_index": 90.9
   },
@@ -24460,8 +24460,8 @@
     "mm_oi_ratio": 0.3614781307317512,
     "other_oi_ratio": 0.18558327425761514,
     "nr_oi_ratio": 0.05546591049747381,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -2.7,
+    "mm_cot_index": 104.2,
     "other_cot_index": 61.7,
     "nr_cot_index": 75.1
   },
@@ -24695,7 +24695,7 @@
     "other_oi_ratio": 0.18381322168571143,
     "nr_oi_ratio": 0.04739081234154113,
     "comm_cot_index": 3.9,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 100.6,
     "other_cot_index": 75.5,
     "nr_cot_index": 51.5
   },
@@ -24720,8 +24720,8 @@
     "mm_oi_ratio": 0.3838764640379946,
     "other_oi_ratio": 0.18045496100690164,
     "nr_oi_ratio": 0.05342313213571783,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -7.8,
+    "mm_cot_index": 116.2,
     "other_cot_index": 78.8,
     "nr_cot_index": 69.1
   },
@@ -24798,8 +24798,8 @@
     "mm_oi_ratio": 0.40242584542815,
     "other_oi_ratio": 0.17430486192099728,
     "nr_oi_ratio": 0.04661410234233028,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -3.0,
+    "mm_cot_index": 112.7,
     "other_cot_index": 69.2,
     "nr_cot_index": 35.8
   },
@@ -24982,7 +24982,7 @@
     "nr_oi_ratio": 0.04969231265478447,
     "comm_cot_index": 64.7,
     "mm_cot_index": 51.3,
-    "other_cot_index": 0.0,
+    "other_cot_index": -20.7,
     "nr_cot_index": 35.4
   },
   {
@@ -25111,7 +25111,7 @@
     "other_oi_ratio": 0.16449499944139395,
     "nr_oi_ratio": 0.04403677696722431,
     "comm_cot_index": 7.2,
-    "mm_cot_index": 100.0,
+    "mm_cot_index": 102.8,
     "other_cot_index": 49.9,
     "nr_cot_index": 10.2
   },
@@ -25295,7 +25295,7 @@
     "comm_cot_index": 49.1,
     "mm_cot_index": 57.7,
     "other_cot_index": 42.5,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -4.8
   },
   {
     "date": "2025-02-04",
@@ -25527,8 +25527,8 @@
     "other_oi_ratio": 0.19335493417491068,
     "nr_oi_ratio": 0.05338789684528798,
     "comm_cot_index": 71.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 100.0,
+    "mm_cot_index": -24.4,
+    "other_cot_index": 124.9,
     "nr_cot_index": 73.6
   },
   {
@@ -25555,7 +25555,7 @@
     "comm_cot_index": 79.3,
     "mm_cot_index": 7.7,
     "other_cot_index": 42.2,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 186.1
   },
   {
     "date": "2025-04-15",
@@ -25579,7 +25579,7 @@
     "other_oi_ratio": 0.16940704468407544,
     "nr_oi_ratio": 0.06504638348940495,
     "comm_cot_index": 90.0,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -9.3,
     "other_cot_index": 62.4,
     "nr_cot_index": 80.4
   },
@@ -25604,9 +25604,9 @@
     "mm_oi_ratio": 0.2598081877980277,
     "other_oi_ratio": 0.1170643234891512,
     "nr_oi_ratio": 0.0577843391332564,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
-    "other_cot_index": 0.0,
+    "comm_cot_index": 149.0,
+    "mm_cot_index": -10.3,
+    "other_cot_index": -19.7,
     "nr_cot_index": 55.0
   },
   {
@@ -25630,8 +25630,8 @@
     "mm_oi_ratio": 0.23434941177512017,
     "other_oi_ratio": 0.12707914700753317,
     "nr_oi_ratio": 0.06073233776235538,
-    "comm_cot_index": 100.0,
-    "mm_cot_index": 0.0,
+    "comm_cot_index": 106.8,
+    "mm_cot_index": -17.5,
     "other_cot_index": 13.1,
     "nr_cot_index": 65.3
   },
@@ -25657,7 +25657,7 @@
     "other_oi_ratio": 0.13351929869544266,
     "nr_oi_ratio": 0.06544006153655722,
     "comm_cot_index": 98.8,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -5.1,
     "other_cot_index": 21.6,
     "nr_cot_index": 81.8
   },
@@ -25711,7 +25711,7 @@
     "comm_cot_index": 90.4,
     "mm_cot_index": 8.1,
     "other_cot_index": 11.4,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 115.8
   },
   {
     "date": "2025-05-27",
@@ -25737,7 +25737,7 @@
     "comm_cot_index": 73.5,
     "mm_cot_index": 15.3,
     "other_cot_index": 36.4,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 103.6
   },
   {
     "date": "2025-06-03",
@@ -25763,7 +25763,7 @@
     "comm_cot_index": 43.4,
     "mm_cot_index": 39.7,
     "other_cot_index": 49.3,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 108.2
   },
   {
     "date": "2025-06-10",
@@ -25789,7 +25789,7 @@
     "comm_cot_index": 40.9,
     "mm_cot_index": 42.8,
     "other_cot_index": 45.7,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 114.4
   },
   {
     "date": "2025-06-17",
@@ -25970,7 +25970,7 @@
     "nr_oi_ratio": 0.0796906968753018,
     "comm_cot_index": 12.9,
     "mm_cot_index": 47.1,
-    "other_cot_index": 100.0,
+    "other_cot_index": 109.6,
     "nr_cot_index": 87.1
   },
   {
@@ -25994,7 +25994,7 @@
     "mm_oi_ratio": 0.3424619757276263,
     "other_oi_ratio": 0.1847293543601981,
     "nr_oi_ratio": 0.07360440523343867,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -9.0,
     "mm_cot_index": 81.8,
     "other_cot_index": 81.0,
     "nr_cot_index": 70.2
@@ -26049,7 +26049,7 @@
     "comm_cot_index": 17.2,
     "mm_cot_index": 69.9,
     "other_cot_index": 65.1,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 102.3
   },
   {
     "date": "2025-08-26",
@@ -26101,7 +26101,7 @@
     "comm_cot_index": 25.3,
     "mm_cot_index": 85.8,
     "other_cot_index": 73.6,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -4.7
   },
   {
     "date": "2025-09-09",
@@ -26127,7 +26127,7 @@
     "comm_cot_index": 36.0,
     "mm_cot_index": 80.1,
     "other_cot_index": 90.5,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -74.3
   },
   {
     "date": "2025-09-16",
@@ -26152,7 +26152,7 @@
     "nr_oi_ratio": 0.06966202459799195,
     "comm_cot_index": 8.4,
     "mm_cot_index": 70.5,
-    "other_cot_index": 100.0,
+    "other_cot_index": 108.9,
     "nr_cot_index": 75.1
   },
   {
@@ -26204,7 +26204,7 @@
     "nr_oi_ratio": 0.07155066957233244,
     "comm_cot_index": 9.5,
     "mm_cot_index": 58.6,
-    "other_cot_index": 100.0,
+    "other_cot_index": 110.9,
     "nr_cot_index": 78.1
   },
   {
@@ -26255,7 +26255,7 @@
     "other_oi_ratio": 0.19680601414608842,
     "nr_oi_ratio": 0.06782999991765956,
     "comm_cot_index": 63.4,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -2.3,
     "other_cot_index": 78.9,
     "nr_cot_index": 72.1
   },
@@ -26281,7 +26281,7 @@
     "other_oi_ratio": 0.17861610724332747,
     "nr_oi_ratio": 0.07092826102141946,
     "comm_cot_index": 87.3,
-    "mm_cot_index": 0.0,
+    "mm_cot_index": -23.2,
     "other_cot_index": 57.2,
     "nr_cot_index": 77.1
   },
@@ -26308,7 +26308,7 @@
     "nr_oi_ratio": 0.07079729262647608,
     "comm_cot_index": 46.7,
     "mm_cot_index": 22.2,
-    "other_cot_index": 100.0,
+    "other_cot_index": 101.9,
     "nr_cot_index": 76.9
   },
   {
@@ -26334,7 +26334,7 @@
     "nr_oi_ratio": 0.07601038190582128,
     "comm_cot_index": 45.3,
     "mm_cot_index": 19.0,
-    "other_cot_index": 100.0,
+    "other_cot_index": 106.5,
     "nr_cot_index": 85.2
   },
   {
@@ -26386,7 +26386,7 @@
     "nr_oi_ratio": 0.07468116528552632,
     "comm_cot_index": 51.6,
     "mm_cot_index": 8.7,
-    "other_cot_index": 100.0,
+    "other_cot_index": 114.4,
     "nr_cot_index": 83.1
   },
   {
@@ -26436,10 +26436,10 @@
     "mm_oi_ratio": 0.2875194150397859,
     "other_oi_ratio": 0.23234963798418123,
     "nr_oi_ratio": 0.09029606442208894,
-    "comm_cot_index": 0.0,
+    "comm_cot_index": -6.0,
     "mm_cot_index": 62.7,
     "other_cot_index": 93.9,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 108.1
   },
   {
     "date": "2025-12-09",
@@ -26543,7 +26543,7 @@
     "comm_cot_index": 23.6,
     "mm_cot_index": 45.1,
     "other_cot_index": 73.9,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 101.7
   },
   {
     "date": "2026-01-06",
@@ -26673,7 +26673,7 @@
     "comm_cot_index": 62.3,
     "mm_cot_index": 21.5,
     "other_cot_index": 21.9,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 116.7
   },
   {
     "date": "2026-02-10",
@@ -26724,7 +26724,7 @@
     "nr_oi_ratio": 0.09056495315394102,
     "comm_cot_index": 76.6,
     "mm_cot_index": 30.5,
-    "other_cot_index": 0.0,
+    "other_cot_index": -7.9,
     "nr_cot_index": 84.6
   },
   {
@@ -26750,7 +26750,7 @@
     "nr_oi_ratio": 0.09907373471495685,
     "comm_cot_index": 80.0,
     "mm_cot_index": 25.1,
-    "other_cot_index": 0.0,
+    "other_cot_index": -8.5,
     "nr_cot_index": 95.2
   },
   {
@@ -26828,7 +26828,7 @@
     "nr_oi_ratio": 0.09426380934786625,
     "comm_cot_index": 77.0,
     "mm_cot_index": 48.7,
-    "other_cot_index": 0.0,
+    "other_cot_index": -11.3,
     "nr_cot_index": 79.9
   },
   {
@@ -26881,7 +26881,7 @@
     "comm_cot_index": 31.6,
     "mm_cot_index": 66.7,
     "other_cot_index": 55.9,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 109.1
   },
   {
     "date": "2026-04-07",
@@ -26933,7 +26933,7 @@
     "comm_cot_index": 33.3,
     "mm_cot_index": 73.0,
     "other_cot_index": 46.8,
-    "nr_cot_index": 100.0
+    "nr_cot_index": 100.2
   },
   {
     "date": "2026-04-21",
@@ -27063,7 +27063,7 @@
     "comm_cot_index": 79.4,
     "mm_cot_index": 34.8,
     "other_cot_index": 37.3,
-    "nr_cot_index": 0.0
+    "nr_cot_index": -5.7
   },
   {
     "date": "2026-05-26",
@@ -27112,8 +27112,8 @@
     "mm_oi_ratio": 0.3440524824261161,
     "other_oi_ratio": 0.19580005643271625,
     "nr_oi_ratio": 0.09300663697815073,
-    "comm_cot_index": 0.0,
-    "mm_cot_index": 100.0,
+    "comm_cot_index": -20.0,
+    "mm_cot_index": 196.0,
     "other_cot_index": 60.4,
     "nr_cot_index": 40.6
   }
