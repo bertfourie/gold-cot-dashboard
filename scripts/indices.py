@@ -30,14 +30,17 @@ def williams_cot_index(records: list[dict], lookback: int = 26) -> list[dict]:
         start = max(0, i - lookback + 1)
         window = records[start : i ]
         for src_key, dst_key in keys:
-            vals = [w[src_key] for w in window]
+                        vals = [w[src_key] for w in window]
+            if not vals:
+                new[dst_key] = 50.0
+                continue
             mn, mx = min(vals), max(vals)
             rng = mx - mn
             if rng == 0:
                 new[dst_key] = 50.0
             else:
-                new[dst_key] = round((rec[src_key] - mn) / rng * 100, 1)
-        out.append(new)
+                new[dst_key] = round((rec[src_key] - mn) / rng * 100, 1
+              out.append(new)
     return out
 
 
