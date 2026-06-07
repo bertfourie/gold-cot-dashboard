@@ -28,7 +28,7 @@ def williams_cot_index(records: list[dict], lookback: int = 26) -> list[dict]:
     for i, rec in enumerate(records):
         new = dict(rec)
         start = max(0, i - lookback + 1)
-        window = records[start : i + 1]
+        window = records[start : i ]
         for src_key, dst_key in keys:
             vals = [w[src_key] for w in window]
             mn, mx = min(vals), max(vals)
