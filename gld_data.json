@@ -925,9 +925,16 @@
   },
   {
     "date": "2026-07-10",
-    "gld_close": 376.14,
-    "gld_tonnes": 1001.1,
-    "gld_tonnes_chg": -8.4,
+    "gld_close": 366.42,
+    "gld_tonnes": 974.7,
+    "gld_tonnes_chg": -34.8,
+    "gld_volume_m": null
+  },
+  {
+    "date": "2026-07-17",
+    "gld_close": 366.58,
+    "gld_tonnes": 994.5,
+    "gld_tonnes_chg": 19.8,
     "gld_volume_m": null
   }
 ]
