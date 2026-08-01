@@ -27298,5 +27298,31 @@
     "mm_cot_index": 84.5,
     "other_cot_index": 19.5,
     "nr_cot_index": 21.2
+  },
+  {
+    "date": "2026-07-28",
+    "open_interest": 384603,
+    "comm_long": 15367,
+    "comm_short": 35916,
+    "swap_long": 23661,
+    "swap_short": 215421,
+    "mm_long": 135093,
+    "mm_short": 15298,
+    "other_long": 84529,
+    "other_short": 22254,
+    "nr_long": 61384,
+    "nr_short": 31145,
+    "comm_net": -212309,
+    "mm_net": 119795,
+    "other_net": 62275,
+    "nr_net": 30239,
+    "comm_oi_ratio": -0.5520211750818377,
+    "mm_oi_ratio": 0.31147702956035184,
+    "other_oi_ratio": 0.16192021383088537,
+    "nr_oi_ratio": 0.07862393169060043,
+    "comm_cot_index": 52.2,
+    "mm_cot_index": 72.7,
+    "other_cot_index": 30.7,
+    "nr_cot_index": 27.0
   }
 ]
