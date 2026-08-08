@@ -1078,5 +1078,13 @@
     "gs_ratio": 70.31,
     "slv_close": 52.36,
     "slv_tonnes": null
+  },
+  {
+    "date": "2026-08-07",
+    "gold_spot": 4401.3,
+    "silver_spot": 63.8,
+    "gs_ratio": 68.99,
+    "slv_close": 57.5,
+    "slv_tonnes": null
   }
 ]
