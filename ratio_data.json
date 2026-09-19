@@ -1,97 +1,97 @@
 [
   {
     "date": "2024-01-05",
-    "gold_spot": 2042.4,
+    "gold_spot": 2049.8,
     "silver_spot": 23.122,
-    "gs_ratio": 88.33,
+    "gs_ratio": 88.65,
     "slv_close": 21.21,
     "slv_tonnes": null
   },
   {
     "date": "2024-01-12",
-    "gold_spot": 2046.7,
+    "gold_spot": 2051.6,
     "silver_spot": 23.162,
-    "gs_ratio": 88.36,
+    "gs_ratio": 88.58,
     "slv_close": 21.19,
     "slv_tonnes": null
   },
   {
     "date": "2024-01-19",
-    "gold_spot": 2026.5,
+    "gold_spot": 2029.3,
     "silver_spot": 22.571,
-    "gs_ratio": 89.78,
+    "gs_ratio": 89.91,
     "slv_close": 20.67,
     "slv_tonnes": null
   },
   {
     "date": "2024-01-26",
-    "gold_spot": 2016.8,
+    "gold_spot": 2017.3,
     "silver_spot": 22.755,
-    "gs_ratio": 88.63,
+    "gs_ratio": 88.65,
     "slv_close": 20.86,
     "slv_tonnes": null
   },
   {
     "date": "2024-02-02",
-    "gold_spot": 2036.1,
+    "gold_spot": 2053.7,
     "silver_spot": 22.701,
-    "gs_ratio": 89.69,
+    "gs_ratio": 90.47,
     "slv_close": 20.75,
     "slv_tonnes": null
   },
   {
     "date": "2024-02-09",
-    "gold_spot": 2023.3,
+    "gold_spot": 2038.7,
     "silver_spot": 22.528,
-    "gs_ratio": 89.81,
+    "gs_ratio": 90.5,
     "slv_close": 20.68,
     "slv_tonnes": null
   },
   {
     "date": "2024-02-16",
-    "gold_spot": 2011.5,
+    "gold_spot": 2024.1,
     "silver_spot": 23.439,
-    "gs_ratio": 85.82,
+    "gs_ratio": 86.36,
     "slv_close": 21.39,
     "slv_tonnes": null
   },
   {
     "date": "2024-02-23",
-    "gold_spot": 2038.6,
+    "gold_spot": 2049.4,
     "silver_spot": 22.969,
-    "gs_ratio": 88.75,
+    "gs_ratio": 89.22,
     "slv_close": 20.99,
     "slv_tonnes": null
   },
   {
     "date": "2024-03-01",
-    "gold_spot": 2086.9,
+    "gold_spot": 2095.7,
     "silver_spot": 23.15,
-    "gs_ratio": 90.15,
+    "gs_ratio": 90.53,
     "slv_close": 21.17,
     "slv_tonnes": null
   },
   {
     "date": "2024-03-08",
-    "gold_spot": 2178.6,
+    "gold_spot": 2185.5,
     "silver_spot": 24.339,
-    "gs_ratio": 89.51,
+    "gs_ratio": 89.79,
     "slv_close": 22.23,
     "slv_tonnes": null
   },
   {
     "date": "2024-03-15",
-    "gold_spot": 2157.3,
+    "gold_spot": 2161.5,
     "silver_spot": 25.2,
-    "gs_ratio": 85.61,
+    "gs_ratio": 85.77,
     "slv_close": 23.03,
     "slv_tonnes": null
   },
   {
     "date": "2024-03-22",
-    "gold_spot": 2158.1,
+    "gold_spot": 2160.0,
     "silver_spot": 24.692,
-    "gs_ratio": 87.4,
+    "gs_ratio": 87.48,
     "slv_close": 22.56,
     "slv_tonnes": null
   },
@@ -105,65 +105,65 @@
   },
   {
     "date": "2024-04-05",
-    "gold_spot": 2325.7,
+    "gold_spot": 2345.4,
     "silver_spot": 27.4,
-    "gs_ratio": 84.88,
+    "gs_ratio": 85.6,
     "slv_close": 25.03,
     "slv_tonnes": null
   },
   {
     "date": "2024-04-12",
-    "gold_spot": 2356.2,
+    "gold_spot": 2374.1,
     "silver_spot": 28.255,
-    "gs_ratio": 83.39,
+    "gs_ratio": 84.02,
     "slv_close": 25.63,
     "slv_tonnes": null
   },
   {
     "date": "2024-04-19",
-    "gold_spot": 2398.4,
+    "gold_spot": 2413.8,
     "silver_spot": 28.808,
-    "gs_ratio": 83.25,
+    "gs_ratio": 83.79,
     "slv_close": 26.2,
     "slv_tonnes": null
   },
   {
     "date": "2024-04-26",
-    "gold_spot": 2334.8,
+    "gold_spot": 2347.2,
     "silver_spot": 27.241,
-    "gs_ratio": 85.71,
+    "gs_ratio": 86.16,
     "slv_close": 24.89,
     "slv_tonnes": null
   },
   {
     "date": "2024-05-03",
-    "gold_spot": 2299.0,
+    "gold_spot": 2308.6,
     "silver_spot": 26.445,
-    "gs_ratio": 86.94,
+    "gs_ratio": 87.3,
     "slv_close": 24.22,
     "slv_tonnes": null
   },
   {
     "date": "2024-05-10",
-    "gold_spot": 2367.3,
+    "gold_spot": 2375.0,
     "silver_spot": 28.275,
-    "gs_ratio": 83.72,
+    "gs_ratio": 84.0,
     "slv_close": 25.77,
     "slv_tonnes": null
   },
   {
     "date": "2024-05-17",
-    "gold_spot": 2412.2,
+    "gold_spot": 2417.4,
     "silver_spot": 31.047,
-    "gs_ratio": 77.7,
+    "gs_ratio": 77.86,
     "slv_close": 28.79,
     "slv_tonnes": null
   },
   {
     "date": "2024-05-24",
-    "gold_spot": 2332.5,
+    "gold_spot": 2334.5,
     "silver_spot": 30.33,
-    "gs_ratio": 76.9,
+    "gs_ratio": 76.97,
     "slv_close": 27.74,
     "slv_tonnes": null
   },
@@ -177,201 +177,201 @@
   },
   {
     "date": "2024-06-07",
-    "gold_spot": 2305.2,
+    "gold_spot": 2325.0,
     "silver_spot": 29.335,
-    "gs_ratio": 78.58,
+    "gs_ratio": 79.26,
     "slv_close": 26.67,
     "slv_tonnes": null
   },
   {
     "date": "2024-06-14",
-    "gold_spot": 2331.4,
+    "gold_spot": 2349.1,
     "silver_spot": 29.402,
-    "gs_ratio": 79.29,
+    "gs_ratio": 79.9,
     "slv_close": 27.01,
     "slv_tonnes": null
   },
   {
     "date": "2024-06-21",
-    "gold_spot": 2316.4,
+    "gold_spot": 2331.2,
     "silver_spot": 29.573,
-    "gs_ratio": 78.33,
+    "gs_ratio": 78.83,
     "slv_close": 26.98,
     "slv_tonnes": null
   },
   {
     "date": "2024-06-28",
-    "gold_spot": 2327.7,
+    "gold_spot": 2339.6,
     "silver_spot": 29.237,
-    "gs_ratio": 79.61,
+    "gs_ratio": 80.02,
     "slv_close": 26.57,
     "slv_tonnes": null
   },
   {
     "date": "2024-07-05",
-    "gold_spot": 2388.5,
+    "gold_spot": 2397.7,
     "silver_spot": 31.388,
-    "gs_ratio": 76.1,
+    "gs_ratio": 76.39,
     "slv_close": 28.48,
     "slv_tonnes": null
   },
   {
     "date": "2024-07-12",
-    "gold_spot": 2414.0,
+    "gold_spot": 2420.7,
     "silver_spot": 30.886,
-    "gs_ratio": 78.16,
+    "gs_ratio": 78.38,
     "slv_close": 28.12,
     "slv_tonnes": null
   },
   {
     "date": "2024-07-19",
-    "gold_spot": 2395.5,
+    "gold_spot": 2399.1,
     "silver_spot": 29.088,
-    "gs_ratio": 82.35,
+    "gs_ratio": 82.48,
     "slv_close": 26.69,
     "slv_tonnes": null
   },
   {
     "date": "2024-07-26",
-    "gold_spot": 2380.0,
+    "gold_spot": 2381.0,
     "silver_spot": 27.86,
-    "gs_ratio": 85.43,
+    "gs_ratio": 85.46,
     "slv_close": 25.48,
     "slv_tonnes": null
   },
   {
     "date": "2024-08-02",
-    "gold_spot": 2425.7,
+    "gold_spot": 2469.8,
     "silver_spot": 28.246,
-    "gs_ratio": 85.88,
+    "gs_ratio": 87.44,
     "slv_close": 26.04,
     "slv_tonnes": null
   },
   {
     "date": "2024-08-09",
-    "gold_spot": 2432.1,
+    "gold_spot": 2473.4,
     "silver_spot": 27.487,
-    "gs_ratio": 88.48,
+    "gs_ratio": 89.98,
     "slv_close": 25.0,
     "slv_tonnes": null
   },
   {
     "date": "2024-08-16",
-    "gold_spot": 2498.6,
+    "gold_spot": 2537.8,
     "silver_spot": 28.778,
-    "gs_ratio": 86.82,
+    "gs_ratio": 88.19,
     "slv_close": 26.43,
     "slv_tonnes": null
   },
   {
     "date": "2024-08-23",
-    "gold_spot": 2508.4,
+    "gold_spot": 2546.3,
     "silver_spot": 29.786,
-    "gs_ratio": 84.21,
+    "gs_ratio": 85.49,
     "slv_close": 27.2,
     "slv_tonnes": null
   },
   {
     "date": "2024-08-30",
-    "gold_spot": 2493.8,
+    "gold_spot": 2527.6,
     "silver_spot": 28.731,
-    "gs_ratio": 86.8,
+    "gs_ratio": 87.97,
     "slv_close": 26.35,
     "slv_tonnes": null
   },
   {
     "date": "2024-09-06",
-    "gold_spot": 2493.5,
+    "gold_spot": 2524.6,
     "silver_spot": 27.808,
-    "gs_ratio": 89.67,
+    "gs_ratio": 90.79,
     "slv_close": 25.48,
     "slv_tonnes": null
   },
   {
     "date": "2024-09-13",
-    "gold_spot": 2581.3,
+    "gold_spot": 2610.7,
     "silver_spot": 30.699,
-    "gs_ratio": 84.08,
+    "gs_ratio": 85.04,
     "slv_close": 28.02,
     "slv_tonnes": null
   },
   {
     "date": "2024-09-20",
-    "gold_spot": 2619.9,
+    "gold_spot": 2646.2,
     "silver_spot": 31.176,
-    "gs_ratio": 84.04,
+    "gs_ratio": 84.88,
     "slv_close": 28.41,
     "slv_tonnes": null
   },
   {
     "date": "2024-09-27",
-    "gold_spot": 2644.3,
+    "gold_spot": 2668.1,
     "silver_spot": 31.519,
-    "gs_ratio": 83.9,
+    "gs_ratio": 84.65,
     "slv_close": 28.86,
     "slv_tonnes": null
   },
   {
     "date": "2024-10-04",
-    "gold_spot": 2645.8,
+    "gold_spot": 2667.8,
     "silver_spot": 32.128,
-    "gs_ratio": 82.35,
+    "gs_ratio": 83.04,
     "slv_close": 29.36,
     "slv_tonnes": null
   },
   {
     "date": "2024-10-11",
-    "gold_spot": 2657.6,
+    "gold_spot": 2676.3,
     "silver_spot": 31.52,
-    "gs_ratio": 84.31,
+    "gs_ratio": 84.91,
     "slv_close": 28.8,
     "slv_tonnes": null
   },
   {
     "date": "2024-10-18",
-    "gold_spot": 2713.7,
+    "gold_spot": 2730.0,
     "silver_spot": 33.032,
-    "gs_ratio": 82.15,
+    "gs_ratio": 82.65,
     "slv_close": 30.64,
     "slv_tonnes": null
   },
   {
     "date": "2024-10-25",
-    "gold_spot": 2740.9,
+    "gold_spot": 2754.6,
     "silver_spot": 33.603,
-    "gs_ratio": 81.57,
+    "gs_ratio": 81.97,
     "slv_close": 30.63,
     "slv_tonnes": null
   },
   {
     "date": "2024-11-01",
-    "gold_spot": 2738.6,
+    "gold_spot": 2749.2,
     "silver_spot": 32.542,
-    "gs_ratio": 84.16,
+    "gs_ratio": 84.48,
     "slv_close": 29.54,
     "slv_tonnes": null
   },
   {
     "date": "2024-11-08",
-    "gold_spot": 2687.5,
+    "gold_spot": 2694.8,
     "silver_spot": 31.359,
-    "gs_ratio": 85.7,
+    "gs_ratio": 85.93,
     "slv_close": 28.48,
     "slv_tonnes": null
   },
   {
     "date": "2024-11-15",
-    "gold_spot": 2565.7,
+    "gold_spot": 2570.1,
     "silver_spot": 30.371,
-    "gs_ratio": 84.48,
+    "gs_ratio": 84.62,
     "slv_close": 27.57,
     "slv_tonnes": null
   },
   {
     "date": "2024-11-22",
-    "gold_spot": 2709.9,
+    "gold_spot": 2712.2,
     "silver_spot": 31.309,
-    "gs_ratio": 86.55,
+    "gs_ratio": 86.63,
     "slv_close": 28.47,
     "slv_tonnes": null
   },
@@ -385,65 +385,65 @@
   },
   {
     "date": "2024-12-06",
-    "gold_spot": 2638.6,
+    "gold_spot": 2659.6,
     "silver_spot": 31.186,
-    "gs_ratio": 84.61,
+    "gs_ratio": 85.28,
     "slv_close": 28.25,
     "slv_tonnes": null
   },
   {
     "date": "2024-12-13",
-    "gold_spot": 2656.0,
+    "gold_spot": 2675.8,
     "silver_spot": 30.655,
-    "gs_ratio": 86.64,
+    "gs_ratio": 87.29,
     "slv_close": 27.75,
     "slv_tonnes": null
   },
   {
     "date": "2024-12-20",
-    "gold_spot": 2628.7,
+    "gold_spot": 2645.1,
     "silver_spot": 29.66,
-    "gs_ratio": 88.63,
+    "gs_ratio": 89.18,
     "slv_close": 26.92,
     "slv_tonnes": null
   },
   {
     "date": "2024-12-27",
-    "gold_spot": 2617.2,
+    "gold_spot": 2631.9,
     "silver_spot": 29.655,
-    "gs_ratio": 88.25,
+    "gs_ratio": 88.75,
     "slv_close": 26.76,
     "slv_tonnes": null
   },
   {
     "date": "2025-01-03",
-    "gold_spot": 2645.0,
+    "gold_spot": 2654.7,
     "silver_spot": 29.806,
-    "gs_ratio": 88.74,
+    "gs_ratio": 89.07,
     "slv_close": 26.98,
     "slv_tonnes": null
   },
   {
     "date": "2025-01-10",
-    "gold_spot": 2708.5,
+    "gold_spot": 2715.0,
     "silver_spot": 31.091,
-    "gs_ratio": 87.12,
+    "gs_ratio": 87.32,
     "slv_close": 27.61,
     "slv_tonnes": null
   },
   {
     "date": "2025-01-17",
-    "gold_spot": 2744.3,
+    "gold_spot": 2748.7,
     "silver_spot": 30.951,
-    "gs_ratio": 88.67,
+    "gs_ratio": 88.81,
     "slv_close": 27.61,
     "slv_tonnes": null
   },
   {
     "date": "2025-01-24",
-    "gold_spot": 2777.3,
+    "gold_spot": 2778.9,
     "silver_spot": 31.023,
-    "gs_ratio": 89.52,
+    "gs_ratio": 89.58,
     "slv_close": 27.91,
     "slv_tonnes": null
   },
@@ -457,57 +457,57 @@
   },
   {
     "date": "2025-02-07",
-    "gold_spot": 2867.3,
+    "gold_spot": 2887.6,
     "silver_spot": 32.335,
-    "gs_ratio": 88.67,
+    "gs_ratio": 89.3,
     "slv_close": 29.03,
     "slv_tonnes": null
   },
   {
     "date": "2025-02-14",
-    "gold_spot": 2883.6,
+    "gold_spot": 2900.7,
     "silver_spot": 32.801,
-    "gs_ratio": 87.91,
+    "gs_ratio": 88.43,
     "slv_close": 29.31,
     "slv_tonnes": null
   },
   {
     "date": "2025-02-21",
-    "gold_spot": 2937.6,
+    "gold_spot": 2953.2,
     "silver_spot": 32.976,
-    "gs_ratio": 89.08,
+    "gs_ratio": 89.56,
     "slv_close": 29.59,
     "slv_tonnes": null
   },
   {
     "date": "2025-02-28",
-    "gold_spot": 2836.8,
+    "gold_spot": 2848.5,
     "silver_spot": 31.219,
-    "gs_ratio": 90.87,
+    "gs_ratio": 91.24,
     "slv_close": 28.31,
     "slv_tonnes": null
   },
   {
     "date": "2025-03-07",
-    "gold_spot": 2904.7,
+    "gold_spot": 2914.1,
     "silver_spot": 32.548,
-    "gs_ratio": 89.24,
+    "gs_ratio": 89.53,
     "slv_close": 29.59,
     "slv_tonnes": null
   },
   {
     "date": "2025-03-14",
-    "gold_spot": 2994.5,
+    "gold_spot": 3001.1,
     "silver_spot": 34.187,
-    "gs_ratio": 87.59,
+    "gs_ratio": 87.78,
     "slv_close": 30.71,
     "slv_tonnes": null
   },
   {
     "date": "2025-03-21",
-    "gold_spot": 3018.2,
+    "gold_spot": 3021.4,
     "silver_spot": 33.29,
-    "gs_ratio": 90.66,
+    "gs_ratio": 90.76,
     "slv_close": 30.02,
     "slv_tonnes": null
   },
@@ -521,65 +521,65 @@
   },
   {
     "date": "2025-04-04",
-    "gold_spot": 3012.0,
+    "gold_spot": 3035.4,
     "silver_spot": 29.116,
-    "gs_ratio": 103.45,
+    "gs_ratio": 104.25,
     "slv_close": 27.08,
     "slv_tonnes": null
   },
   {
     "date": "2025-04-11",
-    "gold_spot": 3222.2,
+    "gold_spot": 3244.6,
     "silver_spot": 31.824,
-    "gs_ratio": 101.25,
+    "gs_ratio": 101.95,
     "slv_close": 29.19,
     "slv_tonnes": null
   },
   {
     "date": "2025-04-18",
-    "gold_spot": 3308.7,
+    "gold_spot": 3328.4,
     "silver_spot": 32.42,
-    "gs_ratio": 102.06,
+    "gs_ratio": 102.67,
     "slv_close": 29.55,
     "slv_tonnes": null
   },
   {
     "date": "2025-04-25",
-    "gold_spot": 3282.4,
+    "gold_spot": 3298.4,
     "silver_spot": 32.989,
-    "gs_ratio": 99.5,
+    "gs_ratio": 99.98,
     "slv_close": 30.05,
     "slv_tonnes": null
   },
   {
     "date": "2025-05-02",
-    "gold_spot": 3231.9,
+    "gold_spot": 3243.3,
     "silver_spot": 31.989,
-    "gs_ratio": 101.03,
+    "gs_ratio": 101.39,
     "slv_close": 29.12,
     "slv_tonnes": null
   },
   {
     "date": "2025-05-09",
-    "gold_spot": 3335.4,
+    "gold_spot": 3344.0,
     "silver_spot": 32.676,
-    "gs_ratio": 102.07,
+    "gs_ratio": 102.34,
     "slv_close": 29.8,
     "slv_tonnes": null
   },
   {
     "date": "2025-05-16",
-    "gold_spot": 3182.0,
+    "gold_spot": 3187.2,
     "silver_spot": 32.158,
-    "gs_ratio": 98.95,
+    "gs_ratio": 99.11,
     "slv_close": 29.3,
     "slv_tonnes": null
   },
   {
     "date": "2025-05-23",
-    "gold_spot": 3363.6,
+    "gold_spot": 3365.8,
     "silver_spot": 33.442,
-    "gs_ratio": 100.58,
+    "gs_ratio": 100.65,
     "slv_close": 30.45,
     "slv_tonnes": null
   },
@@ -593,538 +593,546 @@
   },
   {
     "date": "2025-06-06",
-    "gold_spot": 3322.7,
+    "gold_spot": 3346.6,
     "silver_spot": 36.025,
-    "gs_ratio": 92.23,
+    "gs_ratio": 92.9,
     "slv_close": 32.69,
     "slv_tonnes": null
   },
   {
     "date": "2025-06-13",
-    "gold_spot": 3431.2,
+    "gold_spot": 3452.8,
     "silver_spot": 36.281,
-    "gs_ratio": 94.57,
+    "gs_ratio": 95.17,
     "slv_close": 32.97,
     "slv_tonnes": null
   },
   {
     "date": "2025-06-20",
-    "gold_spot": 3368.1,
+    "gold_spot": 3385.7,
     "silver_spot": 35.976,
-    "gs_ratio": 93.62,
+    "gs_ratio": 94.11,
     "slv_close": 32.72,
     "slv_tonnes": null
   },
   {
     "date": "2025-06-27",
-    "gold_spot": 3273.7,
+    "gold_spot": 3287.6,
     "silver_spot": 36.037,
-    "gs_ratio": 90.84,
+    "gs_ratio": 91.23,
     "slv_close": 32.62,
     "slv_tonnes": null
   },
   {
     "date": "2025-07-04",
-    "gold_spot": 3332.5,
+    "gold_spot": 3346.5,
     "silver_spot": 36.775,
-    "gs_ratio": 90.62,
+    "gs_ratio": 91.0,
     "slv_close": 33.51,
     "slv_tonnes": null
   },
   {
     "date": "2025-07-11",
-    "gold_spot": 3356.0,
+    "gold_spot": 3364.0,
     "silver_spot": 38.676,
-    "gs_ratio": 86.77,
+    "gs_ratio": 86.98,
     "slv_close": 35.03,
     "slv_tonnes": null
   },
   {
     "date": "2025-07-18",
-    "gold_spot": 3353.0,
+    "gold_spot": 3358.3,
     "silver_spot": 38.223,
-    "gs_ratio": 87.72,
+    "gs_ratio": 87.86,
     "slv_close": 34.61,
     "slv_tonnes": null
   },
   {
     "date": "2025-07-25",
-    "gold_spot": 3334.0,
+    "gold_spot": 3335.6,
     "silver_spot": 38.167,
-    "gs_ratio": 87.35,
+    "gs_ratio": 87.39,
     "slv_close": 34.66,
     "slv_tonnes": null
   },
   {
     "date": "2025-08-01",
-    "gold_spot": 3347.7,
+    "gold_spot": 3399.8,
     "silver_spot": 36.787,
-    "gs_ratio": 91.0,
+    "gs_ratio": 92.42,
     "slv_close": 33.59,
     "slv_tonnes": null
   },
   {
     "date": "2025-08-08",
-    "gold_spot": 3439.1,
+    "gold_spot": 3491.3,
     "silver_spot": 38.417,
-    "gs_ratio": 89.52,
+    "gs_ratio": 90.88,
     "slv_close": 34.88,
     "slv_tonnes": null
   },
   {
     "date": "2025-08-15",
-    "gold_spot": 3336.0,
+    "gold_spot": 3382.6,
     "silver_spot": 37.894,
-    "gs_ratio": 88.04,
+    "gs_ratio": 89.26,
     "slv_close": 34.5,
     "slv_tonnes": null
   },
   {
     "date": "2025-08-22",
-    "gold_spot": 3374.4,
+    "gold_spot": 3418.5,
     "silver_spot": 39.003,
-    "gs_ratio": 86.52,
+    "gs_ratio": 87.65,
     "slv_close": 35.34,
     "slv_tonnes": null
   },
   {
     "date": "2025-08-29",
-    "gold_spot": 3473.7,
+    "gold_spot": 3516.1,
     "silver_spot": 40.2,
-    "gs_ratio": 86.41,
+    "gs_ratio": 87.47,
     "slv_close": 36.19,
     "slv_tonnes": null
   },
   {
     "date": "2025-09-05",
-    "gold_spot": 3613.2,
+    "gold_spot": 3653.3,
     "silver_spot": 41.074,
-    "gs_ratio": 87.97,
+    "gs_ratio": 88.94,
     "slv_close": 37.21,
     "slv_tonnes": null
   },
   {
     "date": "2025-09-12",
-    "gold_spot": 3649.4,
+    "gold_spot": 3686.4,
     "silver_spot": 42.387,
-    "gs_ratio": 86.1,
+    "gs_ratio": 86.97,
     "slv_close": 38.34,
     "slv_tonnes": null
   },
   {
     "date": "2025-09-19",
-    "gold_spot": 3671.5,
+    "gold_spot": 3705.8,
     "silver_spot": 42.536,
-    "gs_ratio": 86.32,
+    "gs_ratio": 87.12,
     "slv_close": 39.04,
     "slv_tonnes": null
   },
   {
     "date": "2025-09-26",
-    "gold_spot": 3775.3,
+    "gold_spot": 3809.0,
     "silver_spot": 46.221,
-    "gs_ratio": 81.68,
+    "gs_ratio": 82.41,
     "slv_close": 41.86,
     "slv_tonnes": null
   },
   {
     "date": "2025-10-03",
-    "gold_spot": 3880.8,
+    "gold_spot": 3908.9,
     "silver_spot": 47.597,
-    "gs_ratio": 81.53,
+    "gs_ratio": 82.12,
     "slv_close": 43.52,
     "slv_tonnes": null
   },
   {
     "date": "2025-10-10",
-    "gold_spot": 3975.9,
+    "gold_spot": 4000.4,
     "silver_spot": 46.938,
-    "gs_ratio": 84.71,
+    "gs_ratio": 85.23,
     "slv_close": 45.43,
     "slv_tonnes": null
   },
   {
     "date": "2025-10-17",
-    "gold_spot": 4189.9,
+    "gold_spot": 4213.3,
     "silver_spot": 49.864,
-    "gs_ratio": 84.03,
+    "gs_ratio": 84.5,
     "slv_close": 46.99,
     "slv_tonnes": null
   },
   {
     "date": "2025-10-24",
-    "gold_spot": 4118.4,
+    "gold_spot": 4137.8,
     "silver_spot": 48.377,
-    "gs_ratio": 85.13,
+    "gs_ratio": 85.53,
     "slv_close": 43.99,
     "slv_tonnes": null
   },
   {
     "date": "2025-10-31",
-    "gold_spot": 3982.2,
+    "gold_spot": 3996.5,
     "silver_spot": 47.994,
-    "gs_ratio": 82.97,
+    "gs_ratio": 83.27,
     "slv_close": 44.01,
     "slv_tonnes": null
   },
   {
     "date": "2025-11-07",
-    "gold_spot": 3999.4,
+    "gold_spot": 4009.8,
     "silver_spot": 48.017,
-    "gs_ratio": 83.29,
+    "gs_ratio": 83.51,
     "slv_close": 43.92,
     "slv_tonnes": null
   },
   {
     "date": "2025-11-14",
-    "gold_spot": 4087.6,
+    "gold_spot": 4094.2,
     "silver_spot": 50.59,
-    "gs_ratio": 80.8,
+    "gs_ratio": 80.93,
     "slv_close": 45.96,
     "slv_tonnes": null
   },
   {
     "date": "2025-11-21",
-    "gold_spot": 4076.7,
+    "gold_spot": 4079.5,
     "silver_spot": 49.873,
-    "gs_ratio": 81.74,
+    "gs_ratio": 81.8,
     "slv_close": 45.3,
     "slv_tonnes": null
   },
   {
     "date": "2025-11-28",
-    "gold_spot": 4218.3,
+    "gold_spot": 4254.9,
     "silver_spot": 56.446,
-    "gs_ratio": 74.73,
+    "gs_ratio": 75.38,
     "slv_close": 51.21,
     "slv_tonnes": null
   },
   {
     "date": "2025-12-05",
-    "gold_spot": 4212.9,
+    "gold_spot": 4243.0,
     "silver_spot": 58.422,
-    "gs_ratio": 72.11,
+    "gs_ratio": 72.63,
     "slv_close": 52.95,
     "slv_tonnes": null
   },
   {
     "date": "2025-12-12",
-    "gold_spot": 4300.1,
+    "gold_spot": 4328.3,
     "silver_spot": 61.362,
-    "gs_ratio": 70.08,
+    "gs_ratio": 70.54,
     "slv_close": 56.1,
     "slv_tonnes": null
   },
   {
     "date": "2025-12-19",
-    "gold_spot": 4361.4,
+    "gold_spot": 4387.3,
     "silver_spot": 66.845,
-    "gs_ratio": 65.25,
+    "gs_ratio": 65.63,
     "slv_close": 60.93,
     "slv_tonnes": null
   },
   {
     "date": "2025-12-26",
-    "gold_spot": 4529.1,
+    "gold_spot": 4552.7,
     "silver_spot": 76.486,
-    "gs_ratio": 59.21,
+    "gs_ratio": 59.52,
     "slv_close": 71.12,
     "slv_tonnes": null
   },
   {
     "date": "2026-01-02",
-    "gold_spot": 4314.4,
+    "gold_spot": 4329.6,
     "silver_spot": 70.556,
-    "gs_ratio": 61.15,
+    "gs_ratio": 61.36,
     "slv_close": 65.75,
     "slv_tonnes": null
   },
   {
     "date": "2026-01-09",
-    "gold_spot": 4490.3,
+    "gold_spot": 4500.9,
     "silver_spot": 78.884,
-    "gs_ratio": 56.92,
+    "gs_ratio": 57.06,
     "slv_close": 72.38,
     "slv_tonnes": null
   },
   {
     "date": "2026-01-16",
-    "gold_spot": 4588.4,
+    "gold_spot": 4595.4,
     "silver_spot": 88.091,
-    "gs_ratio": 52.09,
+    "gs_ratio": 52.17,
     "slv_close": 81.02,
     "slv_tonnes": null
   },
   {
     "date": "2026-01-23",
-    "gold_spot": 4976.2,
+    "gold_spot": 4979.7,
     "silver_spot": 100.925,
-    "gs_ratio": 49.31,
+    "gs_ratio": 49.34,
     "slv_close": 92.91,
     "slv_tonnes": null
   },
   {
     "date": "2026-01-30",
-    "gold_spot": 4713.9,
+    "gold_spot": 4745.1,
     "silver_spot": 78.29,
-    "gs_ratio": 60.21,
+    "gs_ratio": 60.61,
     "slv_close": 75.44,
     "slv_tonnes": null
   },
   {
     "date": "2026-02-06",
-    "gold_spot": 4951.2,
+    "gold_spot": 4979.8,
     "silver_spot": 76.735,
-    "gs_ratio": 64.52,
+    "gs_ratio": 64.9,
     "slv_close": 70.19,
     "slv_tonnes": null
   },
   {
     "date": "2026-02-13",
-    "gold_spot": 5022.0,
+    "gold_spot": 5046.3,
     "silver_spot": 77.851,
-    "gs_ratio": 64.51,
+    "gs_ratio": 64.82,
     "slv_close": 69.72,
     "slv_tonnes": null
   },
   {
     "date": "2026-02-20",
-    "gold_spot": 5059.3,
+    "gold_spot": 5080.9,
     "silver_spot": 82.283,
-    "gs_ratio": 61.49,
+    "gs_ratio": 61.75,
     "slv_close": 76.62,
     "slv_tonnes": null
   },
   {
     "date": "2026-02-27",
-    "gold_spot": 5230.5,
+    "gold_spot": 5247.9,
     "silver_spot": 92.682,
-    "gs_ratio": 56.43,
+    "gs_ratio": 56.62,
     "slv_close": 84.99,
     "slv_tonnes": null
   },
   {
     "date": "2026-03-06",
-    "gold_spot": 5146.1,
+    "gold_spot": 5158.7,
     "silver_spot": 83.816,
-    "gs_ratio": 61.4,
+    "gs_ratio": 61.55,
     "slv_close": 75.94,
     "slv_tonnes": null
   },
   {
     "date": "2026-03-13",
-    "gold_spot": 5052.5,
+    "gold_spot": 5061.7,
     "silver_spot": 80.914,
-    "gs_ratio": 62.44,
+    "gs_ratio": 62.56,
     "slv_close": 72.69,
     "slv_tonnes": null
   },
   {
     "date": "2026-03-20",
-    "gold_spot": 4570.4,
+    "gold_spot": 4574.9,
     "silver_spot": 69.36,
-    "gs_ratio": 65.89,
+    "gs_ratio": 65.96,
     "slv_close": 61.52,
     "slv_tonnes": null
   },
   {
     "date": "2026-03-27",
-    "gold_spot": 4492.0,
+    "gold_spot": 4492.5,
     "silver_spot": 69.545,
-    "gs_ratio": 64.59,
+    "gs_ratio": 64.6,
     "slv_close": 63.44,
     "slv_tonnes": null
   },
   {
     "date": "2026-04-03",
-    "gold_spot": 4651.5,
+    "gold_spot": 4679.7,
     "silver_spot": 72.735,
-    "gs_ratio": 63.95,
+    "gs_ratio": 64.34,
     "slv_close": 65.79,
     "slv_tonnes": null
   },
   {
     "date": "2026-04-10",
-    "gold_spot": 4761.9,
+    "gold_spot": 4787.4,
     "silver_spot": 76.324,
-    "gs_ratio": 62.39,
+    "gs_ratio": 62.72,
     "slv_close": 69.08,
     "slv_tonnes": null
   },
   {
     "date": "2026-04-17",
-    "gold_spot": 4857.6,
+    "gold_spot": 4879.6,
     "silver_spot": 81.738,
-    "gs_ratio": 59.43,
+    "gs_ratio": 59.7,
     "slv_close": 73.63,
     "slv_tonnes": null
   },
   {
     "date": "2026-04-24",
-    "gold_spot": 4722.3,
+    "gold_spot": 4740.9,
     "silver_spot": 76.383,
-    "gs_ratio": 61.82,
+    "gs_ratio": 62.07,
     "slv_close": 68.79,
     "slv_tonnes": null
   },
   {
     "date": "2026-05-01",
-    "gold_spot": 4629.9,
+    "gold_spot": 4644.5,
     "silver_spot": 75.951,
-    "gs_ratio": 60.96,
+    "gs_ratio": 61.15,
     "slv_close": 68.29,
     "slv_tonnes": null
   },
   {
     "date": "2026-05-08",
-    "gold_spot": 4720.4,
+    "gold_spot": 4730.7,
     "silver_spot": 80.395,
-    "gs_ratio": 58.72,
+    "gs_ratio": 58.84,
     "slv_close": 73.01,
     "slv_tonnes": null
   },
   {
     "date": "2026-05-15",
-    "gold_spot": 4555.8,
+    "gold_spot": 4561.9,
     "silver_spot": 77.161,
-    "gs_ratio": 59.04,
+    "gs_ratio": 59.12,
     "slv_close": 69.04,
     "slv_tonnes": null
   },
   {
     "date": "2026-05-22",
-    "gold_spot": 4521.0,
+    "gold_spot": 4523.2,
     "silver_spot": 75.893,
-    "gs_ratio": 59.57,
+    "gs_ratio": 59.6,
     "slv_close": 68.36,
     "slv_tonnes": null
   },
   {
     "date": "2026-05-29",
-    "gold_spot": 4560.5,
+    "gold_spot": 4593.0,
     "silver_spot": 75.616,
-    "gs_ratio": 60.31,
+    "gs_ratio": 60.74,
     "slv_close": 68.33,
     "slv_tonnes": null
   },
   {
     "date": "2026-06-05",
-    "gold_spot": 4337.1,
+    "gold_spot": 4365.3,
     "silver_spot": 68.943,
-    "gs_ratio": 62.91,
+    "gs_ratio": 63.32,
     "slv_close": 61.57,
     "slv_tonnes": null
   },
   {
     "date": "2026-06-12",
-    "gold_spot": 4215.0,
+    "gold_spot": 4238.8,
     "silver_spot": 67.859,
-    "gs_ratio": 62.11,
+    "gs_ratio": 62.46,
     "slv_close": 61.29,
     "slv_tonnes": null
   },
   {
     "date": "2026-06-19",
-    "gold_spot": 4224.1,
+    "gold_spot": 4245.9,
     "silver_spot": 66.255,
-    "gs_ratio": 63.76,
+    "gs_ratio": 64.08,
     "slv_close": 59.51,
     "slv_tonnes": null
   },
   {
     "date": "2026-06-26",
-    "gold_spot": 4078.7,
+    "gold_spot": 4096.3,
     "silver_spot": 59.217,
-    "gs_ratio": 68.88,
+    "gs_ratio": 69.17,
     "slv_close": 53.28,
     "slv_tonnes": null
   },
   {
     "date": "2026-07-03",
-    "gold_spot": 4112.7,
+    "gold_spot": 4125.7,
     "silver_spot": 60.643,
-    "gs_ratio": 67.82,
+    "gs_ratio": 68.03,
     "slv_close": 55.02,
     "slv_tonnes": null
   },
   {
     "date": "2026-07-10",
-    "gold_spot": 4104.1,
+    "gold_spot": 4113.7,
     "silver_spot": 59.809,
-    "gs_ratio": 68.62,
+    "gs_ratio": 68.78,
     "slv_close": 53.95,
     "slv_tonnes": null
   },
   {
     "date": "2026-07-17",
-    "gold_spot": 4012.7,
+    "gold_spot": 4018.8,
     "silver_spot": 56.038,
-    "gs_ratio": 71.61,
+    "gs_ratio": 71.72,
     "slv_close": 50.78,
     "slv_tonnes": null
   },
   {
     "date": "2026-07-24",
-    "gold_spot": 4067.6,
+    "gold_spot": 4070.8,
     "silver_spot": 58.656,
-    "gs_ratio": 69.35,
+    "gs_ratio": 69.4,
     "slv_close": 52.59,
     "slv_tonnes": null
   },
   {
     "date": "2026-07-31",
-    "gold_spot": 4049.1,
+    "gold_spot": 4107.0,
     "silver_spot": 57.591,
-    "gs_ratio": 70.31,
+    "gs_ratio": 71.31,
     "slv_close": 52.36,
     "slv_tonnes": null
   },
   {
     "date": "2026-08-07",
-    "gold_spot": 4340.7,
+    "gold_spot": 4399.7,
     "silver_spot": 63.332,
-    "gs_ratio": 68.54,
+    "gs_ratio": 69.47,
     "slv_close": 57.5,
     "slv_tonnes": null
   },
   {
     "date": "2026-08-14",
-    "gold_spot": 4380.4,
+    "gold_spot": 4437.3,
     "silver_spot": 64.988,
-    "gs_ratio": 67.4,
+    "gs_ratio": 68.28,
     "slv_close": 58.48,
     "slv_tonnes": null
   },
   {
     "date": "2026-08-21",
-    "gold_spot": 4624.1,
+    "gold_spot": 4680.6,
     "silver_spot": 69.466,
-    "gs_ratio": 66.57,
+    "gs_ratio": 67.38,
     "slv_close": 62.72,
     "slv_tonnes": null
   },
   {
     "date": "2026-08-28",
-    "gold_spot": 4478.1,
+    "gold_spot": 4529.9,
     "silver_spot": 66.995,
-    "gs_ratio": 66.84,
+    "gs_ratio": 67.62,
     "slv_close": 60.02,
     "slv_tonnes": null
   },
   {
     "date": "2026-09-04",
-    "gold_spot": 4429.8,
+    "gold_spot": 4476.6,
     "silver_spot": 66.047,
-    "gs_ratio": 67.07,
+    "gs_ratio": 67.78,
     "slv_close": 59.82,
     "slv_tonnes": null
   },
   {
     "date": "2026-09-11",
-    "gold_spot": 4366.2,
+    "gold_spot": 4408.9,
     "silver_spot": 64.554,
-    "gs_ratio": 67.64,
+    "gs_ratio": 68.3,
     "slv_close": 58.12,
+    "slv_tonnes": null
+  },
+  {
+    "date": "2026-09-18",
+    "gold_spot": 4424.9,
+    "silver_spot": 66.556,
+    "gs_ratio": 66.48,
+    "slv_close": 59.93,
     "slv_tonnes": null
   }
 ]
